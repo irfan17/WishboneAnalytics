@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4774</billNumber>
+    <createDate>2020-10-01T04:27:10Z</createDate>
+    <updateDate>2021-05-12T04:33:04Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2020-09-30</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees />
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Air Carrier Worker Support Extension Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>8345</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-09-23</actionDate>
+          <text>Referred to the Subcommittee on Aviation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Air Carrier Worker Support Extension Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>4634</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-09-21</actionDate>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Payroll Support Program Extension Act</latestTitle>
+        <congress>116</congress>
+        <number>8504</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-10-05</actionDate>
+          <text>Referred to the Subcommittee on Aviation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 563.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2020-09-30</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2020-09-30</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarSection>2</placedOnCalendarSection>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <firstName>ROGER</firstName>
+        <middleName>F.</middleName>
+        <lastName>WICKER</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>SUSAN</firstName>
+        <middleName>MARGARET</middleName>
+        <lastName>COLLINS</lastName>
+        <party>R</party>
+        <state>ME</state>
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Labor-management relations</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Small towns</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-09-30</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-05-07T18:18:28Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Air Carrier Worker Support Extension Act of 2020</b></p> <p>This bill extends authority for the Department of the Treasury to provide financial assistance to passenger air carriers, cargo air carriers, and contractors of passenger air carriers for the continuation of payment of employee wages, salaries, and benefits.</p> <p>The maximum amounts of financial assistance that may be provided by Treasury for this purpose are $25.5 billion for passenger air carriers, $300 million for cargo air carriers, and $3 billion for contractors .</p> <p>The bill provides specific deadlines and procedures under which Treasury must provide financial assistance to air carriers and contractors.</p> <p>To be eligible for financial assistance, an air carrier or contractor must (1) agree not to reduce pay and benefits or conduct involuntary furloughs until March 31, 2021; and (2) agree, through March 31, 2022, not to repurchase stock, pay dividends, or make other capital distributions. Additionally, Treasury may require carriers that receive assistance to maintain service to points served before March 1, 2020. Such authority terminates on April 1, 2022. </p> <p>The bill limits the maximum allowable compensation of an officer or employee of an air carrier or contractor that receives assistance.</p>]]></text>
+          <updateDate>2020-09-30T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Air Carrier Worker Support Extension Act of 2020</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Air Carrier Worker Support Extension Act of 2020</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Air Carrier Worker Support Extension Act of 2020</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to provide support for air carrier workers, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Placed on Calendar Senate</type>
+        <date>2020-10-01T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4774pcs/xml/BILLS-116s4774pcs.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-10-01</actionDate>
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 563.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number />
+      </item>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0563</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

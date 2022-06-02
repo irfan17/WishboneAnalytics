@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>3042</billNumber>
+    <createDate>2019-12-13T05:42:40Z</createDate>
+    <updateDate>2021-06-11T22:01:25Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-12-12</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-12-12T20:08:43Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Small Passenger Vessel Safety Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>5413</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-12-13</actionDate>
+          <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-12-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S7029-7030)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-12-12</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>DIANNE</firstName>
+        <middleName />
+        <lastName>FEINSTEIN</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Coast guard</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Marine and inland water transportation</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-12-12</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-04-07T12:05:04Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Small Passenger Vessel Safety Act of 2019</b></p> <p>This bill applies U.S. Coast Guard regulations regarding safety management systems to small passenger vessels and requires the Coast Guard to prescribe additional regulations to secure the safety of individuals and property on board certain small passenger vessels.</p> <p>The regulations prescribed must include requirements for</p> <ul> <li>the addition of interconnected fire detection, protection, and suppression equipment, including fire extinguishers, in all areas to which passengers have access, including dining areas, sleeping quarters, and lounges;</li> <li> fire detection, protection, and suppression systems in unmanned areas with machinery or areas with other potential heat sources;</li> <li> fire detection, suppression, and control in all areas to which passengers have access, including dining areas, sleeping quarters, and lounges;</li> <li>all such vessels to have not less than two avenues of escape from all general areas accessible to passengers;</li> <li>marine firefighting training programs to improve crew member training and proficiency; and</li> <li>the handling, storage, and operation of flammable items, such as lithium ion batteries.</li> </ul>]]></text>
+          <updateDate>2019-12-12T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Small Passenger Vessel Safety Act of 2019</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Small Passenger Vessel Safety Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Small Passenger Vessel Safety Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend title 46, United States Code, to require the Secretary of the department in which the Coast Guard is operating to prescribe additional regulations to secure the safety of individuals and property on board certain small passenger vessels, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-12-12T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s3042is/xml/BILLS-116s3042is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-12-12</actionDate>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S7029-7030)</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

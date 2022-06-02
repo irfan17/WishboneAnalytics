@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>3727</billNumber>
+    <createDate>2020-05-14T04:27:12Z</createDate>
+    <updateDate>2021-06-11T22:02:06Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2020-05-13</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2020-05-13T21:49:07Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Cash Refunds for Coronavirus Cancellations Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>6965</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-05-26</actionDate>
+          <text>Referred to the Subcommittee on Aviation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-05-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2020-05-13</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>EDWARD</firstName>
+        <middleName>J.</middleName>
+        <lastName>MARKEY</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <middleName />
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <middleName>A.</middleName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <middleName />
+        <lastName>Murphy</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H001075</bioguideId>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <firstName>Kamala</firstName>
+        <middleName>D.</middleName>
+        <lastName>Harris</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2301</lisID>
+          <bioguideId>H001075</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <middleName />
+        <lastName>Whitehouse</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-05-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>U000039</bioguideId>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <firstName>TOM</firstName>
+        <middleName />
+        <lastName>UDALL</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-06-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H001046</bioguideId>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <firstName>Martin</firstName>
+        <middleName />
+        <lastName>Heinrich</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-06-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Transportation costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-05-13</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-06-19T12:18:51Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Cash Refunds for Coronavirus Cancellations Act of 2020</b></p> <p>This bill requires air carriers and ticket agents to offer full cash refunds for all cancelled tickets during the COVID-19 (i.e., coronavirus disease 2019) emergency period, regardless of whether the air carrier cancelled an entire flight or the passengers cancelled their individual tickets.</p> <p>The bill permits air carriers and tickets agents to offer alternative forms of compensation, including credit, or vouchers, provided that such offer is valid indefinitely and the offer includes a clear and conspicuous notice of the passenger's right to a cash refund.</p> <p>Additionally, the bill provides that passengers who received an alternative form of compensation prior to the enactment of this bill, but have not used it, may request a cash refund to replace the alternative compensation.</p>]]></text>
+          <updateDate>2020-05-13T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Cash Refunds for Coronavirus Cancellations Act of 2020</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Cash Refunds for Coronavirus Cancellations Act of 2020</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Cash Refunds for Coronavirus Cancellations Act of 2020</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to provide for cash refunds for canceled airline flights and tickets during the COVID-19 emergency.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2020-05-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s3727is/xml/BILLS-116s3727is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-05-13</actionDate>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

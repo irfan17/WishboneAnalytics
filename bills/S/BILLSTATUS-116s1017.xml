@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1017</billNumber>
+    <createDate>2019-04-04T05:12:08Z</createDate>
+    <updateDate>2021-06-11T21:58:50Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-04-03</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-03T22:56:56Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S2242-2243)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <firstName>RICHARD</firstName>
+        <middleName>J.</middleName>
+        <lastName>DURBIN</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>K000384</bioguideId>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <firstName>Timothy</firstName>
+        <middleName />
+        <lastName>Kaine</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aging</name>
+          </item>
+          <item>
+            <name>Family services</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-04-03</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-02-18T23:55:53Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Supporting America's Caregivers and Families Act</b></p> <p>This bill reauthorizes through FY2024, and modifies, programs for family caregivers of older adults, including with respect to caregiver assessment tools and capacity-building for aging networks. It also establishes the National Family Caregiver Resource and Technical Assistance Center to support state and local agencies, community-based providers, and family caregivers.</p> <p>Specifically, the Administration on Aging must develop a strategy to increase the use of caregiver assessment tools and conduct a study that addresses, among other topics, the feasibility of mandating the use of such tools. Additionally, states must report on the mechanisms they use to assess the needs of caregivers. </p> <p>The bill also provides statutory authority for certain activities to build the business acumen and related skills of aging networks to increase their capacity to serve older adults and caregivers.</p>]]></text>
+          <updateDate>2019-04-03T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Supporting America's Caregivers and Families Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Supporting America's Caregivers and Families Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Older Americans Act of 1965 in order to address the needs of caregivers, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Supporting America's Caregivers and Families Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-04-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1017is/xml/BILLS-116s1017is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-04-03</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S2242-2243)</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4242</billNumber>
+    <createDate>2020-07-22T04:28:15Z</createDate>
+    <updateDate>2021-06-11T22:02:58Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2020-07-21</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2020-07-21T20:44:42Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Addiction Prevention and Responsible Opioid Practices Act</latestTitle>
+        <congress>116</congress>
+        <number>7701</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-07-21</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-07-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (text: CR S4351-4354)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2020-07-21</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <firstName>RICHARD</firstName>
+        <middleName>J.</middleName>
+        <lastName>DURBIN</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative treatments</name>
+          </item>
+          <item>
+            <name>Business ethics</name>
+          </item>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Marketing and advertising</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Medical ethics</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Military medicine</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-07-21</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-02-23T16:20:02Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Addiction Prevention and Responsible Opioid Practices Act</b></p> <p>This bill addresses substance use and mental health related to opiods, including by imposing an excise tax on opioids; modifying controlled substances regulations, prescription drug monitoring programs (PDMPs), and health insurance coverage; and requiring other activities.</p> <p>Specifically, the bill (1) establishes federal licensure requirements for pharmaceutical representatives who market opioids, (2) requires certain training and PDMP participation as conditions for controlled substance registration, and (3) withdraws regulatory approval for opioids with ultra-high doses.</p> <p>In addition, as a condition for receiving certain grants, recipients must, for example, mandate the use of PDMPs in specified ways and increase data-sharing. Additionally, to meet certain certification standards, health information technology must be interoperable with PDMPs.</p> <p>Additionally, the Centers for Medicare &amp; Medicaid Services (CMS) must reimburse mental health services provided through telehealth under Medicare and develop a web-based tool to compare opioid prescribing in state Medicaid programs. The bill also creates grants to support compliance with requirements to provide parity in insurance coverage for mental health and substance use disorder services. The Government Accountability Office must study health care coverage and reimbursements for substance use disorder treatments.</p> <p>Furthermore, the Department of Health and Human Services and the CMS must develop quality measures and guidelines for treatment of non-fatal overdoses, and the Department of Justice must operate a drug take-back program. The National Academies of Sciences, Engineering, and Medicine and medical and dental schools must also report on Medicare coverage of non-opioid treatment for back pain and educational courses on pain management and opioid prescribing practices, respectively.</p>]]></text>
+          <updateDate>2020-07-21T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Addiction Prevention and Responsible Opioid Practices Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Addiction Prevention and Responsible Opioid Practices Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Addiction Prevention and Responsible Opioid Practices Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to establish programs related to prevention of prescription opioid misuse, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2020-07-21T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4242is/xml/BILLS-116s4242is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-07-21</actionDate>
+      <text>Read twice and referred to the Committee on Finance. (text: CR S4351-4354)</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

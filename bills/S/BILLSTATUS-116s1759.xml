@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1759</billNumber>
+    <createDate>2019-06-11T04:42:11Z</createDate>
+    <updateDate>2020-10-26T21:18:34Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-06-10</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-06-19T19:26:24Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-06-19T13:30:46Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-10T20:14:54Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>To designate the facility of the United States Postal Service located at 456 North Meridian Street in Indianapolis, Indiana, as the "Richard G. Lugar Post Office".</latestTitle>
+        <congress>116</congress>
+        <number>3152</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-10-17</actionDate>
+          <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 248.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>A bill to designate the facility of the United States Postal Service located at 456 North Meridian Street in Indianapolis, Indiana, as the "Richard G. Lugar Post Office".</latestTitle>
+        <congress>116</congress>
+        <number>3105</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-10-01</actionDate>
+          <text>Became Public Law No: 116-161.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-08-02</actionDate>
+        <actionTime>14:08:57</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-08-02</actionDate>
+        <actionTime>11:02:18</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-07-31</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-07-30</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S5204-5205; text: CR S5205)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-07-30</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5204-5205; text: CR S5205)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 122.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <links />
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-06-10</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001310</bioguideId>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+        <firstName>Mike</firstName>
+        <middleName />
+        <lastName>Braun</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <lisID>2462</lisID>
+          <bioguideId>B001310</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>Y000064</bioguideId>
+        <fullName>Sen. Young, Todd [R-IN]</fullName>
+        <firstName>Todd</firstName>
+        <middleName />
+        <lastName>Young</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <lisID>2019</lisID>
+          <bioguideId>Y000064</bioguideId>
+          <gpoId>7948</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Indiana</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-06-10</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-06-11T08:01:56Z</lastSummaryUpdateDate>
+          <text><![CDATA[Designates the facility of the United States Postal Service located at 456 North Meridian Street in Indianapolis, Indiana, as the "Richard G. Lugar Post Office Building."]]></text>
+          <updateDate>2019-06-10T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A bill to designate the facility of the United States Postal Service located at 456 North Meridian Street in Indianapolis, Indiana, as the "Richard G. Lugar Post Office Building".</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to designate the facility of the United States Postal Service located at 456 North Meridian Street in Indianapolis, Indiana, as the "Richard G. Lugar Post Office Building".</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to designate the facility of the United States Postal Service located at 456 North Meridian Street in Indianapolis, Indiana, as the "Richard G. Lugar Post Office Building".</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2019-07-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1759es/xml/BILLS-116s1759es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-06-19T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1759rs/xml/BILLS-116s1759rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-06-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1759is/xml/BILLS-116s1759is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-08-02</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>14:08:57</actionTime>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0122</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

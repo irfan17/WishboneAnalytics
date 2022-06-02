@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4075</billNumber>
+    <createDate>2020-06-26T04:42:09Z</createDate>
+    <updateDate>2021-06-11T22:02:49Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2020-06-25</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2020-08-06T21:58:19Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2020-06-25T18:59:53Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>RLF Act</latestTitle>
+        <congress>116</congress>
+        <number>7388</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-06-29</actionDate>
+          <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-10-30</actionDate>
+        <links />
+        <text>Became Public Law No: 116-192.</text>
+        <type>President</type>
+        <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-30</actionDate>
+        <links />
+        <text>Became Public Law No: 116-192.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-30</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>President</type>
+        <actionCode>E30000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-30</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-20</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>Floor</type>
+        <actionCode>E20000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-20</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>President</type>
+        <actionCode>28000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <actionTime>16:17:47</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <actionTime>16:17:44</actionTime>
+        <links />
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5189-5190)</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <actionTime>16:17:44</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <actionTime>16:13:06</actionTime>
+        <links />
+        <text>DEBATE - The House proceeded with forty minutes of debate on S. 4075.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <actionTime>16:13:04</actionTime>
+        <links />
+        <text>Considered under suspension of the rules. (consideration: CR H5189-5190)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <actionTime>16:12:19</actionTime>
+        <links />
+        <text>Mr. Carbajal moved to suspend the rules and pass the bill.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-08-14</actionDate>
+        <actionTime>14:26:59</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-08-14</actionDate>
+        <actionTime>14:04:00</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-08-11</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-08-06</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (text: CR S5346)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-08-06</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5346)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-08-06</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S5346)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2020-08-06</actionDate>
+        <links />
+        <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2020-06-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2020-06-25</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <publicLawOrPrivateLaw>1</publicLawOrPrivateLaw>
+        <becamePublicLaw>2</becamePublicLaw>
+        <signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>1</signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>
+        <presentedToPresident>2</presentedToPresident>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <considerationByHouse>1</considerationByHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+        <senate>7</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001047</bioguideId>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <firstName>SHELLEY</firstName>
+        <middleName>MOORE</middleName>
+        <lastName>CAPITO</lastName>
+        <party>R</party>
+        <state>WV</state>
+        <identifiers>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <firstName>BENJAMIN</firstName>
+        <middleName>L.</middleName>
+        <lastName>CARDIN</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>D000618</bioguideId>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <firstName>Steve</firstName>
+        <middleName />
+        <lastName>Daines</lastName>
+        <party>R</party>
+        <state>MT</state>
+        <identifiers>
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-07-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <firstName>Jon</firstName>
+        <middleName />
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <state>MT</state>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-07-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <firstName>ROGER</firstName>
+        <middleName>F.</middleName>
+        <lastName>WICKER</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-07-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000384</bioguideId>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <firstName>Timothy</firstName>
+        <middleName />
+        <lastName>Kaine</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-07-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <middleName />
+        <lastName>Smith</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-08-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <middleName />
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-08-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>E000295</bioguideId>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <firstName>Joni</firstName>
+        <middleName />
+        <lastName>Ernst</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-08-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <firstName>Joe</firstName>
+        <middleName />
+        <lastName>Manchin</lastName>
+        <party>D</party>
+        <state>WV</state>
+        <identifiers>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-08-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>116-192</number>
+      </item>
+    </laws>
+    <notes />
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Credit and credit markets</name>
+          </item>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Economic performance and conditions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-06-25</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-11-16T18:48:06Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Reinvigorating Lending for the Future Act or the RLF Act</b></p> <p>This bill reduces reporting requirements for recipients of Revolving Loan Fund grants, which provide funds to capitalize lending programs for businesses that cannot obtain traditional bank financing.</p> <p>Specifically, upon request by a qualifying grantee, the Economic Development Administration (EDA) must release any federal interest in a grant&#8212;thereby relieving the grantee of associated federal reporting requirements&#8212;if the request is made at least seven years after the final disbursement of the original grant. Currently, the EDA may release the federal interest in a grant beginning 20 years after the grant was awarded. </p>]]></text>
+          <updateDate>2020-06-25T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2020-08-06</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-11-24T15:55:39Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Reinvigorating Lending for the Future Act or the RLF Act</b></p> <p>This bill reduces reporting requirements for recipients of Revolving Loan Fund grants, which provide funds to capitalize lending programs for businesses that cannot obtain traditional bank financing.</p> <p>Specifically, upon request by a qualifying grantee, the Economic Development Administration (EDA) must release any federal interest in a grant&#8212;thereby relieving the grantee of associated federal reporting requirements&#8212;if the request is made at least seven years after the final disbursement of the original grant. Currently, the EDA may release the federal interest in a grant beginning 20 years after the grant was awarded. </p>]]></text>
+          <updateDate>2020-08-06T12:07:24Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+        <item>
+          <versionCode>53</versionCode>
+          <actionDate>2020-10-01</actionDate>
+          <actionDesc>Passed House</actionDesc>
+          <lastSummaryUpdateDate>2020-11-27T16:19:59Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Reinvigorating Lending for the Future Act or the RLF Act</b></p> <p>This bill reduces reporting requirements for recipients of Revolving Loan Fund grants, which provide funds to capitalize lending programs for businesses that cannot obtain traditional bank financing.</p> <p>Specifically, upon request by a qualifying grantee, the Economic Development Administration (EDA) must release any federal interest in a grant&#8212;thereby relieving the grantee of associated federal reporting requirements&#8212;if the request is made at least seven years after the final disbursement of the original grant. Currently, the EDA may release the federal interest in a grant beginning 20 years after the grant was awarded. </p>]]></text>
+          <updateDate>2020-10-01T11:36:29Z</updateDate>
+          <name>Passed House</name>
+        </item>
+        <item>
+          <versionCode>49</versionCode>
+          <actionDate>2020-10-30</actionDate>
+          <actionDesc>Public Law</actionDesc>
+          <lastSummaryUpdateDate>2020-11-27T16:23:34Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Reinvigorating Lending for the Future Act or the RLF Act</b></p> <p>This bill reduces reporting requirements for recipients of Revolving Loan Fund grants, which provide funds to capitalize lending programs for businesses that cannot obtain traditional bank financing.</p> <p>Specifically, upon request by a qualifying grantee, the Economic Development Administration (EDA) must release any federal interest in a grant&#8212;thereby relieving the grantee of associated federal reporting requirements&#8212;if the request is made at least seven years after the final disbursement of the original grant. Currently, the EDA may release the federal interest in a grant beginning 20 years after the grant was awarded. </p>]]></text>
+          <updateDate>2020-10-31T03:59:58Z</updateDate>
+          <name>Public Law</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>RLF Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>RLF Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Reinvigorating Lending for the Future Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>RLF Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Reinvigorating Lending for the Future Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>RLF Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Reinvigorating Lending for the Future Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Reinvigorating Lending for the Future Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>RLF Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>RLF Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Public Works and Economic Development Act of 1965 to provide for the release of certain Federal interests in connection with certain grants under that Act, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date />
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4075enr/xml/BILLS-116s4075enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2020-08-06T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4075es/xml/BILLS-116s4075es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2020-06-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4075is/xml/BILLS-116s4075is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-10-30</actionDate>
+      <text>Became Public Law No: 116-192.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

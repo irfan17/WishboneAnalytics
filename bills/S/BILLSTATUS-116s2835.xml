@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2835</billNumber>
+    <createDate>2019-11-13T05:27:30Z</createDate>
+    <updateDate>2021-06-11T22:01:09Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-11-12</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-11-12T22:44:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2019-11-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbk00</systemCode>
+            <name>Banking, Housing, and Urban Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-11-12</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <firstName>Jacklyn</firstName>
+        <middleName />
+        <lastName>Rosen</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <lisID>2339</lisID>
+          <bioguideId>R000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>R000307</bioguideId>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <firstName>PAT</firstName>
+        <middleName />
+        <lastName>ROBERTS</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-11-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001197</bioguideId>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <firstName>Martha</firstName>
+        <middleName />
+        <lastName>McSally</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-11-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <firstName>Kevin</firstName>
+        <middleName />
+        <lastName>Cramer</lastName>
+        <party>R</party>
+        <state>ND</state>
+        <identifiers>
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-03-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-11-12</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-01-19T19:50:17Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong></strong><strong></strong></p> <p><b>Access to Affordable Housing for Veterans Act of 2019 </b></p> <p>This bill provides additional notifications to service members regarding home loans available through the Department of Veterans Affairs (VA).</p> <p> The bill requires a Federal Housing Administration mortgage notice to a veteran to contain comparative rate and fee information about VA home loans. </p> <p>The uniform residential loan application developed by Fannie Mae and Freddie Mac must include a check box to indicate that the applicant is a veteran, the statement &quot;If you are a veteran, you may be eligible for a VA mortgage,&quot; and a place to acknowledge such statement. </p> <p>Preseparation counseling for a service member prior to discharge from active duty must include information regarding </p> <ul> <li>the authority of a member to use an honorable discharge certificate as a certificate of eligibility for a VA guaranteed housing loan or to request a specific certificate of eligibility for such loan, and </li> <li>counseling on responsible borrowing practices. </li> </ul>]]></text>
+          <updateDate>2019-11-12T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Access to Affordable Housing for Veterans Act of 2019</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Access to Affordable Housing for Veterans Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Access to Affordable Housing for Veterans Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to include information regarding VA home loans in the Informed Consumer Choice Disclosure required to be provided to a prospective FHA borrower who is a veteran, to amend title 10, United States Code, to authorize the provision of a certificate of eligibility for VA home loans during the preseparation counseling for members of the Armed Forces, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-11-12T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2835is/xml/BILLS-116s2835is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-11-12</actionDate>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

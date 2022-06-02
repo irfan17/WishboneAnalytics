@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1029</billNumber>
+    <createDate>2019-04-05T04:42:09Z</createDate>
+    <updateDate>2021-06-11T21:58:51Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-04-04</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2020-01-30T22:14:14Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-12-23T16:52:05Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2019-12-20T00:40:57Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-04T15:50:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Courthouse Dogs Act</latestTitle>
+        <congress>116</congress>
+        <number>5403</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-01-28</actionDate>
+          <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-01-30</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju08</systemCode>
+            <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-12-23</actionDate>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-12-23</actionDate>
+        <actionTime>11:03:04</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-23</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-12-19</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S7233-7234)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-12-19</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S7233-7234)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-19</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S7233-7234)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-12-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2019-12-19</actionDate>
+        <links />
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+        <senate>8</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <firstName>John</firstName>
+        <middleName />
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>DIANNE</firstName>
+        <middleName />
+        <lastName>FEINSTEIN</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <middleName>A.</middleName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-12-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001243</bioguideId>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <firstName>Marsha</firstName>
+        <middleName />
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-12-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>E000295</bioguideId>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <firstName>Joni</firstName>
+        <middleName />
+        <lastName>Ernst</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-12-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Service animals</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-04-04</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-01-16T22:28:17Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Dogs as Witness Guardians Act or the DAWG Act</b></p> <p>This bill authorizes federal courts to allow a certified facility dog to accompany a witness testifying in a criminal proceeding.</p>]]></text>
+          <updateDate>2019-04-04T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2019-12-19</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-01-23T22:55:52Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Courthouse Dogs Act</b></p> <p>This bill authorizes federal courts to allow a certified facility dog to accompany a witness testifying in a criminal proceeding.</p>]]></text>
+          <updateDate>2019-12-19T15:11:50Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Courthouse Dogs Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>DAWG Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Dogs as Witness Guardians Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Courthouse Dogs Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Courthouse Dogs Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to allow the use of certified facility dogs in criminal proceedings in Federal courts, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>1274</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2019-12-19</actionDate>
+          <text>Amendment SA 1274 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <number>1274</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2019-12-20T06:01:16Z</createDate>
+        <updateDate>2021-06-11T21:58:51Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>C001056</bioguideId>
+            <fullName>Sen. Cornyn, John [R-TX]</fullName>
+            <firstName>John</firstName>
+            <middleName />
+            <lastName>Cornyn</lastName>
+            <party>R</party>
+            <state>TX</state>
+            <identifiers>
+              <lisID>1692</lisID>
+              <bioguideId>C001056</bioguideId>
+              <gpoId>8295</gpoId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate>2019-12-19T05:00:00Z</proposedDate>
+        <submittedDate>2019-12-19T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>1029</number>
+          <title>Courthouse Dogs Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2019-12-19</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1274 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2019-12-19</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1274 proposed by Senator McConnell for Senator Cornyn. (consideration: CR  S7233; text: CR S7233) In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2019-12-19</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-12-19</actionDate>
+              <links />
+              <text>Senate amendment proposed (on the floor): Amendment SA 1274 proposed by Senator McConnell for Senator Cornyn.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-19</actionDate>
+              <links />
+              <text>Senate amendment agreed to: Amendment SA 1274 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-19</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Referred in House</type>
+        <date>2019-12-23T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1029rfh/xml/BILLS-116s1029rfh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2019-12-19T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1029es/xml/BILLS-116s1029es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-04-04T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1029is/xml/BILLS-116s1029is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-01-30</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

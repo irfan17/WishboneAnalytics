@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>553</billNumber>
+    <createDate>2019-02-27T05:25:07Z</createDate>
+    <updateDate>2021-06-11T21:58:06Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-02-26</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-12-17T22:17:24Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-07-10T14:00:40Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-26T15:37:01Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-177</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Blockchain Promotion Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>1361</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-02-27</actionDate>
+          <text>Referred to the Subcommittee on Communications and Technology.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-12-17</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 373.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-12-17</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. With written report No. 116-177.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-12-17</actionDate>
+        <links />
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. With written report No. 116-177.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-07-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-26</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-26</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>Y000064</bioguideId>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <firstName>Todd</firstName>
+        <middleName>C.</middleName>
+        <lastName>Young</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <lisID>2019</lisID>
+          <bioguideId>Y000064</bioguideId>
+          <gpoId>7948</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>EDWARD</firstName>
+        <middleName>J.</middleName>
+        <lastName>MARKEY</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-07-24T15:44:29Z</pubDate>
+        <title>S. 553, Blockchain Promotion Act of 2019</title>
+        <url>https://www.cbo.gov/publication/55484</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Currency</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-26</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-10-09T20:48:50Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Blockchain Promotion Act of 2019</b></p> <p>This bill directs the Department of Commerce to establish the Blockchain Working Group to submit a report to Congress which contains a recommended definition of the distributed ledger technology commonly referred to as blockchain technology, and other specified recommendations regarding this technology. </p>]]></text>
+          <updateDate>2019-02-26T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2019-12-17</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-12-11T21:00:48Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Blockchain Promotion Act of 2019</b></p> <p>This bill directs the Department of Commerce to establish the Blockchain Working Group to submit a report to Congress which contains a recommended definition of the distributed ledger technology commonly referred to as blockchain technology, and other specified recommendations regarding this technology. </p> <p>Members of the working group shall serve without receiving any pay. </p>]]></text>
+          <updateDate>2019-12-17T14:06:27Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Blockchain Promotion Act of 2019</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Blockchain Promotion Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Blockchain Promotion Act of 2019</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to direct the Secretary of Commerce to establish a working group to recommend to Congress a definition of blockchain technology, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Blockchain Promotion Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-12-17T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s553rs/xml/BILLS-116s553rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-02-26T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s553is/xml/BILLS-116s553is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-12-17</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 373.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0373</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

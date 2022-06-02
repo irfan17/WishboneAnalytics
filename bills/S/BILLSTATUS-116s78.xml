@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>78</billNumber>
+    <createDate>2019-01-11T05:40:17Z</createDate>
+    <updateDate>2021-06-11T21:58:25Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-01-10</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>ssga19</systemCode>
+              <name>Regulatory Affairs and Federal Management Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2019-05-22T18:31:44Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-10T17:45:56Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>sssb00</systemCode>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2019-05-22T18:30:44Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Hearing Small Businesses Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>4601</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-10-28</actionDate>
+          <text>Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga19</systemCode>
+            <name>Regulatory Affairs and Federal Management Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs Subcommittee on Regulatory Affairs and Federal Management. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>sssb00</systemCode>
+            <name>Small Business and Entrepreneurship Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-01-10</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>2</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <middleName />
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>E000295</bioguideId>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <firstName>Joni</firstName>
+        <middleName />
+        <lastName>Ernst</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-01-10</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000584</bioguideId>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <firstName>James</firstName>
+        <middleName>E.</middleName>
+        <lastName>Risch</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-03-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Economic performance and conditions</name>
+          </item>
+          <item>
+            <name>Internal Revenue Service (IRS)</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-10</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-10-10T16:26:39Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Hearing Small Businesses Act of 2019</b></p> <p>This bill requires the U.S. Fish and Wildlife Service and the Internal Revenue Service to seek and consider the advice of small entities about a proposed or interim final rule before publishing the rule if the rule will have a significant economic impact on a substantial number of small entities.</p>]]></text>
+          <updateDate>2019-01-10T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Hearing Small Businesses Act of 2019</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Hearing Small Businesses Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to ensure a complete analysis of the potential impacts of rules on small entities.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Hearing Small Businesses Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-01-10T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s78is/xml/BILLS-116s78is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-05-22</actionDate>
+      <text>Committee on Homeland Security and Governmental Affairs Subcommittee on Regulatory Affairs and Federal Management. Hearings held.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>439</billNumber>
+    <createDate>2019-02-13T05:40:23Z</createDate>
+    <updateDate>2021-06-11T22:03:09Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-02-12</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-12-23T16:38:34Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <name>Committee on House Administration</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-12-23T16:38:33Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-10-28T22:20:54Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-07-24T13:30:08Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-12T16:02:23Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-153</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2019-12-23</actionDate>
+        <links />
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-12-23</actionDate>
+        <links />
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-12-23</actionDate>
+        <actionTime>11:03:03</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-23</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-12-19</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S7229)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-12-19</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S7229)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-19</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S7229)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-10-28</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 274.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-10-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-153.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-10-28</actionDate>
+        <links />
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-153.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-07-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-12</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+        <senate>10</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001310</bioguideId>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+        <firstName>Mike</firstName>
+        <middleName />
+        <lastName>Braun</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <lisID>2462</lisID>
+          <bioguideId>B001310</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S001217</bioguideId>
+        <fullName>Sen. Scott, Rick  [R-FL]</fullName>
+        <firstName>Rick</firstName>
+        <middleName />
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2470</lisID>
+          <bioguideId>S001217</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-10-16T23:27:00Z</pubDate>
+        <title>S. 439, End Plush Retirements Act</title>
+        <url>https://www.cbo.gov/publication/55733</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-12</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-03-20T19:26:46Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>End Plush Retirements Act</b></p> <p>This bill allows future Members of the House of Representatives to opt out of the Federal Employees Retirement System, an option currently available to Members of the House who began serving before September 30, 2003, and all Senators. In addition, it permits Members of Congress who opt out to continue to participate in the Thrift Savings Plan.</p>]]></text>
+          <updateDate>2019-02-12T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2019-10-28</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-03-20T21:30:32Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>End Plush Retirements Act</b></p> <p>This bill allows future Members of the House of Representatives to opt out of the Federal Employees Retirement System, an option currently available to Members of the House who began serving before September 30, 2003, and all Senators. In addition, it permits Members of Congress who opt out to continue to participate in the Thrift Savings Plan.</p>]]></text>
+          <updateDate>2019-10-28T12:41:11Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2019-12-19</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-03-20T21:28:51Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Members of Congress Pension Opt Out Clarification Act</b></p> <p>This bill allows future Members of the House of Representatives to opt out of the Federal Employees Retirement System, an option currently available to Members of the House who began serving before September 30, 2003, and all Senators. In addition, it permits Members of Congress who opt out to continue to participate in the Thrift Savings Plan.</p>]]></text>
+          <updateDate>2019-12-19T15:09:11Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Members of Congress Pension Opt Out Clarification Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>End Plush Retirements Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>End Plush Retirements Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Members of Congress Pension Opt Out Clarification Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Members of Congress Pension Opt Out Clarification Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to allow Members of Congress to opt out of the Federal Employees Retirement System, and allow Members who opt out of the Federal Employees Retirement System to continue to participate in the Thrift Savings Plan.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>1270</number>
+        <description />
+        <purpose>To improve the bill.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2019-12-19</actionDate>
+          <text>Amendment SA 1270 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <number>1270</number>
+        <description />
+        <purpose>To improve the bill.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2019-12-20T06:01:15Z</createDate>
+        <updateDate>2021-06-11T22:03:09Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>C000141</bioguideId>
+            <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+            <firstName>BENJAMIN</firstName>
+            <middleName>L.</middleName>
+            <lastName>CARDIN</lastName>
+            <party>D</party>
+            <state>MD</state>
+            <identifiers>
+              <lisID>174</lisID>
+              <bioguideId>C000141</bioguideId>
+              <gpoId>8287</gpoId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate>2019-12-19T05:00:00Z</proposedDate>
+        <submittedDate>2019-12-19T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>439</number>
+          <title>Members of Congress Pension Opt Out Clarification Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2019-12-19</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1270 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2019-12-19</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1270 proposed by Senator McConnell for Senator Cardin. (consideration: CR S7229; text: CR S7229) To improve the bill.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2019-12-19</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-12-19</actionDate>
+              <links />
+              <text>Senate amendment agreed to: Amendment SA 1270 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-19</actionDate>
+              <links />
+              <text>Senate amendment proposed (on the floor): Amendment SA 1270 proposed by Senator McConnell for Senator Cardin.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-19</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Referred in House</type>
+        <date>2019-12-23T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s439rfh/xml/BILLS-116s439rfh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2019-12-19T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s439es/xml/BILLS-116s439es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-10-28T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s439rs/xml/BILLS-116s439rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-02-12T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s439is/xml/BILLS-116s439is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-12-23</actionDate>
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0274</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

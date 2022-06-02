@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2166</billNumber>
+    <createDate>2019-07-19T04:42:20Z</createDate>
+    <updateDate>2021-06-11T22:00:16Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-07-18</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-12-19T20:14:16Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-07-24T20:08:13Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-18T17:11:07Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-185</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Regional Ocean Partnership Act</latestTitle>
+        <congress>116</congress>
+        <number>5390</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-11-17</actionDate>
+          <text>Committee Hearings Held.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>OCEAN Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>5056</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-12-17</actionDate>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-12-19</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 396.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-12-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-185.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-12-19</actionDate>
+        <links />
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-185.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-07-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-07-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-07-18</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <firstName>ROGER</firstName>
+        <middleName>F.</middleName>
+        <lastName>WICKER</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>J000300</bioguideId>
+        <fullName>Sen. Jones, Doug [D-AL]</fullName>
+        <firstName>Doug</firstName>
+        <middleName />
+        <lastName>Jones</lastName>
+        <party>D</party>
+        <state>AL</state>
+        <identifiers>
+          <lisID>2364</lisID>
+          <bioguideId>J000300</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001075</bioguideId>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <firstName>Bill</firstName>
+        <middleName />
+        <lastName>Cassidy</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>SUSAN</firstName>
+        <middleName>MARGARET</middleName>
+        <lastName>COLLINS</lastName>
+        <party>R</party>
+        <state>ME</state>
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C000127</bioguideId>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <firstName>MARIA</firstName>
+        <middleName />
+        <lastName>CANTWELL</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <lisID>172</lisID>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>EDWARD</firstName>
+        <middleName>J.</middleName>
+        <lastName>MARKEY</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000393</bioguideId>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <firstName>John</firstName>
+        <middleName>Neely</middleName>
+        <lastName>Kennedy</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <lisID>2303</lisID>
+          <bioguideId>K000393</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <middleName />
+        <lastName>Murphy</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-09-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <middleName />
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-10-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-09-11T15:28:50Z</pubDate>
+        <title>S. 2166, Regional Ocean Partnership Act</title>
+        <url>https://www.cbo.gov/publication/55614</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alabama</name>
+          </item>
+          <item>
+            <name>Aquatic ecology</name>
+          </item>
+          <item>
+            <name>Atlantic Coast (U.S.)</name>
+          </item>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Connecticut</name>
+          </item>
+          <item>
+            <name>Delaware</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Environmental education</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Florida</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Gulf of Mexico</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Louisiana</name>
+          </item>
+          <item>
+            <name>Maine</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Maryland</name>
+          </item>
+          <item>
+            <name>Massachusetts</name>
+          </item>
+          <item>
+            <name>Mississippi</name>
+          </item>
+          <item>
+            <name>New Hampshire</name>
+          </item>
+          <item>
+            <name>New Jersey</name>
+          </item>
+          <item>
+            <name>New York State</name>
+          </item>
+          <item>
+            <name>Oregon</name>
+          </item>
+          <item>
+            <name>Pacific Ocean</name>
+          </item>
+          <item>
+            <name>Rhode Island</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+          <item>
+            <name>Vermont</name>
+          </item>
+          <item>
+            <name>Virginia</name>
+          </item>
+          <item>
+            <name>Washington State</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-07-18</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-04-24T02:29:02Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Regional Ocean Partnership Act </b></p> <p>This bill provides a mechanism for coastal states to participate in a Regional Ocean Partnership with one or more other coastal states that share a common ocean or coastal area.</p> <p>Specifically, the National Oceanic and Atmospheric Administration may designate a partnership as a Regional Ocean Partnership if it (1) is established to coordinate the management of coastal resources, (2) focuses on the environmental issues affecting the ocean and coastal areas of the coastal states participating in the partnership, (3) does not have a regulatory function, and (4) is not duplicative of an existing Regional Ocean Partnership.</p> <p>A Regional Ocean Partnership may use provided federal funds to award grants and enter into contracts for certain purposes, including to monitor the water quality and living resources of multistate ocean and coastal ecosystems.</p>]]></text>
+          <updateDate>2019-07-18T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2019-12-19</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-07-20T15:34:52Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Regional Ocean Partnership Act </b></p> <p>This bill provides a mechanism for coastal states to participate in a Regional Ocean Partnership with one or more other coastal states that share a common ocean or coastal area.</p> <p>Specifically, the National Oceanic and Atmospheric Administration may designate a partnership as a Regional Ocean Partnership if it (1) is established to coordinate the interstate management of ocean and coastal resources; (2) focuses on the environmental issues affecting the ocean and coastal areas of the coastal states participating in the partnership; (3) complements existing state coastal and ocean management efforts on an interstate scale, focusing on shared regional priorities; (4) does not have a regulatory function; and (5) is not duplicative of an existing Regional Ocean Partnership.</p> <p>A Regional Ocean Partnership may use provided federal funds to award grants and enter into contracts for certain purposes, including to monitor the water quality and living resources of multistate ocean and coastal ecosystems.</p>]]></text>
+          <updateDate>2019-12-19T15:34:23Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Regional Ocean Partnership Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Regional Ocean Partnership Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Regional Ocean Partnership Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to designate Regional Ocean Partnerships of the National Oceanic and Atmospheric Administration, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Regional Ocean Partnership Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-12-19T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2166rs/xml/BILLS-116s2166rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-07-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2166is/xml/BILLS-116s2166is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-12-19</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 396.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0396</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

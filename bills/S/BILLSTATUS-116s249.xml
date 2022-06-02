@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>249</billNumber>
+    <createDate>2019-01-30T05:40:17Z</createDate>
+    <updateDate>2021-03-19T04:53:41Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-01-29</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-06-03T23:08:11Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-05-22T17:45:08Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-29T16:17:54Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>To direct the Secretary of State to develop a strategy to regain observer status for Taiwan in the World Health Organization, and for other purposes.</latestTitle>
+        <congress>116</congress>
+        <number>237</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-03-14</actionDate>
+          <text>Referred to the Subcommittee on Asia, the Pacific and Nonproliferation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>To direct the Secretary of State to develop a strategy to regain observer status for Taiwan in the World Health Organization, and for other purposes.</latestTitle>
+        <congress>116</congress>
+        <number>353</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-01-23</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-05-12</actionDate>
+        <actionTime>12:19:51</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-05-12</actionDate>
+        <actionTime>12:02:02</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-05-12</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-05-11</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S2346-2347)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-05-11</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-05-11</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>The committee substitute withdrawn by Unanimous Consent. (CR S2346)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-05-11</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S2345-2347)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-06-03</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 100.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-06-03</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-03</actionDate>
+        <links />
+        <text>Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <amendmentAgreedTo>1</amendmentAgreedTo>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>11</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>I000024</bioguideId>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <firstName>JIM</firstName>
+        <middleName />
+        <lastName>INHOFE</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <lisID>583</lisID>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <middleName />
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>Robert</firstName>
+        <middleName />
+        <lastName>Menendez</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>Sherrod</firstName>
+        <middleName />
+        <lastName>Brown</lastName>
+        <party>D</party>
+        <state>OH</state>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <firstName>John</firstName>
+        <middleName />
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>EDWARD</firstName>
+        <middleName>J.</middleName>
+        <lastName>MARKEY</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001075</bioguideId>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <firstName>Bill</firstName>
+        <middleName />
+        <lastName>Cassidy</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000575</bioguideId>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <firstName>James</firstName>
+        <middleName />
+        <lastName>Lankford</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001236</bioguideId>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <firstName>John</firstName>
+        <middleName />
+        <lastName>Boozman</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <firstName>Joe</firstName>
+        <middleName />
+        <lastName>Manchin</lastName>
+        <party>D</party>
+        <state>WV</state>
+        <identifiers>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000605</bioguideId>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <firstName>Mike</firstName>
+        <middleName />
+        <lastName>Rounds</lastName>
+        <party>R</party>
+        <state>SD</state>
+        <identifiers>
+          <lisID>2288</lisID>
+          <bioguideId>R000605</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <firstName>Ted</firstName>
+        <middleName />
+        <lastName>Cruz</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000595</bioguideId>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <firstName>Gary</firstName>
+        <middleName>C.</middleName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>RON</firstName>
+        <middleName />
+        <lastName>WYDEN</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001197</bioguideId>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <firstName>Martha</firstName>
+        <middleName />
+        <lastName>McSally</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <firstName>Christopher</firstName>
+        <middleName>A.</middleName>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001217</bioguideId>
+        <fullName>Sen. Scott, Rick  [R-FL]</fullName>
+        <firstName>Rick</firstName>
+        <middleName />
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2470</lisID>
+          <bioguideId>S001217</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>Y000064</bioguideId>
+        <fullName>Sen. Young, Todd [R-IN]</fullName>
+        <firstName>Todd</firstName>
+        <middleName />
+        <lastName>Young</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <lisID>2019</lisID>
+          <bioguideId>Y000064</bioguideId>
+          <gpoId>7948</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000562</bioguideId>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <firstName>Cory</firstName>
+        <middleName />
+        <lastName>Gardner</lastName>
+        <party>R</party>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H001089</bioguideId>
+        <fullName>Sen. Hawley, Josh  [R-MO]</fullName>
+        <firstName>Josh</firstName>
+        <middleName />
+        <lastName>Hawley</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <lisID>2464</lisID>
+          <bioguideId>H001089</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-05-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <firstName>CHARLES</firstName>
+        <middleName>ERNEST</middleName>
+        <lastName>GRASSLEY</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-05-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M000934</bioguideId>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <firstName>Jerry</firstName>
+        <middleName />
+        <lastName>Moran</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <lisID>1507</lisID>
+          <bioguideId>M000934</bioguideId>
+          <gpoId>8307</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-05-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000594</bioguideId>
+        <fullName>Sen. Loeffler, Kelly [R-GA]</fullName>
+        <firstName>Kelly</firstName>
+        <middleName />
+        <lastName>Loeffler</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <lisID>2474</lisID>
+          <bioguideId>L000594</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-05-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>T000461</bioguideId>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <firstName>Pat</firstName>
+        <middleName />
+        <lastName>Toomey</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <lisID>1594</lisID>
+          <bioguideId>T000461</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-05-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-06-06T13:29:00Z</pubDate>
+        <title>S. 249, a bill to direct the Secretary of State to develop a strategy to regain observer status for Taiwan in the World Health Organization, and for other purposes</title>
+        <url>https://www.cbo.gov/publication/55340</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Taiwan</name>
+          </item>
+          <item>
+            <name>World health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-29</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-02-22T16:03:53Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill directs the Department of State to include additional information in its annual reports concerning Taiwan's participation at the World Health Organization's World Health Assembly (WHA) as an observer. The report shall describe changes and improvements to the State Department's plan to support Taiwan's observer status at the WHA, following any meetings at which Taiwan did&nbsp;not participate under such status. (China has opposed Taiwan's participation, based on its position that Taiwan is part of China and not a separate country.) </p>]]></text>
+          <updateDate>2019-01-29T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2019-06-03</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-07-25T16:04:12Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill directs the Department of State to include additional information in its annual reports concerning Taiwan's participation at the World Health Organization's World Health Assembly (WHA) as an observer. The report shall describe changes and improvements to the State Department's plan to support Taiwan's observer status at the WHA, following any meetings at which Taiwan did&nbsp;not participate under such status. (China has opposed Taiwan's participation, based on its position that Taiwan is part of China and not a separate country.)</p> <p>The State Department shall regularly report to Congress on U.S. actions and plans to strengthen Taiwan's official and unofficial diplomatic relationships around the world.</p>]]></text>
+          <updateDate>2019-06-03T13:31:01Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2020-05-11</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-05-14T15:54:24Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill directs the Department of State to include additional information in its annual reports concerning Taiwan's participation at the World Health Organization's World Health Assembly (WHA) as an observer. The report shall describe changes and improvements to the State Department's plan to support Taiwan's observer status at the WHA, following any meetings at which Taiwan did&nbsp;not participate under such status. (China has opposed Taiwan's participation, based on its position that Taiwan is part of China and not a separate country.)</p> <p>The State Department shall regularly report to Congress on U.S. actions and plans to strengthen Taiwan's official and unofficial diplomatic relationships around the world.</p>]]></text>
+          <updateDate>2020-05-11T12:49:57Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A bill to direct the Secretary of State to develop a strategy to regain observer status for Taiwan in the World Health Organization, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to direct the Secretary of State to develop a strategy to regain observer status for Taiwan in the World Health Organization, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to direct the Secretary of State to develop a strategy to regain observer status for Taiwan in the World Health Organization, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>1582</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-05-11</actionDate>
+          <text>Amendment SA 1582 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <number>1582</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-05-12T04:46:40Z</createDate>
+        <updateDate>2020-05-13T07:13:23Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>I000024</bioguideId>
+            <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+            <firstName>JIM</firstName>
+            <middleName />
+            <lastName>INHOFE</lastName>
+            <party>R</party>
+            <state>OK</state>
+            <identifiers>
+              <lisID>583</lisID>
+              <bioguideId>I000024</bioguideId>
+              <gpoId>8322</gpoId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate>2020-05-11T04:00:00Z</proposedDate>
+        <submittedDate>2020-05-11T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>249</number>
+          <title>A bill to direct the Secretary of State to develop a strategy to regain observer status for Taiwan in the World Health Organization, and for other purposes.</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2020-05-11</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1582 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-05-11</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1582 proposed by Senator McConnell for Senator Inhofe. (consideration: CR S2346-2347; text: CR S2346-2347) In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-05-11</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-05-11</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-05-11</actionDate>
+              <links />
+              <text>Senate amendment proposed (on the floor): Amendment SA 1582 proposed by Senator McConnell for Senator Inhofe.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-05-11</actionDate>
+              <links />
+              <text>Senate amendment agreed to: Amendment SA 1582 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2020-05-11T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s249es/xml/BILLS-116s249es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-06-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s249rs/xml/BILLS-116s249rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-01-29T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s249is/xml/BILLS-116s249is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-05-12</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>12:19:51</actionTime>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0100</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

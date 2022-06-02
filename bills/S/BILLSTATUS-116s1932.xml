@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1932</billNumber>
+    <createDate>2019-06-21T04:42:11Z</createDate>
+    <updateDate>2021-06-11T21:59:58Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-06-20</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>sseg07</systemCode>
+              <name>Water and Power Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2019-07-18T17:46:37Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-20T19:21:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Western Water Storage Infrastructure Act</latestTitle>
+        <congress>116</congress>
+        <number>6617</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-04-29</actionDate>
+          <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Western Water Storage Infrastructure Act</latestTitle>
+        <congress>116</congress>
+        <number>8166</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-09-10</actionDate>
+          <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-07-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg07</systemCode>
+            <name>Water and Power Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 116-330.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-06-20</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000562</bioguideId>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <firstName>Cory</firstName>
+        <middleName />
+        <lastName>Gardner</lastName>
+        <party>R</party>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>DIANNE</firstName>
+        <middleName />
+        <lastName>FEINSTEIN</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001197</bioguideId>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <firstName>Martha</firstName>
+        <middleName />
+        <lastName>McSally</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001191</bioguideId>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <firstName>Kyrsten</firstName>
+        <middleName />
+        <lastName>Sinema</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <firstName>Jacklyn</firstName>
+        <middleName />
+        <lastName>Rosen</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <lisID>2339</lisID>
+          <bioguideId>R000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alaska</name>
+          </item>
+          <item>
+            <name>Arizona</name>
+          </item>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Colorado</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Endangered and threatened species</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Hawaii</name>
+          </item>
+          <item>
+            <name>Idaho</name>
+          </item>
+          <item>
+            <name>Kansas</name>
+          </item>
+          <item>
+            <name>Montana</name>
+          </item>
+          <item>
+            <name>Nebraska</name>
+          </item>
+          <item>
+            <name>Nevada</name>
+          </item>
+          <item>
+            <name>New Mexico</name>
+          </item>
+          <item>
+            <name>North Dakota</name>
+          </item>
+          <item>
+            <name>Oklahoma</name>
+          </item>
+          <item>
+            <name>Oregon</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>South Dakota</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+          <item>
+            <name>U.S. territories and protectorates</name>
+          </item>
+          <item>
+            <name>Utah</name>
+          </item>
+          <item>
+            <name>Washington State</name>
+          </item>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+          <item>
+            <name>Water storage</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+          <item>
+            <name>Watersheds</name>
+          </item>
+          <item>
+            <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+          <item>
+            <name>Wyoming</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-06-20</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-01-12T20:59:45Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Drought Resiliency and Water Supply Infrastructure Act</b></p> <p>This bill establishes and modifies various Department of the Interior water programs that target western states.</p> <p>Provisions in the bill include those</p> <ul> <li>authorizing Interior to provide grants to support qualifying water-storage projects in western states;</li> <li>reauthorizing through FY2024 the CALFED Bay-Delta program, which handles water issues in California's Sacramento-San Joaquin Delta;</li> <li>reauthorizing through FY2024 an Interior grant program to support qualifying water recycling and reuse projects and establishing new priorities for awarding such grants; and</li> <li>establishing a one-time process for de-authorizing certain Bureau of Reclamation projects.</li></ul>]]></text>
+          <updateDate>2019-06-20T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Drought Resiliency and Water Supply Infrastructure Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Drought Resiliency and Water Supply Infrastructure Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Drought Resiliency and Water Supply Infrastructure Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to support water infrastructure in Reclamation States, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-06-20T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1932is/xml/BILLS-116s1932is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-07-18</actionDate>
+      <text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 116-330.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1436</billNumber>
+    <createDate>2019-05-14T04:27:09Z</createDate>
+    <updateDate>2021-05-04T05:25:32Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-05-13</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees />
+    </committees>
+    <committeeReports />
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2019-06-12</actionDate>
+        <links />
+        <text>Became Public Law No: 116-21.</text>
+        <type>President</type>
+        <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-06-12</actionDate>
+        <links />
+        <text>Became Public Law No: 116-21.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-06-12</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>President</type>
+        <actionCode>E30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-06-12</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-05-31</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>Floor</type>
+        <actionCode>E20000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-05-31</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>President</type>
+        <actionCode>28000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <actionTime>19:42:14</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <actionTime>19:42:11</actionTime>
+        <links />
+        <text>On passage Passed without objection. (text: CR H3911)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <actionTime>19:42:11</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On passage Passed without objection.(text: CR H3911)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <actionTime>19:41:33</actionTime>
+        <links />
+        <text>Ms. Lofgren asked unanimous consent to take from the Speaker's table and consider.</text>
+        <type>Floor</type>
+        <actionCode>H30200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <actionTime>19:41:33</actionTime>
+        <links />
+        <text>Considered by unanimous consent. (consideration: CR H3911)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <actionTime>14:35:29</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <actionTime>12:19:12</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-05-13</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S2793; text: CR S2793)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-05-13</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S2793; text: CR S2793)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-05-13</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <publicLawOrPrivateLaw>1</publicLawOrPrivateLaw>
+        <becamePublicLaw>2</becamePublicLaw>
+        <signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>1</signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>
+        <presentedToPresident>2</presentedToPresident>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <considerationByHouse>1</considerationByHouse>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>Sherrod</firstName>
+        <middleName />
+        <lastName>Brown</lastName>
+        <party>D</party>
+        <state>OH</state>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <middleName />
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <firstName>Roy</firstName>
+        <middleName />
+        <lastName>Blunt</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <lisID>1464</lisID>
+          <bioguideId>B000575</bioguideId>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>116-21</number>
+      </item>
+    </laws>
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Architect of the Capitol</name>
+          </item>
+          <item>
+            <name>Congressional agencies</name>
+          </item>
+          <item>
+            <name>Congressional officers and employees</name>
+          </item>
+          <item>
+            <name>Food industry and services</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Office of Personnel Management (OPM)</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-05-13</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-05-24T22:26:46Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill addresses retirement benefits for certain Senate Restaurants employees who were Architect of the Capitol (AOC) employees and who became employees of a contractor under a food services contract. A provision that deems their rate of basic pay the same as such rate when AOC entered into the contract no longer applies to their retirement benefits.</p>]]></text>
+          <updateDate>2019-05-13T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2019-05-13</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-05-31T22:28:20Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill addresses retirement benefits for certain Senate Restaurants employees who were Architect of the Capitol (AOC) employees and who became employees of a contractor under a food services contract. A provision that deems their rate of basic pay the same as such rate when AOC entered into the contract no longer applies to their retirement benefits.</p>]]></text>
+          <updateDate>2019-05-13T15:39:00Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+        <item>
+          <versionCode>53</versionCode>
+          <actionDate>2019-05-16</actionDate>
+          <actionDesc>Passed House</actionDesc>
+          <lastSummaryUpdateDate>2019-05-31T22:28:28Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill addresses retirement benefits for certain Senate Restaurants employees who were Architect of the Capitol (AOC) employees and who became employees of a contractor under a food services contract. A provision that deems their rate of basic pay the same as such rate when AOC entered into the contract no longer applies to their retirement benefits.</p>]]></text>
+          <updateDate>2019-05-16T12:33:56Z</updateDate>
+          <name>Passed House</name>
+        </item>
+        <item>
+          <versionCode>49</versionCode>
+          <actionDate>2019-06-12</actionDate>
+          <actionDesc>Public Law</actionDesc>
+          <lastSummaryUpdateDate>2019-08-01T19:46:18Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill addresses retirement benefits for certain Senate Restaurants employees who were Architect of the Capitol (AOC) employees and who became employees of a contractor under a food services contract. A provision that deems their rate of basic pay the same as such rate when AOC entered into the contract no longer applies to their retirement benefits.</p>]]></text>
+          <updateDate>2019-06-13T03:59:58Z</updateDate>
+          <name>Public Law</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A bill to make technical corrections to the computation of average pay under Public Law 110-279.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to make technical corrections to the computation of average pay under Public Law 110-279.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to make technical corrections to the computation of average pay under Public Law 110-279.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date />
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1436enr/xml/BILLS-116s1436enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2019-05-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1436es/xml/BILLS-116s1436es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Considered and Passed Senate</type>
+        <date>2019-05-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1436cps/xml/BILLS-116s1436cps.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-06-12</actionDate>
+      <text>Became Public Law No: 116-21.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

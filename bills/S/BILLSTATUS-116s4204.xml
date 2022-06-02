@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4204</billNumber>
+    <createDate>2020-07-03T04:42:11Z</createDate>
+    <updateDate>2021-06-11T22:02:56Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2020-07-02</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2020-10-19T22:41:55Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2020-07-22T14:00:24Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2020-07-02T20:54:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-279</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Securing Healthcare and Response Equipment Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>4210</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-12-14</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 624.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-10-19</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 573.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2020-10-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-279.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2020-10-19</actionDate>
+        <links />
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-279.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2020-07-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2020-07-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2020-07-02</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>J000293</bioguideId>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <firstName>Ron</firstName>
+        <middleName />
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S001217</bioguideId>
+        <fullName>Sen. Scott, Rick  [R-FL]</fullName>
+        <firstName>Rick</firstName>
+        <middleName />
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2470</lisID>
+          <bioguideId>S001217</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-07-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2020-09-09T15:38:00Z</pubDate>
+        <title>S. 4204, Federal Emergency Pandemic Response Act</title>
+        <url>https://www.cbo.gov/publication/56562</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Centers for Disease Control and Prevention (CDC)</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal Emergency Management Agency (FEMA)</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Immunology and vaccination</name>
+          </item>
+          <item>
+            <name>Industrial policy and productivity</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Strategic materials and reserves</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-07-02</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-11-30T16:00:00Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Federal Emergency Pandemic Response Act</b></p> <p>This bill addresses the issue of national pandemic preparedness and response. It directs the Department of Homeland Security (DHS) to convene an Interagency Task Force to analyze U.S. preparedness for national pandemics.</p> <p>The task force shall, among other things (1) determine the mission of the Strategic National Stockpile and clearly define it, and (2) assess the current and future inventory needs of the stockpile. </p> <p>The bill establishes within (1) the executive branch the Unified Coordination Group led by the Federal Emergency Management Agency (FEMA), and (2) FEMA a Supply Chain Stabilization Task Force to address the supply of critical protective and life saving equipment.</p> <p>The National Response Coordination Center, acting through the appropriate FEMA Regional Administrators, shall (1) request voluntary information from states regarding their holdings of equipment and medical supply necessary in the event of a pandemic, and (2) share information with states regarding the federal government's current inventory and plan. </p> <p>FEMA, in coordination with the Department of Health and Human Services (HHS), shall monitor the inventory stockpile levels, economic and health care models, and evaluate available data on supply and demand trends to restock and increase the inventory of supplies maintained in the stockpile.</p> <p>The bill authorizes DHS to transfer personal protective equipment or medically necessary equipment to HHS during a declared public health emergency.</p>]]></text>
+          <updateDate>2020-07-02T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2020-10-19</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-11-30T16:13:16Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Federal Emergency Pandemic Response Act</b></p> <p>This bill addresses the issue of national pandemic preparedness and response. It directs the Office of Management and Budget (OMB) or another federal agency, as determined by the OMB, to convene an Interagency Task Force to analyze U.S. preparedness for national pandemics.</p> <p>The task force shall, among other things (1) determine the mission of the Strategic National Stockpile and clearly define it, and (2) assess the current and future inventory needs of the stockpile. </p> <p>The task force must report at specified intervals, including (1) identifying communities where racial and ethnic disparities in COVID-19 (i.e., coronavirus disease 2019) infection, hospitalization, and death rates are out of proportion to the community's population by a certain threshold; and (2) recommendations about how to best allocate critical COVID-19 resources to such communities.</p> <p>During pandemic and related public health emergencies involving the Federal Emergency Management Agency (FEMA), the National Response Coordination Center, acting through the appropriate FEMA Regional Administrators, shall (1) request voluntary information from state, local, tribal, and territorial governments regarding their holdings of equipment and medical supplies; and (2) share information with such governments regarding the federal inventory and the plan developed.</p> <p>The Department of Health and Human Services, in coordination with the Department of Homeland Security, may sell drugs, vaccines and other biological products, medical devices, or other supplies maintained in the Strategic National Stockpile under specified circumstances.</p>]]></text>
+          <updateDate>2020-10-19T14:57:46Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Federal Emergency Pandemic Response Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Federal Emergency Pandemic Response Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Federal Emergency Pandemic Response Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Federal Emergency Pandemic Response Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to establish an Interagency Task Force to analyze preparedness for national pandemics, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2020-10-19T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4204rs/xml/BILLS-116s4204rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2020-07-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4204is/xml/BILLS-116s4204is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-10-19</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 573.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0573</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

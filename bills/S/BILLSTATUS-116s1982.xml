@@ -1,0 +1,1549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1982</billNumber>
+    <createDate>2019-06-27T04:42:12Z</createDate>
+    <updateDate>2021-06-11T22:00:01Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-06-26</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsag15</systemCode>
+              <name>Conservation and Forestry Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2020-01-22T17:53:21Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2020-01-13T22:23:39Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsii13</systemCode>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2020-01-14T21:52:16Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2020-01-13T22:23:35Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsif18</systemCode>
+              <name>Environment and Climate Change Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2020-01-14T17:59:58Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2020-01-13T22:23:37Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hspw07</systemCode>
+              <name>Coast Guard and Maritime Transportation Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2020-01-14T14:52:49Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2020-01-13T22:23:34Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2020-01-13T22:23:38Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2020-01-13T22:23:36Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2020-01-09T22:36:37Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-11-13T15:00:38Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-26T16:37:26Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>SOS 2.0 Act</latestTitle>
+        <congress>116</congress>
+        <number>3969</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-08-29</actionDate>
+          <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Save Our Seas 2.0: Improving Domestic Infrastructure to Prevent Marine Debris Act</latestTitle>
+        <congress>116</congress>
+        <number>2260</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-09-25</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 224.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Save Our Seas 2.0: Enhancing the Domestic Marine Debris Response Act</latestTitle>
+        <congress>116</congress>
+        <number>2364</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-07-31</actionDate>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Save Our Seas 2.0: Enhanced Global Engagement to Combat Marine Debris Act</latestTitle>
+        <congress>116</congress>
+        <number>2372</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-09-26</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 239.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <links />
+        <text>Became Public Law No: 116-224.</text>
+        <type>President</type>
+        <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <links />
+        <text>Became Public Law No: 116-224.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>President</type>
+        <actionCode>E30000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-08</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>Floor</type>
+        <actionCode>E20000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-08</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>President</type>
+        <actionCode>28000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-02</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-01</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate agreed to the House amendment to S. 1982 by Unanimous Consent. (consideration: CR S7142)</text>
+        <type>ResolvingDifferences</type>
+      </item>
+      <item>
+        <actionDate>2020-12-01</actionDate>
+        <links />
+        <text>Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 1982 by Unanimous Consent.(consideration: CR S7142)</text>
+        <type>NotUsed</type>
+        <actionCode>20500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-01</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-10-19</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <actionTime>16:41:08</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <actionTime>16:41:06</actionTime>
+        <links />
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5192-5199)</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <actionTime>16:41:06</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <actionTime>16:27:03</actionTime>
+        <links />
+        <text>DEBATE - The House proceeded with forty minutes of debate on S. 1982.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <actionTime>16:26:59</actionTime>
+        <links />
+        <text>Considered under suspension of the rules. (consideration: CR H5192-5202)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <actionTime>16:26:43</actionTime>
+        <links />
+        <text>Mr. Carbajal moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-01-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Conservation and Forestry Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2020-01-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Oceans, and Wildlife Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2020-01-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif18</systemCode>
+            <name>Environment and Climate Change Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment and Climate Change.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2020-01-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw07</systemCode>
+            <name>Coast Guard and Maritime Transportation Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2020-01-13</actionDate>
+        <links />
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, Foreign Affairs, Energy and Commerce, Science, Space, and Technology, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsag00</systemCode>
+            <name>Agriculture Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2020-01-13</actionDate>
+        <links />
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, Foreign Affairs, Energy and Commerce, Science, Space, and Technology, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssy00</systemCode>
+            <name>Science, Space, and Technology Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2020-01-13</actionDate>
+        <links />
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, Foreign Affairs, Energy and Commerce, Science, Space, and Technology, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2020-01-13</actionDate>
+        <links />
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, Foreign Affairs, Energy and Commerce, Science, Space, and Technology, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2020-01-13</actionDate>
+        <links />
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, Foreign Affairs, Energy and Commerce, Science, Space, and Technology, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2020-01-13</actionDate>
+        <links />
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, Foreign Affairs, Energy and Commerce, Science, Space, and Technology, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2020-01-13</actionDate>
+        <actionTime>14:07:30</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-01-13</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-01-09</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Voice Vote.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-01-09</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-01-09</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S148-149)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-01-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2020-01-09</actionDate>
+        <links />
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-11-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-26</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-06-26</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <publicLawOrPrivateLaw>1</publicLawOrPrivateLaw>
+        <becamePublicLaw>2</becamePublicLaw>
+        <signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>1</signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>
+        <presentedToPresident>2</presentedToPresident>
+        <sentToHouse>2</sentToHouse>
+        <senateAgreedFreeText>1</senateAgreedFreeText>
+        <resolvingDifferencesSenateActions>1</resolvingDifferencesSenateActions>
+        <measureLaidBeforeSenate>2</measureLaidBeforeSenate>
+        <messageOnHouseAction>1</messageOnHouseAction>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <considerationByHouse>1</considerationByHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <placeholderTextForH>4</placeholderTextForH>
+        <billReferrals>6</billReferrals>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>14</senate>
+        <houseOfRepresentatives>17</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001198</bioguideId>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <firstName>Dan</firstName>
+        <middleName />
+        <lastName>Sullivan</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <middleName />
+        <lastName>Whitehouse</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>Robert</firstName>
+        <middleName />
+        <lastName>Menendez</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <middleName />
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000449</bioguideId>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <firstName>ROB</firstName>
+        <middleName />
+        <lastName>PORTMAN</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <middleName>A.</middleName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <middleName />
+        <lastName>Murphy</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C000174</bioguideId>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <firstName>THOMAS</firstName>
+        <middleName>R.</middleName>
+        <lastName>CARPER</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>SUSAN</firstName>
+        <middleName>MARGARET</middleName>
+        <lastName>COLLINS</lastName>
+        <party>R</party>
+        <state>ME</state>
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000359</bioguideId>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <firstName>LINDSEY</firstName>
+        <middleName>O.</middleName>
+        <lastName>GRAHAM</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <lisID>452</lisID>
+          <bioguideId>G000359</bioguideId>
+          <gpoId>8335</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <middleName />
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <firstName>Christopher</firstName>
+        <middleName>A.</middleName>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>V000128</bioguideId>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+        <middleName />
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <middleName />
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-08-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001194</bioguideId>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <firstName>Brian</firstName>
+        <middleName />
+        <lastName>Schatz</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-09-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <firstName>BENJAMIN</firstName>
+        <middleName>L.</middleName>
+        <lastName>CARDIN</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-09-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000612</bioguideId>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <firstName>David</firstName>
+        <middleName>Alfred</middleName>
+        <lastName>Perdue</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <lisID>2286</lisID>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-10-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H001042</bioguideId>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <firstName>Mazie</firstName>
+        <middleName>K.</middleName>
+        <lastName>Hirono</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-11-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <firstName>Angus</firstName>
+        <middleName />
+        <lastName>King</lastName>
+        <party>I</party>
+        <state>ME</state>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-11-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <firstName>ROGER</firstName>
+        <middleName>F.</middleName>
+        <lastName>WICKER</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-11-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>116-224</number>
+      </item>
+    </laws>
+    <notes />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Aquatic ecology</name>
+          </item>
+          <item>
+            <name>Atmospheric science and weather</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Energy research</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Environmental health</name>
+          </item>
+          <item>
+            <name>Environmental technology</name>
+          </item>
+          <item>
+            <name>Food supply, safety, and labeling</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Marine and inland water transportation</name>
+          </item>
+          <item>
+            <name>Marine pollution</name>
+          </item>
+          <item>
+            <name>Materials</name>
+          </item>
+          <item>
+            <name>Multilateral development programs</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Product development and innovation</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-06-26</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-01-26T20:44:15Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Save Our Seas 2.0 Act or the SOS 2.0 Act</b></p> <p>This bill establishes requirements and incentives to reduce, recycle, and prevent marine debris (e.g., plastics), including requirements to establish a Marine Debris Response Trust Fund, a Marine Debris Foundation, a Genius Prize for Save Our Seas Innovations, a strategy to improve waste management and recycling infrastructure, a Waste Management Revolving Fund for states, a Waste Management Infrastructure Grant program, a Drinking Water Infrastructure Grant program, a Wastewater Infrastructure Grant program, and a Trash-Free Water Grant program.</p>]]></text>
+          <updateDate>2019-06-26T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Save Our Seas 2.0 Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>SOS 2.0 Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Save Our Seas 2.0 Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Save Our Seas 2.0 Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Save Our Seas 2.0 Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Other Short Titles</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Save Our Seas 2.0 Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Save Our Seas 2.0 Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Save Our Seas 2.0 Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to improve efforts to combat marine debris, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>1278</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-01-09</actionDate>
+          <text>Amendment SA 1278 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <number>1278</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-01-10T05:31:15Z</createDate>
+        <updateDate>2021-06-11T22:00:01Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>S001198</bioguideId>
+            <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+            <firstName>Dan</firstName>
+            <middleName />
+            <lastName>Sullivan</lastName>
+            <party>R</party>
+            <state>AK</state>
+            <identifiers>
+              <lisID>2290</lisID>
+              <bioguideId>S001198</bioguideId>
+              <gpoId />
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>2</totalCount>
+          <currentCount>2</currentCount>
+          <item>
+            <bioguideId>W000802</bioguideId>
+            <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+            <firstName>Sheldon</firstName>
+            <middleName />
+            <lastName>Whitehouse</lastName>
+            <party>D</party>
+            <state>RI</state>
+            <identifiers>
+              <lisID>1823</lisID>
+              <bioguideId>W000802</bioguideId>
+              <gpoId>8264</gpoId>
+            </identifiers>
+            <sponsorshipDate>2020-01-09</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+            <sponsorshipWithdrawnDate />
+          </item>
+          <item>
+            <bioguideId>M000639</bioguideId>
+            <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+            <firstName>Robert</firstName>
+            <middleName />
+            <lastName>Menendez</lastName>
+            <party>D</party>
+            <state>NJ</state>
+            <identifiers>
+              <lisID>791</lisID>
+              <bioguideId>M000639</bioguideId>
+              <gpoId>8239</gpoId>
+            </identifiers>
+            <sponsorshipDate>2020-01-09</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+            <sponsorshipWithdrawnDate />
+          </item>
+        </cosponsors>
+        <titles />
+        <proposedDate>2020-01-09T05:00:00Z</proposedDate>
+        <submittedDate>2020-01-09T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>1982</number>
+          <title>Save Our Seas 2.0 Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2020-01-09</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1278 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-01-09</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1278 proposed by Senator McConnell for Senator Sullivan. (consideration: CR S148-149; text: CR S139-147) In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-01-09</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-01-09</actionDate>
+              <links />
+              <text>Senate amendment proposed (on the floor): Amendment SA 1278 proposed by Senator McConnell for Senator Sullivan.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-01-09</actionDate>
+              <links />
+              <text>Senate amendment agreed to: Amendment SA 1278 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-01-09</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date />
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1982enr/xml/BILLS-116s1982enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed Amendment House</type>
+        <date>2020-10-01T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1982eah/xml/BILLS-116s1982eah.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Referred in House</type>
+        <date>2020-01-13T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1982rfh/xml/BILLS-116s1982rfh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2020-01-09T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1982es/xml/BILLS-116s1982es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-06-26T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1982is/xml/BILLS-116s1982is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-12-18</actionDate>
+      <text>Became Public Law No: 116-224.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1207</billNumber>
+    <createDate>2019-04-12T04:57:11Z</createDate>
+    <updateDate>2021-06-11T21:59:00Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-04-11</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Other</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-09-09T20:12:58Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-05-15T18:30:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-11T20:17:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-79</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Navajo Utah Water Rights Settlement Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>644</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-12-18</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 557.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Moving Forward Act</latestTitle>
+        <congress>116</congress>
+        <number>2</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-07-20</actionDate>
+          <text>Received in the Senate.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Indian Water Rights Settlement Extension Act</latestTitle>
+        <congress>116</congress>
+        <number>886</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-06-15</actionDate>
+          <text>Held at the desk.</text>
+          <actionTime>15:15:30</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-09-09</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 182.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-09-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-79.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-09-09</actionDate>
+        <links />
+        <text>Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-79.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-11</actionDate>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-04-11</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>R000615</bioguideId>
+        <fullName>Sen. Romney, Mitt  [R-UT]</fullName>
+        <firstName>Mitt</firstName>
+        <middleName />
+        <lastName>Romney</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <identifiers>
+          <lisID>2466</lisID>
+          <bioguideId>R000615</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S001191</bioguideId>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <firstName>Kyrsten</firstName>
+        <middleName />
+        <lastName>Sinema</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001197</bioguideId>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <firstName>Martha</firstName>
+        <middleName />
+        <lastName>McSally</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <middleName>A.</middleName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-06-20T19:29:00Z</pubDate>
+        <title>S. 1207, Navajo Utah Water Rights Settlement Act of 2019</title>
+        <url>https://www.cbo.gov/publication/55381</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Indian claims</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Lakes and rivers</name>
+          </item>
+          <item>
+            <name>Utah</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-04-11</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-03-22T02:04:19Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Navajo Utah Water Rights Settlement Act of 2019</strong></p> <p>This bill ratifies and modifies the Navajo Utah Water Rights Settlement Agreement negotiated between the Navajo Nation, the United States, and Utah. The agreement gives the Navajo Nation the right to use water from sources located within Utah and adjacent to or encompassed within the boundaries of the Navajo Reservation resulting in depletions not to exceed a specified amount annually.</p> <p>The Navajo water rights shall be held in trust by the United States for the use and benefit of Navajo Nation and shall not be subject to forfeiture or abandonment.</p> <p>The Navajo Nation shall have authority to allocate, distribute, and lease the water rights for any use on or off its reservation in accordance with the agreement.</p> <p>The Department of the Interior shall establish and manage the Navajo Utah Settlement Trust Fund, with amounts available for withdrawal by the Navajo Nation for planning, designing, constructing, operating, maintaining, and replacing Navajo water development projects.</p> <p>The bill also specifies waivers and releases that must be executed in order for the settlement to be binding and effective.</p>]]></text>
+          <updateDate>2019-04-11T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2019-09-09</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-03-23T15:53:39Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Navajo Utah Water Rights Settlement Act of 2019</strong></p> <p>This bill ratifies and modifies the Navajo Utah Water Rights Settlement Agreement negotiated between the Navajo Nation, the United States, and Utah. The agreement gives the Navajo Nation the right to use water from sources located within Utah and adjacent to or encompassed within the boundaries of the Navajo Reservation resulting in depletions not to exceed a specified amount annually.</p> <p>The Navajo water rights shall be held in trust by the United States for the use and benefit of Navajo Nation and shall not be subject to forfeiture or abandonment.</p> <p>The Navajo Nation shall have authority to allocate, distribute, and lease the water rights for any use on or off its reservation in accordance with the agreement.</p> <p>The Department of the Interior shall establish and manage the Navajo Utah Settlement Trust Fund, with amounts available for withdrawal by the Navajo Nation for planning, designing, constructing, operating, maintaining, and replacing Navajo water development projects.</p> <p>The bill also specifies waivers and releases that must be executed in order for the settlement to be binding and effective.</p>]]></text>
+          <updateDate>2019-09-09T13:36:47Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Navajo Utah Water Rights Settlement Act of 2019</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Navajo Utah Water Rights Settlement Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Navajo Utah Water Rights Settlement Act of 2019</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to approve the settlement of the water rights claims of the Navajo Nation in Utah, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Navajo Utah Water Rights Settlement Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-09-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1207rs/xml/BILLS-116s1207rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-04-11T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1207is/xml/BILLS-116s1207is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-09-09</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 182.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0182</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

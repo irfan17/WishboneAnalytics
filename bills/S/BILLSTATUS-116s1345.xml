@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1345</billNumber>
+    <createDate>2019-05-08T04:42:09Z</createDate>
+    <updateDate>2020-12-28T14:40:10Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-05-07</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-06-19T17:41:27Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-06-19T13:30:02Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-07T18:50:31Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-101</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>To amend the Morris K. Udall and Stewart L. Udall Foundation Act.</latestTitle>
+        <congress>116</congress>
+        <number>2414</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-07-16</actionDate>
+          <text>Subcommittee Hearings Held.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Further Consolidated Appropriations Act, 2020</latestTitle>
+        <congress>116</congress>
+        <number>1865</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-12-20</actionDate>
+          <text>Became Public Law No: 116-94.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-101.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <links />
+        <text>By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-101.</text>
+        <type>Committee</type>
+        <actionCode>14900</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 118.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <links />
+        <text>Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-07</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-05-07</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <committeeFiledReportToAccompany>1</committeeFiledReportToAccompany>
+        <senateCommitteeReportFiledAfterReporting>1</senateCommitteeReportFiledAfterReporting>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>8</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>H001046</bioguideId>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <firstName>Martin</firstName>
+        <middleName />
+        <lastName>Heinrich</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S001191</bioguideId>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <firstName>Kyrsten</firstName>
+        <middleName />
+        <lastName>Sinema</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001197</bioguideId>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <firstName>Martha</firstName>
+        <middleName />
+        <lastName>McSally</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>A000360</bioguideId>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <firstName>Lamar</firstName>
+        <middleName />
+        <lastName>Alexander</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <lisID>1695</lisID>
+          <bioguideId>A000360</bioguideId>
+          <gpoId>8304</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-08-06T21:22:23Z</pubDate>
+        <title>S. 1345, a bill to amend and reauthorize the Morris K. Udall and Stewart L. Udall Foundation Act</title>
+        <url>https://www.cbo.gov/publication/55510</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative dispute resolution, mediation, arbitration</name>
+          </item>
+          <item>
+            <name>Arizona</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Policy sciences</name>
+          </item>
+          <item>
+            <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-05-07</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-03-10T16:52:02Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill revises&nbsp;provisions governing&nbsp;the Morris K. Udall and Stewart L. Udall Foundation. Among other things, the foundation (1) provides outreach regarding the environment, public lands, and natural resources; (2) develops resources to train professionals in the environmental field and Native American and Alaska Native professionals in health care and public policy;&nbsp;and (3) supports the United States&nbsp;Institute for Environmental Conflict Resolution.</p> <p>This bill reauthorizes the institute through FY2023 and renames the institute as the John S. McCain III United States Institute for Environmental Conflict Resolution.</p>  <p>Finally, the bill requires the Inspector General of the Department of the Interior to audit the foundation.</p>]]></text>
+          <updateDate>2019-05-07T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2019-06-19</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-03-13T19:50:48Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill revises&nbsp;provisions governing&nbsp;the Morris K. Udall and Stewart L. Udall Foundation. Among other things, the foundation (1) provides outreach regarding the environment, public lands, and natural resources; (2) develops resources to train professionals in the environmental field and Native American and Alaska Native professionals in health care and public policy;&nbsp;and (3) supports the United States&nbsp;Institute for Environmental Conflict Resolution.</p> <p>This bill reauthorizes the institute through FY2023 and renames the institute as the John S. McCain III United States Institute for Environmental Conflict Resolution.</p> <p>Finally, the bill requires the Inspector General of the Department of the Interior to audit the foundation.</p>]]></text>
+          <updateDate>2019-06-19T15:22:14Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A bill to amend and reauthorize the Morris K. Udall and Stewart L. Udall Foundation Act.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend and reauthorize the Morris K. Udall and Stewart L. Udall Foundation Act.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to amend and reauthorize the Morris K. Udall and Stewart L. Udall Foundation Act.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-06-19T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1345rs/xml/BILLS-116s1345rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-05-07T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1345is/xml/BILLS-116s1345is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-09-11</actionDate>
+      <text>By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-101.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0118</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

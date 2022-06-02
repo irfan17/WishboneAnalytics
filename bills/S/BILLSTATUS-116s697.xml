@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>697</billNumber>
+    <createDate>2019-03-08T05:42:07Z</createDate>
+    <updateDate>2021-06-11T21:58:18Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-03-07</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-07T16:20:14Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Democracy Restoration Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>196</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-01-03</actionDate>
+          <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Fair Chance Act</latestTitle>
+        <congress>116</congress>
+        <number>1076</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-01-24</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 301.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Marijuana Justice Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>1456</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-04-08</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>To amend title 18, United States Code, to authorize a court to reduce the term of imprisonment imposed on certain defendants convicted as an adult for an offense committed and completed before the defendant attained 18 years of age, and for other purposes.</latestTitle>
+        <congress>116</congress>
+        <number>1951</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-05-03</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>New Pathways Act</latestTitle>
+        <congress>116</congress>
+        <number>2232</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-05-15</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>REDEEM Act</latestTitle>
+        <congress>116</congress>
+        <number>2410</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-05-20</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Reverse Mass Incarceration Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>2865</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-06-26</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Fair Chance Act</latestTitle>
+        <congress>116</congress>
+        <number>387</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-04-10</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 69.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Marijuana Justice Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>597</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-02-28</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Next Step Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>1893</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-04-08</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Democracy Restoration Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>1068</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-04-09</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>New Pathways Act</latestTitle>
+        <congress>116</congress>
+        <number>1080</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-04-09</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Reverse Mass Incarceration Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>1557</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-05-21</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Smarter Sentencing Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>2850</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-11-13</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>PRIDE Act</latestTitle>
+        <congress>116</congress>
+        <number>7089</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-06-04</actionDate>
+          <text>Referred to the House Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>End Racial and Religious Profiling Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>2355</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-07-31</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Count the Crimes to Cut Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>7270</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-06-18</actionDate>
+          <text>Referred to the House Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>End Racial Profiling Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>4339</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-09-25</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>To secure the Federal voting rights of persons when released from incarceration.</latestTitle>
+        <congress>116</congress>
+        <number>8941</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-12-10</actionDate>
+          <text>Referred to the House Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <middleName>A.</middleName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>EDWARD</firstName>
+        <middleName>J.</middleName>
+        <lastName>MARKEY</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Employee performance</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>General Services Administration</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Juvenile crime and gang violence</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Lawyers and legal services</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+          <item>
+            <name>Office of Management and Budget (OMB)</name>
+          </item>
+          <item>
+            <name>Office of Personnel Management (OPM)</name>
+          </item>
+          <item>
+            <name>Personnel records</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Sex, gender, sexual orientation discrimination</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+          <item>
+            <name>U.S. Sentencing Commission</name>
+          </item>
+          <item>
+            <name>Voting rights</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>Next Step Act of 2019</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Marijuana Justice Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Reverse Mass Incarceration Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Smarter Sentencing Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Next Step Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>End Racial and Religious Profiling Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>PRIDE Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Police Reporting Information, Data, and Evidence Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>New Pathways Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Democracy Restoration Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>REDEEM Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Record Expungement Designed to Enhance Employment Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Fair Chance Licensing Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Fair Chance Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Fair Chance to Compete for Jobs Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>ERRPA</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Dignity Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Dignity for Incarcerated Women Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Next Step Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to reform sentencing, prisons, re-entry of prisoners, and law enforcement practices, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-03-07T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s697is/xml/BILLS-116s697is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-03-07</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

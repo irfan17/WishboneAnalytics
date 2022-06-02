@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>481</billNumber>
+    <createDate>2019-02-14T05:40:19Z</createDate>
+    <updateDate>2021-06-11T22:03:38Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-02-13</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2020-09-08T20:45:04Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-11-13T15:00:52Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-13T21:51:12Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-261</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Nicholas and Zachary Burt Carbon Monoxide Poisoning Prevention Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>1618</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-09-18</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <actionTime>14:52:20</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <actionTime>14:14:14</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-17</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7640-7641)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-17</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-17</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>The committee substitute withdrawn by Unanimous Consent. (CR S7640)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-17</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S7639-7641)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-09-08</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 524.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2020-09-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-261.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2020-09-08</actionDate>
+        <links />
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-261.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-11-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-13</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <amendmentAgreedTo>1</amendmentAgreedTo>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>11</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <middleName />
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>H001061</bioguideId>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <firstName>John</firstName>
+        <middleName />
+        <lastName>Hoeven</lastName>
+        <party>R</party>
+        <state>ND</state>
+        <identifiers>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+          <gpoId>8331</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <firstName>Kevin</firstName>
+        <middleName />
+        <lastName>Cramer</lastName>
+        <party>R</party>
+        <state>ND</state>
+        <identifiers>
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <middleName />
+        <lastName>Smith</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <middleName />
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-12-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-12-02T16:37:00Z</pubDate>
+        <title>S. 481, Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2019</title>
+        <url>https://www.cbo.gov/publication/55898</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Adult day care</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Building construction</name>
+          </item>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Emergency communications systems</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Food supply, safety, and labeling</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Housing for the elderly and disabled</name>
+          </item>
+          <item>
+            <name>Housing industry and standards</name>
+          </item>
+          <item>
+            <name>Low- and moderate-income housing</name>
+          </item>
+          <item>
+            <name>Product safety and quality</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-13</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-08-11T15:46:12Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2019</b><br> <br> This bill directs the Consumer Product Safety Commission to award grants to states and tribal organizations to install carbon monoxide alarms in (1) the homes of low-income families and older adults, (2) facilities that commonly serve children or older adults, and (3) student-housing units at public universities. Such carbon monoxide alarms must be compliant with the standard established by the National Fire Protection Association in 2012.</p>]]></text>
+          <updateDate>2019-02-13T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2020-09-08</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-03-02T20:26:57Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2019</b><br> <br> This bill directs the Consumer Product Safety Commission to award grants to states and tribal organizations to install carbon monoxide alarms in (1) the homes of low-income families and older adults, (2) facilities that commonly serve children or older adults, and (3) student-housing units at public universities. Such carbon monoxide alarms must comply with specified standards.</p>]]></text>
+          <updateDate>2020-09-08T13:50:39Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2020-12-17</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-03-01T21:13:11Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2019</b><br> <br> This bill directs the Consumer Product Safety Commission to award grants to states and tribal organizations to install carbon monoxide alarms in the homes of low-income families and older adults and facilities that commonly serve children or older adults. Such carbon monoxide alarms must comply with specified standards.</p>]]></text>
+          <updateDate>2020-12-17T16:33:45Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2019</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2019</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to encourage States to require the installation of residential carbon monoxide detectors in homes, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>2714</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-12-17</actionDate>
+          <text>Amendment SA 2714 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <number>2714</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-12-18T13:31:15Z</createDate>
+        <updateDate>2021-01-04T16:15:16Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>K000367</bioguideId>
+            <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+            <firstName>Amy</firstName>
+            <middleName />
+            <lastName>Klobuchar</lastName>
+            <party>D</party>
+            <state>MN</state>
+            <identifiers>
+              <lisID>1826</lisID>
+              <bioguideId>K000367</bioguideId>
+              <gpoId>8249</gpoId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate>2020-12-17T05:00:00Z</proposedDate>
+        <submittedDate>2020-12-17T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>481</number>
+          <title>Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2019</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2020-12-17</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2714 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-12-17</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2714 proposed by Senator Braun for Senator Klobuchar. (consideration: CR S7640-7641; text: CR S7640-7641) In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-12-17</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-12-17</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-12-17</actionDate>
+              <links />
+              <text>Senate amendment agreed to: Amendment SA 2714 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-12-17</actionDate>
+              <links />
+              <text>Senate amendment proposed (on the floor): Amendment SA 2714 proposed by Senator Braun for Senator Klobuchar.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2020-12-17T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s481es/xml/BILLS-116s481es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2020-09-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s481rs/xml/BILLS-116s481rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-02-13T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s481is/xml/BILLS-116s481is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-12-18</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>14:52:20</actionTime>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0524</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

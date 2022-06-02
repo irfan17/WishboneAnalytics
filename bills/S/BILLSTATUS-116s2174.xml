@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2174</billNumber>
+    <createDate>2019-07-19T04:42:20Z</createDate>
+    <updateDate>2021-06-11T22:00:16Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-07-18</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2020-11-16T21:54:07Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-18T19:49:57Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Missing Persons and Unidentified Remains Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>8772</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-11-18</actionDate>
+          <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-12-31</actionDate>
+        <links />
+        <text>Became Public Law No: 116-277.</text>
+        <type>President</type>
+        <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-31</actionDate>
+        <links />
+        <text>Became Public Law No: 116-277.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-31</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>President</type>
+        <actionCode>E30000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-31</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>Floor</type>
+        <actionCode>E20000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>President</type>
+        <actionCode>28000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-20</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate agreed to the House amendments to S. 2174 by Unanimous Consent. (consideration: CR S7828)</text>
+        <type>ResolvingDifferences</type>
+      </item>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <links />
+        <text>Resolving differences -- Senate actions: Senate agreed to the House amendments to S. 2174 by Unanimous Consent.</text>
+        <type>NotUsed</type>
+        <actionCode>20500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-17</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-16</actionDate>
+        <actionTime>16:03:26</actionTime>
+        <links />
+        <text>The title of the measure was amended. Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38800</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-16</actionDate>
+        <actionTime>16:03:25</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-16</actionDate>
+        <actionTime>16:03:22</actionTime>
+        <links />
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7217-7218)</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-16</actionDate>
+        <actionTime>16:03:22</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7217-7218)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-16</actionDate>
+        <actionTime>15:53:06</actionTime>
+        <links />
+        <text>DEBATE - The House proceeded with forty minutes of debate on S. 2174.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-16</actionDate>
+        <actionTime>15:53:05</actionTime>
+        <links />
+        <text>Considered under suspension of the rules. (consideration: CR H7217-7219)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-16</actionDate>
+        <actionTime>15:53:04</actionTime>
+        <links />
+        <text>Ms. Scanlon moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-11-17</actionDate>
+        <actionTime>18:06:34</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-11-17</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-11-17</actionDate>
+        <actionTime>17:50:41</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-11-16</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S6714-6715)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-11-16</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S6714-6715)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-11-16</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S6714-6715)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-11-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2020-11-16</actionDate>
+        <links />
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-07-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-07-18</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <publicLawOrPrivateLaw>1</publicLawOrPrivateLaw>
+        <becamePublicLaw>2</becamePublicLaw>
+        <signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>1</signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>
+        <presentedToPresident>2</presentedToPresident>
+        <sentToHouse>2</sentToHouse>
+        <senateAgreedFreeText>1</senateAgreedFreeText>
+        <resolvingDifferencesSenateActions>1</resolvingDifferencesSenateActions>
+        <messageOnHouseAction>1</messageOnHouseAction>
+        <amendingTheTitleOfAnActWithoutObjection>1</amendingTheTitleOfAnActWithoutObjection>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <considerationByHouse>1</considerationByHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>12</senate>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <firstName>John</firstName>
+        <middleName />
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>H001075</bioguideId>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <firstName>Kamala</firstName>
+        <middleName>D.</middleName>
+        <lastName>Harris</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2301</lisID>
+          <bioguideId>H001075</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>T000476</bioguideId>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <firstName>Thomas</firstName>
+        <middleName>Roland</middleName>
+        <lastName>Tillis</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>U000039</bioguideId>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <firstName>TOM</firstName>
+        <middleName />
+        <lastName>UDALL</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>116-277</number>
+      </item>
+    </laws>
+    <notes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Emergency communications systems</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Genetics</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Missing persons</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>Missing Persons and Unidentified Remains Act of 2019</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Missing Persons and Unidentified Remains Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Missing Persons and Unidentified Remains Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Other Short Titles</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Missing Persons and Unidentified Remains Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Missing Persons and Unidentified Remains Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Titles as Amended by Senate</titleType>
+        <parentTitleType>Official Titles Senate</parentTitleType>
+        <title>An Act to the extent provided in advance in appropriations Act, the Attorney General is authorized to use funds appropriated for the operationalization, maintenance, and expansion of the National Missing and Unidentified Persons System (NamUs) for the purpose of carrying out this Act.</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Titles as Amended by House</titleType>
+        <parentTitleType>Official Titles House of Representatives</parentTitleType>
+        <title>To the extent provided in advance in appropriations Act, the Attorney General is authorized to use funds appropriated for the operationalization, maintenance, and expansion of the National Missing and Unidentified Persons System (NamUs) for the purpose of carrying out this Act.</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Missing Persons and Unidentified Remains Act of 2019</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to expand the grants authorized under Jennifer's Law and Kristen's Act to include processing of unidentified remains, resolving missing persons cases, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>2685</number>
+        <description />
+        <purpose>To strike the provision giving entities in southern border States priority in the award of grants related to the identification and processing of unidentified remains.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-11-16</actionDate>
+          <text>Amendment SA 2685 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <number>2685</number>
+        <description />
+        <purpose>To strike the provision giving entities in southern border States priority in the award of grants related to the identification and processing of unidentified remains.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-11-17T05:31:12Z</createDate>
+        <updateDate>2021-01-03T13:43:40Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>C001056</bioguideId>
+            <fullName>Sen. Cornyn, John [R-TX]</fullName>
+            <firstName>John</firstName>
+            <middleName />
+            <lastName>Cornyn</lastName>
+            <party>R</party>
+            <state>TX</state>
+            <identifiers>
+              <lisID>1692</lisID>
+              <bioguideId>C001056</bioguideId>
+              <gpoId>8295</gpoId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate>2020-11-16T05:00:00Z</proposedDate>
+        <submittedDate>2020-11-16T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>2174</number>
+          <title>Missing Persons and Unidentified Remains Act of 2019</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2020-11-16</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2685 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-11-16</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2685 proposed by Senator Cornyn. (consideration: CR S6714; text: CR S6714) To strike the provision giving entities in southern border States priority in the award of grants related to the identification and processing of unidentified remains.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-11-16</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-11-16</actionDate>
+              <links />
+              <text>Senate amendment proposed (on the floor): Amendment SA 2685 proposed by Senator Cornyn.(consideration: CR S6714; text: CR S6714)</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-11-16</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-11-16</actionDate>
+              <links />
+              <text>Senate amendment agreed to: Amendment SA 2685 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date />
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2174enr/xml/BILLS-116s2174enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed Amendment House</type>
+        <date>2020-12-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2174eah/xml/BILLS-116s2174eah.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2020-11-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2174es/xml/BILLS-116s2174es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-07-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2174is/xml/BILLS-116s2174is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-12-31</actionDate>
+      <text>Became Public Law No: 116-277.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

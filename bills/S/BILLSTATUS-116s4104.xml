@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4104</billNumber>
+    <createDate>2020-07-01T04:42:09Z</createDate>
+    <updateDate>2021-01-27T05:34:27Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2020-06-30</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees />
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Stopping Improper Payments to Deceased People Act</latestTitle>
+        <congress>116</congress>
+        <number>2543</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-05-07</actionDate>
+          <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Stopping Improper Payments to Deceased People Act</latestTitle>
+        <congress>116</congress>
+        <number>1333</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-06-25</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 126.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-07-01</actionDate>
+        <actionTime>18:05:17</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-01</actionDate>
+        <actionTime>17:24:53</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-01</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-06-30</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3999-4001; text: CR S3999-4001)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-06-30</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3999-4001; text: CR S3999-4001)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-06-30</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>P000603</bioguideId>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <firstName>Rand</firstName>
+        <middleName />
+        <lastName>Paul</lastName>
+        <party>R</party>
+        <state>KY</state>
+        <identifiers>
+          <lisID>2082</lisID>
+          <bioguideId>P000603</bioguideId>
+          <gpoId>8308</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>K000393</bioguideId>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <firstName>John</firstName>
+        <middleName>Neely</middleName>
+        <lastName>Kennedy</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <lisID>2303</lisID>
+          <bioguideId>K000393</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-06-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>SUSAN</firstName>
+        <middleName>MARGARET</middleName>
+        <lastName>COLLINS</lastName>
+        <party>R</party>
+        <state>ME</state>
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-06-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Debt collection</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Office of Management and Budget (OMB)</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-06-30</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-11-13T19:18:01Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Stopping Improper Payments to Deceased People Act</b></p> <p>This bill expands and otherwise modifies the sharing of death data, particularly with regard to the recovery of improper payments to deceased individuals.</p> <p>The bill requires the Social Security Administration (SSA) to pay to states their reasonable costs for compiling and sharing records of deaths with the SSA. Under current law, the SSA is not required to pay the states but may choose to do so.</p> <p>In addition, the SSA may share, if certain conditions are met, the death data with federal and state agencies for a broader range of purposes. Such purposes include ensuring proper payments of benefits and tax administration duties. This authority terminates after five years.</p> <p>The Office of Management and Budget shall develop guidance for federal agencies that collect death data, and the Department of the Treasury and the Department of Health and Human Services shall jointly develop a plan to assist and states, local agencies, and Indian tribes in providing the data.</p> <p>Additionally, the SSA must share, within 30 days, death data with Treasury to facilitate the recovery of certain stimulus payments made to individuals who were deceased before January 1, 2020.</p>]]></text>
+          <updateDate>2020-06-30T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2020-06-30</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-01-22T19:29:53Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Stopping Improper Payments to Deceased People Act</b></p> <p>This bill expands and otherwise modifies the sharing of death data, particularly with regard to the recovery of improper payments to deceased individuals.</p> <p>The bill requires the Social Security Administration (SSA) to pay to states their reasonable costs for compiling and sharing records of deaths with the SSA. Under current law, the SSA is not required to pay the states but may choose to do so.</p> <p>In addition, the SSA may share, if certain conditions are met, the death data with federal and state agencies for a broader range of purposes. Such purposes include ensuring proper payments of benefits and tax administration duties. This authority terminates after five years.</p> <p>The Office of Management and Budget shall develop guidance for federal agencies that collect death data, and the Department of the Treasury and the Department of Health and Human Services shall jointly develop a plan to assist and states, local agencies, and Indian tribes in providing the data.</p> <p>Additionally, the SSA must share, within 30 days, death data with Treasury to facilitate the recovery of certain stimulus payments made to individuals who were deceased before January 1, 2020.</p>]]></text>
+          <updateDate>2020-06-30T14:55:14Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Stopping Improper Payments to Deceased People Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType />
+        <title>Stopping Improper Payments to Deceased People Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Stopping Improper Payments to Deceased People Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Stopping Improper Payments to Deceased People Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Improper Payments Elimination and Recovery Improvement Act of 2012, including making changes to the Do Not Pay Initiative, for improved detection, prevention, and recovery of improper payments to deceased individuals, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2020-06-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4104es/xml/BILLS-116s4104es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Considered and Passed Senate</type>
+        <date>2020-06-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4104cps/xml/BILLS-116s4104cps.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-07-01</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>18:05:17</actionTime>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

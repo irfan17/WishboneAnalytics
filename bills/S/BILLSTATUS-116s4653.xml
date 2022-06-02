@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4653</billNumber>
+    <createDate>2020-09-23T05:42:11Z</createDate>
+    <updateDate>2021-01-04T00:37:54Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2020-09-22</introducedDate>
+    <congress>116</congress>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>200</rollNumber>
+        <url>http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&amp;congress=116&amp;session=2&amp;vote=00200</url>
+        <fullActionName>CLOTURE MOTION</fullActionName>
+        <chamber>Senate</chamber>
+        <congress>116</congress>
+        <date>2020-10-01T17:45:19Z</date>
+        <sessionNumber>2</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees />
+    </committees>
+    <committeeReports />
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 43. Record Vote Number: 200. (CR S6015)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-09-29</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Cloture motion on the motion to proceed to the measure presented in Senate. (CR S5890)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-09-29</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure made in Senate. (CR S5890)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-09-23</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 551.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2020-09-22</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (text: CR S5791)</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2020-09-22</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <clotureMotion>1</clotureMotion>
+        <clotureMotionPresented>1</clotureMotionPresented>
+        <motionToConsider>1</motionToConsider>
+        <placedOnCalendarSection>2</placedOnCalendarSection>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S000148</bioguideId>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <firstName>CHARLES</firstName>
+        <middleName>E.</middleName>
+        <lastName>SCHUMER</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1036</lisID>
+          <bioguideId>S000148</bioguideId>
+          <gpoId>8279</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>A bill to protect the healthcare of hundreds of millions of people of the United States and prevent efforts of the Department of Justice to advocate courts to strike down the Patient Protection and Affordable Care Act.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to protect the healthcare of hundreds of millions of people of the United States and prevent efforts of the Department of Justice to advocate courts to strike down the Patient Protection and Affordable Care Act.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to protect the healthcare of hundreds of millions of people of the United States and prevent efforts of the Department of Justice to advocate courts to strike down the Patient Protection and Affordable Care Act.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>2679</number>
+        <description />
+        <purpose />
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction />
+        <number>2679</number>
+        <description />
+        <purpose />
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-10-02T04:46:09Z</createDate>
+        <updateDate>2020-12-31T21:31:19Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>C001098</bioguideId>
+            <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+            <firstName>Ted</firstName>
+            <middleName />
+            <lastName>Cruz</lastName>
+            <party>R</party>
+            <state>TX</state>
+            <identifiers>
+              <lisID>2175</lisID>
+              <bioguideId>C001098</bioguideId>
+              <gpoId />
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2020-10-01T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>4653</number>
+          <title>A bill to protect the healthcare of hundreds of millions of people of the United States and prevent efforts of the Department of Justice to advocate courts to strike down the Patient Protection and Affordable Care Act.</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2020-10-01</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-10-01</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>1</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>2678</number>
+        <description />
+        <purpose />
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction />
+        <number>2678</number>
+        <description />
+        <purpose />
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-10-02T04:46:08Z</createDate>
+        <updateDate>2020-12-31T21:31:19Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>C001098</bioguideId>
+            <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+            <firstName>Ted</firstName>
+            <middleName />
+            <lastName>Cruz</lastName>
+            <party>R</party>
+            <state>TX</state>
+            <identifiers>
+              <lisID>2175</lisID>
+              <bioguideId>C001098</bioguideId>
+              <gpoId />
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2020-10-01T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>4653</number>
+          <title>A bill to protect the healthcare of hundreds of millions of people of the United States and prevent efforts of the Department of Justice to advocate courts to strike down the Patient Protection and Affordable Care Act.</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2020-10-01</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-10-01</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>1</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Placed on Calendar Senate</type>
+        <date>2020-09-23T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4653pcs/xml/BILLS-116s4653pcs.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-10-01</actionDate>
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 43. Record Vote Number: 200. (CR S6015)</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number />
+      </item>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0551</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

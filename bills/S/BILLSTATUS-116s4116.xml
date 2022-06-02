@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4116</billNumber>
+    <createDate>2020-07-01T04:42:09Z</createDate>
+    <updateDate>2021-05-04T05:25:37Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2020-06-30</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees />
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>To extend the authority for commitments for the paycheck protection program and separate amounts authorized for other loans under section 7(a) of the Small Business Act, and for other purposes.</latestTitle>
+        <congress>116</congress>
+        <number>7437</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-07-01</actionDate>
+          <text>Referred to the House Committee on Small Business.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-07-04</actionDate>
+        <links />
+        <text>Became Public Law No: 116-147.</text>
+        <type>President</type>
+        <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-04</actionDate>
+        <links />
+        <text>Became Public Law No: 116-147.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-04</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>President</type>
+        <actionCode>E30000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-04</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-02</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>Floor</type>
+        <actionCode>E20000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-02</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>President</type>
+        <actionCode>28000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-01</actionDate>
+        <actionTime>17:27:42</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-01</actionDate>
+        <actionTime>17:27:39</actionTime>
+        <links />
+        <text>On passage Passed without objection. (text: CR H3044)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-01</actionDate>
+        <actionTime>17:27:39</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On passage Passed without objection.(text: CR H3044)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-01</actionDate>
+        <actionTime>17:27:08</actionTime>
+        <links />
+        <text>Ms. Craig asked unanimous consent to take from the Speaker's table and consider.</text>
+        <type>Floor</type>
+        <actionCode>H30200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-01</actionDate>
+        <actionTime>17:27:08</actionTime>
+        <links />
+        <text>Considered by unanimous consent. (consideration: CR H3044)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-01</actionDate>
+        <actionTime>17:24:54</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-01</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-06-30</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4024; text: CR S4024)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-06-30</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S4024; text: CR S4024)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-06-30</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <publicLawOrPrivateLaw>1</publicLawOrPrivateLaw>
+        <becamePublicLaw>2</becamePublicLaw>
+        <signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>1</signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>
+        <presentedToPresident>2</presentedToPresident>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <considerationByHouse>1</considerationByHouse>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <firstName>BENJAMIN</firstName>
+        <middleName>L.</middleName>
+        <lastName>CARDIN</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S000148</bioguideId>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <firstName>CHARLES</firstName>
+        <middleName>E.</middleName>
+        <lastName>SCHUMER</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1036</lisID>
+          <bioguideId>S000148</bioguideId>
+          <gpoId>8279</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-06-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001181</bioguideId>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <middleName />
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-06-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <firstName>Christopher</firstName>
+        <middleName>A.</middleName>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-06-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <firstName>Jacklyn</firstName>
+        <middleName />
+        <lastName>Rosen</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <lisID>2339</lisID>
+          <bioguideId>R000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-06-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>SUSAN</firstName>
+        <middleName>MARGARET</middleName>
+        <lastName>COLLINS</lastName>
+        <party>R</party>
+        <state>ME</state>
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-06-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>116-147</number>
+      </item>
+    </laws>
+    <notes />
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Business expenses</name>
+          </item>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-06-30</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-07-02T13:36:25Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill extends through August 8, 2020, the application period for the Paycheck Protection Program established to support small businesses in response to COVID-19 (i.e., coronavirus disease 2019).</p>]]></text>
+          <updateDate>2020-06-30T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2020-06-30</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-07-02T14:41:24Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill extends through August 8, 2020, the application period for the Paycheck Protection Program established to support small businesses in response to COVID-19 (i.e., coronavirus disease 2019).</p>]]></text>
+          <updateDate>2020-06-30T14:11:49Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+        <item>
+          <versionCode>53</versionCode>
+          <actionDate>2020-07-01</actionDate>
+          <actionDesc>Passed House</actionDesc>
+          <lastSummaryUpdateDate>2020-07-06T14:38:31Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill extends through August 8, 2020, the application period for the Paycheck Protection Program established to support small businesses in response to COVID-19 (i.e., coronavirus disease 2019).</p>]]></text>
+          <updateDate>2020-07-01T14:15:33Z</updateDate>
+          <name>Passed House</name>
+        </item>
+        <item>
+          <versionCode>49</versionCode>
+          <actionDate>2020-07-04</actionDate>
+          <actionDesc>Public Law</actionDesc>
+          <lastSummaryUpdateDate>2020-07-06T18:48:52Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill extends through August 8, 2020, the application period for the Paycheck Protection Program established to support small businesses in response to COVID-19 (i.e., coronavirus disease 2019).</p>]]></text>
+          <updateDate>2020-07-05T03:59:58Z</updateDate>
+          <name>Public Law</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A bill to extend the authority for commitments for the paycheck protection program and separate amounts authorized for other loans under section 7(a) of the Small Business Act, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to extend the authority for commitments for the paycheck protection program and separate amounts authorized for other loans under section 7(a) of the Small Business Act, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to extend the authority for commitments for the paycheck protection program and separate amounts authorized for other loans under section 7(a) of the Small Business Act, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>2381</number>
+        <description />
+        <purpose />
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction />
+        <number>2381</number>
+        <description />
+        <purpose />
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-07-01T11:21:09Z</createDate>
+        <updateDate>2020-12-15T16:24:17Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>S001217</bioguideId>
+            <fullName>Sen. Scott, Rick  [R-FL]</fullName>
+            <firstName>Rick</firstName>
+            <middleName />
+            <lastName>Scott</lastName>
+            <party>R</party>
+            <state>FL</state>
+            <identifiers>
+              <lisID>2470</lisID>
+              <bioguideId>S001217</bioguideId>
+              <gpoId />
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2020-06-30T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>4116</number>
+          <title>A bill to extend the authority for commitments for the paycheck protection program and separate amounts authorized for other loans under section 7(a) of the Small Business Act, and for other purposes.</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2020-06-30</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-06-30</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>1</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date />
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4116enr/xml/BILLS-116s4116enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2020-06-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4116es/xml/BILLS-116s4116es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Considered and Passed Senate</type>
+        <date>2020-06-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4116cps/xml/BILLS-116s4116cps.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-07-04</actionDate>
+      <text>Became Public Law No: 116-147.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

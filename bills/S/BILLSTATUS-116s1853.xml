@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1853</billNumber>
+    <createDate>2019-06-14T04:57:15Z</createDate>
+    <updateDate>2021-06-11T21:59:53Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-06-13</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Other</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2020-06-04T19:16:37Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-12-11T19:30:00Z</date>
+            </item>
+            <item>
+              <name>Hearings by</name>
+              <date>2019-06-19T18:30:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-13T20:05:58Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-230</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>BADGES for Native Communities Act</latestTitle>
+        <congress>116</congress>
+        <number>4289</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-09-25</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Violence Against Women Reauthorization Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>2920</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-11-21</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 308.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-06-04</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 476.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2020-06-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-230.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2020-06-04</actionDate>
+        <links />
+        <text>Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-230.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-12-11</actionDate>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-06-13</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>U000039</bioguideId>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <firstName>TOM</firstName>
+        <middleName />
+        <lastName>UDALL</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001113</bioguideId>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <firstName>Catherine</firstName>
+        <middleName />
+        <lastName>Cortez Masto</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <firstName>Jon</firstName>
+        <middleName />
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <state>MT</state>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <middleName />
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001197</bioguideId>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <firstName>Martha</firstName>
+        <middleName />
+        <lastName>McSally</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <middleName />
+        <lastName>Smith</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2020-05-06T14:38:00Z</pubDate>
+        <title>S. 1853, BADGES for Native Communities Act</title>
+        <url>https://www.cbo.gov/publication/56348</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Drug Enforcement Administration (DEA)</name>
+          </item>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Federal Bureau of Investigation (FBI)</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+          <item>
+            <name>Missing persons</name>
+          </item>
+          <item>
+            <name>Personnel records</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-06-13</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-03-22T14:52:44Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Bridging Agency Data Gaps and Ensuring Safety for Native Communities Act or the BADGES for Native Communities Act</b></p> <p>This bill modifies policies and procedures related to information sharing, reporting and investigation of missing, unidentified, and murdered Native Americans. Among other elements, the bill requires the Department of Justice to do the following:</p> <ul> <li>share information with the National Missing and Unidentified Persons System (NamUs) on missing persons and unidentified remains,</li> <li>ensure technical assistance and training are provided to the Bureau of Indian Affairs (BIA) and tribal law enforcement agencies to utilize the National Crime Information Center (NCIC) and other national databases,</li> <li>establish the Tribal Access Program to enhance the ability of tribal governments to access and enter information into federal criminal information databases,</li> <li>establish a grant program for specified entities to implement changes to enhance response to missing person and murder cases of interest to tribes, and</li> <li>work with the Indian Health Service and the Substance Abuse and Mental Health Services Administration to ensure resources for mental health wellness programs are available to tribal and BIA law enforcement officers experiencing occupational stress.</li> </ul> <p>The bill expands access to (1) the national crime information database for NamUs, and (2) the NCIC for each tribal justice official.</p> <p>Finally, the bill requires the Department of the Interior to establish a five-year demonstration program for the purpose of conducting or adjudicating personnel background investigations for applicants for law enforcement positions in the BIA.</p>]]></text>
+          <updateDate>2019-06-13T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2020-06-04</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-06-26T20:01:42Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Bridging Agency Data Gaps and Ensuring Safety for Native Communities Act or the BADGES for Native Communities Act</b></p> <p>This bill modifies policies and procedures related to information sharing, reporting, and investigating cases of missing, unidentified,&nbsp;or murdered Indians. </p> <p>Among other elements, the bill requires the Department of Justice to</p> <ul> <li>share information, after receiving certain permission, with the National Missing and Unidentified Persons System (NamUs) on missing persons, unclaimed remains, and unidentified remains; </li> <li>ensure that technical assistance and training are provided to the Bureau of Indian Affairs (BIA) and tribal law enforcement agencies to utilize the National Crime Information Center (NCIC) and other national databases; </li> <li>establish the Tribal Civil and Criminal Information Access Program to enhance the ability of tribal governments to access, enter information into, and obtain information from federal criminal information databases; </li> <li>establish a grant program for specified entities (e.g., tribes) to implement changes to enhance their responses to missing person cases and death investigations of interest to tribes; and </li> <li>work with the Department of Health and Human Services to ensure that federal training resources and culturally appropriate mental health and wellness programs are available to tribal and BIA law enforcement officers experiencing occupational stress. </li></ul> <p>The bill expands access to (1) the national crime information database for NamUs, and (2) the NCIC for each tribal justice official. </p> <p>Finally, the Department of the Interior must establish a five-year demonstration program for the purpose of conducting or adjudicating personnel background investigations for applicants for law enforcement positions in the BIA. </p>]]></text>
+          <updateDate>2020-06-04T13:51:04Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>BADGES for Native Communities Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>BADGES for Native Communities Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Bridging Agency Data Gaps and Ensuring Safety for Native Communities Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>BADGES for Native Communities Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Bridging Agency Data Gaps and Ensuring Safety for Native Communities Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to require Federal law enforcement agencies to report on cases of missing or murdered Indians, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>BADGES for Native Communities Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2020-06-04T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1853rs/xml/BILLS-116s1853rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-06-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1853is/xml/BILLS-116s1853is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-06-04</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 476.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0476</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

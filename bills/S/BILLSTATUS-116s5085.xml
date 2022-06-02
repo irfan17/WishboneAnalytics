@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>5085</billNumber>
+    <createDate>2020-12-30T05:28:49Z</createDate>
+    <updateDate>2021-02-03T16:00:14Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2020-12-29</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees />
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>A bill to disclose access to election infrastructure by foreign nationals.</latestTitle>
+        <congress>116</congress>
+        <number>2656</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-10-22</actionDate>
+          <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>SAFE Votes Act</latestTitle>
+        <congress>116</congress>
+        <number>4895</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-11-12</actionDate>
+          <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>A bill to repeal section 230 of the Communications Act of 1934.</latestTitle>
+        <congress>116</congress>
+        <number>5020</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-12-15</actionDate>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-12-30</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 644.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2020-12-29</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (text: CR S7968-7969)</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2020-12-29</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarSection>2</placedOnCalendarSection>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M000355</bioguideId>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <firstName>MITCH</firstName>
+        <middleName />
+        <lastName>MCCONNELL</lastName>
+        <party>R</party>
+        <state>KY</state>
+        <identifiers>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>P000612</bioguideId>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <firstName>David</firstName>
+        <middleName>Alfred</middleName>
+        <lastName>Perdue</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <lisID>2286</lisID>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-12-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Election Assistance Commission</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Subversive activities</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-12-29</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-01-06T14:20:18Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill increases the amounts of the 2020 recovery rebate, repeals the immunity from liability of a provider or user of an interactive computer service for screening and blocking offensive content, and addresses the administration of federal elections.</p> <p>The bill increases the amount of the 2020 recovery rebate for individual taxpayers to $2,000 ($4,000 for joint returns). The amount of such rebate is phased out for taxpayers whose adjusted gross income exceeds $75,000 ($150,000 for joint returns). A <i>recovery rebate</i> is a stimulus payment for taxpayers and their dependents who are adversely affected by COVID-19 (i.e., coronavirus disease 2019).</p> <p>This bill also removes the immunity from liability of a provider or user of an interactive computer service (e.g., a social media company) for screening and blocking offensive content on its platform.</p> <p>Regarding the conduct of federal elections, the bill establishes a bipartisan advisory committee within the Election Assistance Commission (EAC) to study the integrity and administration of the November 2020 general election.</p> <p>Under the bill, each chief state election official must disclose to the EAC the identity of any foreign national known by that official to have (1) physically handled either ballots used in an election for federal office or voting machines, (2) had unmonitored access to a storage facility or centralized voting-tabulation location used to support an election, or (3) had unmonitored access to election-related information or communications technology. It also requires the official to make the disclosure within 30 days of becoming aware of such activity. </p>]]></text>
+          <updateDate>2020-12-29T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A bill to amend the Internal Revenue Code of 1986 to increase the additional 2020 recovery rebates, to repeal section 230 of the Communications Act of 1934, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Internal Revenue Code of 1986 to increase the additional 2020 recovery rebates, to repeal section 230 of the Communications Act of 1934, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Internal Revenue Code of 1986 to increase the additional 2020 recovery rebates, to repeal section 230 of the Communications Act of 1934, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Placed on Calendar Senate</type>
+        <date>2020-12-30T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s5085pcs/xml/BILLS-116s5085pcs.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-12-30</actionDate>
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 644.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number />
+      </item>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0644</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>371</billNumber>
+    <createDate>2019-02-08T05:55:24Z</createDate>
+    <updateDate>2021-06-11T22:02:06Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-02-07</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2020-12-21T20:56:01Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-07T18:41:24Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>BUILD Act</latestTitle>
+        <congress>116</congress>
+        <number>1060</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-05-15</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-01-13</actionDate>
+        <links />
+        <text>Became Public Law No: 116-342.</text>
+        <type>President</type>
+        <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2021-01-13</actionDate>
+        <links />
+        <text>Became Public Law No: 116-342.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2021-01-13</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>President</type>
+        <actionCode>E30000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2021-01-13</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2021-01-01</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>Floor</type>
+        <actionCode>E20000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2021-01-01</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>President</type>
+        <actionCode>28000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-31</actionDate>
+        <actionTime>10:10:28</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-31</actionDate>
+        <actionTime>10:10:26</actionTime>
+        <links />
+        <text>On passage Passed without objection. (text: CR H9172)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-31</actionDate>
+        <actionTime>10:10:26</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On passage Passed without objection.(text: CR H9172)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-31</actionDate>
+        <actionTime>10:10:00</actionTime>
+        <links />
+        <text>Mrs. Dingell asked unanimous consent to take from the Speaker's table and consider.</text>
+        <type>Floor</type>
+        <actionCode>H30200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-31</actionDate>
+        <actionTime>10:10:00</actionTime>
+        <links />
+        <text>Considered by unanimous consent. (consideration: CR H9172)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <actionTime>16:45:29</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <actionTime>16:33:02</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7901-7902)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S7901-7902)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbk00</systemCode>
+            <name>Banking, Housing, and Urban Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <links />
+        <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssbk00</systemCode>
+            <name>Banking, Housing, and Urban Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbk00</systemCode>
+            <name>Banking, Housing, and Urban Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (Sponsor introductory remarks on measure: CR S1135)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <publicLawOrPrivateLaw>1</publicLawOrPrivateLaw>
+        <becamePublicLaw>2</becamePublicLaw>
+        <signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>1</signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>
+        <presentedToPresident>2</presentedToPresident>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <considerationByHouse>1</considerationByHouse>
+        <sentToHouse>1</sentToHouse>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+        <senate>8</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>F000463</bioguideId>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <firstName>Deb</firstName>
+        <middleName />
+        <lastName>Fischer</lastName>
+        <party>R</party>
+        <state>NE</state>
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>V000128</bioguideId>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+        <middleName />
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <firstName>Angus</firstName>
+        <middleName />
+        <lastName>King</lastName>
+        <party>I</party>
+        <state>ME</state>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000612</bioguideId>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <firstName>David</firstName>
+        <middleName>Alfred</middleName>
+        <lastName>Perdue</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <lisID>2286</lisID>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001191</bioguideId>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <firstName>Kyrsten</firstName>
+        <middleName />
+        <lastName>Sinema</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>T000476</bioguideId>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <firstName>Thomas</firstName>
+        <middleName>Roland</middleName>
+        <lastName>Tillis</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>116-342</number>
+      </item>
+    </laws>
+    <notes />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Consumer Financial Protection Bureau</name>
+          </item>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-07</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-04-16T16:40:41Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Building Up Independent Lives and Dreams Act or the BUILD Act </b></p> <p>This bill allows nonprofit organizations offering mortgage loans for charitable purposes to use certain alternative forms to satisfy disclosure requirements. </p>]]></text>
+          <updateDate>2019-02-07T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2020-12-21</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-12-28T21:40:22Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Building Up Independent Lives and Dreams Act or the BUILD Act </b></p> <p>This bill allows nonprofit organizations offering mortgage loans for charitable purposes to use certain alternative forms to satisfy disclosure requirements. </p>]]></text>
+          <updateDate>2020-12-21T13:46:48Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+        <item>
+          <versionCode>53</versionCode>
+          <actionDate>2020-12-31</actionDate>
+          <actionDesc>Passed House</actionDesc>
+          <lastSummaryUpdateDate>2021-02-03T19:26:41Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Building Up Independent Lives and Dreams Act or the BUILD Act </b></p> <p>This bill allows nonprofit organizations offering mortgage loans for charitable purposes to use certain alternative forms to satisfy disclosure requirements. </p>]]></text>
+          <updateDate>2020-12-31T16:42:39Z</updateDate>
+          <name>Passed House</name>
+        </item>
+        <item>
+          <versionCode>49</versionCode>
+          <actionDate>2021-01-13</actionDate>
+          <actionDesc>Public Law</actionDesc>
+          <lastSummaryUpdateDate>2021-03-11T21:53:55Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Building Up Independent Lives and Dreams Act or the BUILD Act </b></p> <p>This bill allows nonprofit organizations offering mortgage loans for charitable purposes to use certain alternative forms to satisfy disclosure requirements. </p>]]></text>
+          <updateDate>2021-01-13T15:00:09Z</updateDate>
+          <name>Public Law</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>BUILD Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>BUILD Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Building Up Independent Lives and Dreams Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>BUILD Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Building Up Independent Lives and Dreams Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>BUILD Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Building Up Independent Lives and Dreams Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Building Up Independent Lives and Dreams Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>BUILD Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to provide regulatory relief to charitable organizations that provide housing assistance, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>BUILD Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>2729</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-12-21</actionDate>
+          <text>Amendment SA 2729 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <number>2729</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-12-22T12:01:11Z</createDate>
+        <updateDate>2021-06-11T22:02:06Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>F000463</bioguideId>
+            <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+            <firstName>Deb</firstName>
+            <middleName />
+            <lastName>Fischer</lastName>
+            <party>R</party>
+            <state>NE</state>
+            <identifiers>
+              <lisID>2179</lisID>
+              <bioguideId>F000463</bioguideId>
+              <gpoId />
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate>2020-12-21T05:00:00Z</proposedDate>
+        <submittedDate>2020-12-21T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>371</number>
+          <title>BUILD Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2020-12-21</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2729 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-12-21</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2729 proposed by Senator Cornyn for Senator Fischer. (consideration: CR S7901-7902; text: CR S7901-7902) In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-12-21</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-12-21</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-12-21</actionDate>
+              <links />
+              <text>Senate amendment proposed (on the floor): Amendment SA 2729 proposed by Senator Cornyn for Senator Fischer.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-12-21</actionDate>
+              <links />
+              <text>Senate amendment agreed to: Amendment SA 2729 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date />
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s371enr/xml/BILLS-116s371enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2020-12-21T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s371es/xml/BILLS-116s371es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-02-07T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s371is/xml/BILLS-116s371is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-01-13</actionDate>
+      <text>Became Public Law No: 116-342.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

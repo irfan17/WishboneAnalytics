@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1441</billNumber>
+    <createDate>2019-05-15T04:42:16Z</createDate>
+    <updateDate>2021-06-11T21:59:15Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-05-14</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-07-31T22:08:27Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-07-31T14:15:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-14T15:49:13Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Protecting Europe's Energy Security Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>4818</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-11-15</actionDate>
+          <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-07-31</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-07-31</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-07-31</actionDate>
+        <links />
+        <text>Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-07-31</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-05-14</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <firstName>Ted</firstName>
+        <middleName />
+        <lastName>Cruz</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S001181</bioguideId>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <middleName />
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <firstName>John</firstName>
+        <middleName />
+        <lastName>Barrasso</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001095</bioguideId>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <firstName>Tom</firstName>
+        <middleName />
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>J000293</bioguideId>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <firstName>Ron</firstName>
+        <middleName />
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000562</bioguideId>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <firstName>Cory</firstName>
+        <middleName />
+        <lastName>Gardner</lastName>
+        <party>R</party>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-08-22T17:45:26Z</pubDate>
+        <title>S. 1441, Protecting Europe’s Energy Security Act of 2019</title>
+        <url>https://www.cbo.gov/publication/55575</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alliances</name>
+          </item>
+          <item>
+            <name>Competitiveness, trade promotion, trade deficits</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Foreign and international banking</name>
+          </item>
+          <item>
+            <name>Foreign and international corporations</name>
+          </item>
+          <item>
+            <name>Foreign loans and debt</name>
+          </item>
+          <item>
+            <name>Foreign property</name>
+          </item>
+          <item>
+            <name>Germany</name>
+          </item>
+          <item>
+            <name>International monetary system and foreign exchange</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Marine and inland water transportation</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>Nuclear power</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Pipelines</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Russia</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Technology transfer and commercialization</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+          <item>
+            <name>U.S. and foreign investments</name>
+          </item>
+          <item>
+            <name>Ukraine</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+          <item>
+            <name>War and emergency powers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-05-14</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-03-02T15:49:37Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Protecting Europe's Energy Security Act of 2019</b></p> <p>This bill establishes sanctions related to the provision of vessels for the construction of Russian energy export pipelines.</p> <p>The Department of State must&nbsp;report to Congress (1) a list of vessels engaged in below sea-level pipe laying for the construction of Russian energy export pipelines, and (2) a list of foreign individuals and entities that provided or facilitated the provision of the vessels for such pipeline construction. The State Department shall impose property- and visa-blocking sanctions on (1) the identified foreign individuals and entities, and (2) each corporate officer and principal shareholder with a controlling interest in the identified vessels. </p> <p>The President may impose various sanctions on foreign individuals and entities that knowingly provide underwriting, insurance, or reinsurance for the identified vessels. The sanctions may include prohibitions from (1) receiving Export-Import Bank export assistance, (2) being designated as a primary dealer of U.S. government debt instruments, or&nbsp;(3) receiving U.S. government procurement contracts.</p> <p>The State Department shall develop a strategy on improving the energy security of U.S. allies in Europe. The State Department shall also report to Congress (1) on the effects of Russia's Nord Stream 2 natural gas pipeline on U.S. national security; and (2) a periodically updated list of entities providing goods, services, or technology for the construction or repair of the pipeline and whether such transactions are prohibited under certain U.S. laws. </p>]]></text>
+          <updateDate>2019-05-14T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2019-07-31</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-03-04T17:01:05Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Protecting Europe's Energy Security Act of 2019</b></p> <p>This bill establishes sanctions related to the provision of vessels for the construction of Russian energy export pipelines.</p> <p>The Department of State must&nbsp;report to Congress (1) a list of vessels engaged in below sea-level pipe laying for the construction of the Nord Stream 2 pipeline, the TurkStream pipeline, or any successor projects; and (2) a list of foreign individuals and entities that knowingly provided or facilitated the provision of the vessels for such pipeline construction. The State Department shall impose property- and visa-blocking sanctions on (1) the identified foreign individuals and entities, and (2) each corporate officer and principal shareholder with a controlling interest in the identified vessels. </p> <p>The President may impose various sanctions on foreign individuals and entities that knowingly provide significant underwriting, insurance, or reinsurance for the identified vessels. The sanctions may include prohibitions from (1) receiving Export-Import Bank export assistance, (2) being designated as a primary dealer of U.S. government debt instruments, or&nbsp;(3) receiving U.S. government procurement contracts.</p> <p>]]></text>
+          <updateDate>2019-07-31T12:16:46Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Protecting Europe’s Energy Security Act of 2019</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Protecting Europe’s Energy Security Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Protecting Europe’s Energy Security Act of 2019</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Protecting Europe’s Energy Security Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to impose sanctions with respect to the provision of certain vessels for the construction of Russian energy export pipelines, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-07-31T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1441rs/xml/BILLS-116s1441rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-05-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1441is/xml/BILLS-116s1441is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-07-31</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0169</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

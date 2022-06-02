@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4996</billNumber>
+    <createDate>2020-12-10T10:21:35Z</createDate>
+    <updateDate>2021-05-04T05:25:38Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2020-12-09</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees />
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Bankruptcy Administration Improvement Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>8895</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-12-08</actionDate>
+          <text>Referred to the House Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-01-12</actionDate>
+        <links />
+        <text>Became Public Law No: 116-325.</text>
+        <type>President</type>
+        <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2021-01-12</actionDate>
+        <links />
+        <text>Became Public Law No: 116-325.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2021-01-12</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>President</type>
+        <actionCode>E30000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2021-01-12</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-31</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>Floor</type>
+        <actionCode>E20000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-31</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>President</type>
+        <actionCode>28000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <actionTime>21:12:04</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <actionTime>21:12:01</actionTime>
+        <links />
+        <text>On passage Passed without objection. (text: CR H7315-7317)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <actionTime>21:12:01</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On passage Passed without objection.</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <actionTime>21:11:43</actionTime>
+        <links />
+        <text>Mr. Cicilline asked unanimous consent to take from the Speaker's table and consider.</text>
+        <type>Floor</type>
+        <actionCode>H30200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-21</actionDate>
+        <actionTime>21:11:43</actionTime>
+        <links />
+        <text>Considered by unanimous consent. (consideration: CR H7315-7317)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-14</actionDate>
+        <actionTime>14:24:59</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-14</actionDate>
+        <actionTime>13:35:08</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-10</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-09</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S7372-7373; text: CR S7328-7330)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-09</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-09</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <publicLawOrPrivateLaw>1</publicLawOrPrivateLaw>
+        <becamePublicLaw>2</becamePublicLaw>
+        <signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>1</signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>
+        <presentedToPresident>2</presentedToPresident>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <considerationByHouse>1</considerationByHouse>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000359</bioguideId>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <firstName>LINDSEY</firstName>
+        <middleName>O.</middleName>
+        <lastName>GRAHAM</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <lisID>452</lisID>
+          <bioguideId>G000359</bioguideId>
+          <gpoId>8335</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <firstName>Christopher</firstName>
+        <middleName>A.</middleName>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-12-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <middleName />
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-12-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <firstName>BENJAMIN</firstName>
+        <middleName>L.</middleName>
+        <lastName>CARDIN</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-12-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001243</bioguideId>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <firstName>Marsha</firstName>
+        <middleName />
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-12-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C000174</bioguideId>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <firstName>THOMAS</firstName>
+        <middleName>R.</middleName>
+        <lastName>CARPER</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-12-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>116-325</number>
+      </item>
+    </laws>
+    <notes />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Bankruptcy</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Delaware</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Florida</name>
+          </item>
+          <item>
+            <name>Georgia</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Judges</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+          <item>
+            <name>Maryland</name>
+          </item>
+          <item>
+            <name>Michigan</name>
+          </item>
+          <item>
+            <name>Nevada</name>
+          </item>
+          <item>
+            <name>New Jersey</name>
+          </item>
+          <item>
+            <name>New York State</name>
+          </item>
+          <item>
+            <name>North Carolina</name>
+          </item>
+          <item>
+            <name>Puerto Rico</name>
+          </item>
+          <item>
+            <name>South Carolina</name>
+          </item>
+          <item>
+            <name>U.S. territories and protectorates</name>
+          </item>
+          <item>
+            <name>Virginia</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-12-09</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-01-04T15:16:11Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Bankruptcy Administration Improvement Act of 2020 </b></p> <p>This bill modifies administrative provisions related to the bankruptcy trustee system. Specifically, the bill (1) provides for the distribution of bankruptcy fees made to the U.S. Trustee System Fund for the costs of administering payments and trustee compensation, (2) establishes the Chapter 7 Trustee Fund and associated fees, and (3) extends the temporary office of bankruptcy judges in specified judicial districts. </p>]]></text>
+          <updateDate>2020-12-09T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2020-12-09</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-01-05T20:46:03Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Bankruptcy Administration Improvement Act of 2020 </b></p> <p>This bill modifies administrative provisions related to the bankruptcy trustee system. Specifically, the bill (1) provides for the distribution of bankruptcy fees made to the U.S. Trustee System Fund for the costs of administering payments and trustee compensation, (2) establishes the Chapter 7 Trustee Fund and associated fees, and (3) extends the temporary office of bankruptcy judges in specified judicial districts. </p>]]></text>
+          <updateDate>2020-12-09T14:40:30Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+        <item>
+          <versionCode>53</versionCode>
+          <actionDate>2020-12-21</actionDate>
+          <actionDesc>Passed House</actionDesc>
+          <lastSummaryUpdateDate>2021-01-05T20:15:23Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Bankruptcy Administration Improvement Act of 2020 </b></p> <p>This bill modifies administrative provisions related to the bankruptcy trustee system. Specifically, the bill (1) provides for the distribution of bankruptcy fees made to the U.S. Trustee System Fund for the costs of administering payments and trustee compensation, (2) establishes the Chapter 7 Trustee Fund and associated fees, and (3) extends the temporary office of bankruptcy judges in specified judicial districts. </p>]]></text>
+          <updateDate>2020-12-21T13:41:02Z</updateDate>
+          <name>Passed House</name>
+        </item>
+        <item>
+          <versionCode>49</versionCode>
+          <actionDate>2021-01-12</actionDate>
+          <actionDesc>Public Law</actionDesc>
+          <lastSummaryUpdateDate>2021-03-24T19:25:36Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Bankruptcy Administration Improvement Act of 2020 </b></p> <p>This bill modifies administrative provisions related to the bankruptcy trustee system. Specifically, the bill (1) provides for the distribution of bankruptcy fees made to the U.S. Trustee System Fund for the costs of administering payments and trustee compensation, (2) establishes the Chapter 7 Trustee Fund and associated fees, and (3) extends the temporary office of bankruptcy judges in specified judicial districts. </p>]]></text>
+          <updateDate>2021-01-12T20:10:02Z</updateDate>
+          <name>Public Law</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Bankruptcy Administration Improvement Act of 2020</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Enacted</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Bankruptcy Administration Improvement Act of 2020</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Bankruptcy Administration Improvement Act of 2020</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Bankruptcy Administration Improvement Act of 2020</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Bankruptcy Administration Improvement Act of 2020</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Bankruptcy Administration Improvement Act of 2020</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to ensure funding of the United States trustees, extend temporary bankruptcy judgeships, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date />
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4996enr/xml/BILLS-116s4996enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2020-12-09T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4996es/xml/BILLS-116s4996es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Considered and Passed Senate</type>
+        <date>2020-12-09T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4996cps/xml/BILLS-116s4996cps.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-01-12</actionDate>
+      <text>Became Public Law No: 116-325.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1611</billNumber>
+    <createDate>2019-05-23T04:42:06Z</createDate>
+    <updateDate>2021-06-11T22:11:04Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-05-22</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsif16</systemCode>
+              <name>Communications and Technology Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2020-01-10T17:59:38Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2020-01-09T20:19:48Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-12-17T22:27:41Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-07-10T14:00:36Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-22T20:07:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-179</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>DIGIT Act</latestTitle>
+        <congress>116</congress>
+        <number>8115</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-08-25</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-01-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif16</systemCode>
+            <name>Communications and Technology Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Communications and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2020-01-09</actionDate>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2020-01-09</actionDate>
+        <actionTime>12:36:38</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-01-09</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-01-08</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with amendments by Unanimous Consent. (consideration: CR S81-84; text: CR S83-84)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-01-08</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S81-84; text: CR S83-84)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-17</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 375.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-12-17</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. With written report No. 116-179.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-12-17</actionDate>
+        <links />
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. With written report No. 116-179.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-07-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>F000463</bioguideId>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <firstName>Deb</firstName>
+        <middleName />
+        <lastName>Fischer</lastName>
+        <party>R</party>
+        <state>NE</state>
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S001194</bioguideId>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <firstName>Brian</firstName>
+        <middleName />
+        <lastName>Schatz</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000562</bioguideId>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <firstName>Cory</firstName>
+        <middleName />
+        <lastName>Gardner</lastName>
+        <party>R</party>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <middleName>A.</middleName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-08-16T20:29:00Z</pubDate>
+        <title>S. 1611, Developing Innovation and Growing the Internet of Things Act</title>
+        <url>https://www.cbo.gov/publication/55561</url>
+      </item>
+      <item>
+        <pubDate>2019-12-04T17:35:00Z</pubDate>
+        <title>S. 1611, Developing Innovation and Growing the Internet of Things Act</title>
+        <url>https://www.cbo.gov/publication/55915</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Digital media</name>
+          </item>
+          <item>
+            <name>Economic performance and conditions</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Public transit</name>
+          </item>
+          <item>
+            <name>Radio spectrum allocation</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-05-22</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-07-06T18:11:27Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Developing Innovation and Growing the Internet of Things Act or the DIGIT Act</b></p> <p>This bill requires the Department of Commerce to convene a working group of federal stakeholders to provide recommendations regarding the Internet of Things (IoT), and it establishes a steering committee composed of stakeholders outside the federal government to advise the working group. The IoT is a system of interrelated devices connected to a network and each other that exchange data without requiring human interaction (e.g., smart home devices, medical monitoring devices, and wearable fitness trackers).</p> <p>The working group must (1) identify federal laws and regulations, grant practices, budgetary or jurisdictional challenges, and other sector-specific policies that inhibit IoT development; (2) consider policies or programs that encourage and improve coordination among federal agencies with relevant responsibilities; (3) consider implementing recommendations from the steering committee; (4) examine how federal agencies can benefit from, use, prepare for, and secure the IoT; and (5) consult with nongovernmental stakeholders. </p> <p>The steering committee must advise the working group about laws, budgets, spectrum needs, individual privacy, security, small business challenges, and any international proceedings or negotiations affecting the IoT. </p> <p>Lastly, the Federal Communications Commission must (1) seek public comment on the IoT's spectrum needs, regulatory barriers, and growth with licensed and unlicensed spectrum; and (2) submit a summary of those comments to Congress.</p>]]></text>
+          <updateDate>2019-05-22T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2019-12-17</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-07-07T14:32:01Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Developing Innovation and Growing the Internet of Things Act or the DIGIT Act</b></p> <p>This bill requires the Department of Commerce to convene a working group of federal stakeholders to provide recommendations regarding the Internet of Things (IoT), and it establishes a steering committee composed of stakeholders outside the federal government to advise the working group. The IoT is a system of interrelated devices connected to a network and each other that exchange data without requiring human interaction (e.g., smart home devices, medical monitoring devices, and wearable fitness trackers).</p> <p>The working group must (1) identify federal laws and regulations, grant practices, budgetary or jurisdictional challenges, and other sector-specific policies that inhibit IoT development; (2) consider policies or programs that encourage and improve coordination among federal agencies with relevant responsibilities; (3) consider implementing recommendations from the steering committee; (4) examine how federal agencies can benefit from, use, prepare for, and secure the IoT; and (5) consult with nongovernmental stakeholders. </p> <p>The steering committee must advise the working group about laws, budgets, spectrum needs, individual privacy, security, small business challenges, and any international proceedings or negotiations affecting the IoT. </p> <p>Lastly, the Federal Communications Commission must (1) seek public comment on the IoT's spectrum needs, regulatory barriers, and growth with licensed and unlicensed spectrum; and (2) submit a summary of those comments to Congress.</p>]]></text>
+          <updateDate>2019-12-17T14:10:21Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2020-01-08</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-07-07T14:27:46Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Developing Innovation and Growing the Internet of Things Act or the DIGIT Act</b></p> <p>This bill requires the Department of Commerce to convene a working group of federal stakeholders to provide recommendations regarding the Internet of Things (IoT), and it establishes a steering committee composed of stakeholders outside the federal government to advise the working group. The IoT is a system of interrelated devices connected to a network and each other that exchange data without requiring human interaction (e.g., smart home devices, medical monitoring devices, and wearable fitness trackers).</p> <p>The working group must (1) identify federal laws and regulations, grant practices, budgetary or jurisdictional challenges, and other sector-specific policies that inhibit IoT development; (2) consider policies or programs that encourage and improve coordination among federal agencies with relevant responsibilities; (3) consider implementing recommendations from the steering committee; (4) examine how federal agencies can benefit from, use, prepare for, and secure the IoT; and (5) consult with nongovernmental stakeholders. </p> <p>The steering committee must advise the working group about laws, budgets, spectrum needs, individual privacy, security, small business challenges, and any international proceedings or negotiations affecting the IoT. </p> <p>Lastly, the Federal Communications Commission must (1) seek public comment on the IoT's spectrum needs, regulatory barriers, and growth with licensed and unlicensed spectrum; and (2) submit a summary of those comments to Congress.</p>]]></text>
+          <updateDate>2020-01-08T13:55:44Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>DIGIT Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>DIGIT Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Developing Innovation and Growing the Internet of Things Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>DIGIT Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>DIGIT Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Developing Innovation and Growing the Internet of Things Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>DIGIT Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Developing Innovation and Growing the Internet of Things Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to ensure appropriate prioritization, spectrum planning, and interagency coordination to support the Internet of Things.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Referred in House</type>
+        <date>2020-01-09T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1611rfh/xml/BILLS-116s1611rfh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2020-01-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1611es/xml/BILLS-116s1611es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-12-17T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1611rs/xml/BILLS-116s1611rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-05-22T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1611is/xml/BILLS-116s1611is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-01-10</actionDate>
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0375</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

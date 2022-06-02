@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2299</billNumber>
+    <createDate>2019-07-26T04:57:23Z</createDate>
+    <updateDate>2021-06-11T22:00:24Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-07-25</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2020-02-13T20:22:12Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-07-31T14:00:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-25T20:38:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-217</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Leonel Rondon Pipeline Safety Act</latestTitle>
+        <congress>116</congress>
+        <number>2139</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-04-09</actionDate>
+          <text>Referred to the Subcommittee on Energy.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Leonel Rondon Pipeline Safety Act</latestTitle>
+        <congress>116</congress>
+        <number>1097</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-04-09</actionDate>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-08-14</actionDate>
+        <actionTime>14:26:40</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-08-14</actionDate>
+        <actionTime>14:03:58</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-08-11</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-08-06</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5337-5345)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-08-06</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S5337-5345)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-08-06</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>The committee substitute withdrawn by Unanimous Consent. (CR S5354)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-08-06</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S5348-5354)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-02-13</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 427.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2020-02-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-217.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2020-02-13</actionDate>
+        <links />
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-217.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-07-31</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-07-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-07-25</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <amendmentAgreedTo>1</amendmentAgreedTo>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>11</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>F000463</bioguideId>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <firstName>Deb</firstName>
+        <middleName />
+        <lastName>Fischer</lastName>
+        <party>R</party>
+        <state>NE</state>
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>D000622</bioguideId>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <firstName>Tammy</firstName>
+        <middleName />
+        <lastName>Duckworth</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-11-20T14:39:58Z</pubDate>
+        <title>S. 2299, PIPES Act of 2019</title>
+        <url>https://www.cbo.gov/publication/55877</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Accidents</name>
+          </item>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Colorado</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Transportation</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Due process and equal protection</name>
+          </item>
+          <item>
+            <name>Emergency communications systems</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Environmental technology</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Metals</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Pipelines</name>
+          </item>
+          <item>
+            <name>Pollution liability</name>
+          </item>
+          <item>
+            <name>Public utilities and utility rates</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-07-25</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-10-29T17:41:33Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>PIPES Act of 2019</b></p> <p>This bill addresses pipeline safety and infrastructure. It authorizes appropriations through FY2023 for specified pipeline safety programs under the Pipeline Safety Improvement Act of 2002 and related enactments. </p> <p>Among other things, the bill </p> <ul> <li>requires fees for compliance reviews of liquefied natural gas (LNG) facilities;</li> <li>authorizes the establishment of limited safety-enhancing testing programs to evaluate innovative technologies and operational practices testing the safe operation of natural gas or hazardous liquid pipeline facilities;</li> <li>sets forth requirements for idled natural or other gas transmission and hazardous liquid pipelines;</li> <li>updates the standards for LNG facilities;</li> <li>establishes the National Center of Excellence for Liquefied Natural Gas Safety and Training to include a repository of information on best practices relating to LNG operations;</li> <li>requires each distribution integrity plan developed by an operator of a gas distribution pipeline to include the risks from the presence of cast iron pipes and mains and risks that may result from the operation of a low-pressure distribution system; </li> <li>directs operators to establish protocols for communicating with fire, police, and other relevant public officials after a disaster that includes fires, explosions, or one or more fatalities; and</li> <li>requires procedural manuals for operations, maintenance, and emergencies to include certain written procedures.</li> </ul> <ul> </ul>]]></text>
+          <updateDate>2019-07-25T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2020-02-13</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-04-09T18:29:28Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>PIPES Act of 2019</b></p> <p>This bill addresses pipeline safety and infrastructure. It authorizes appropriations through FY2023 for specified pipeline safety programs under the Pipeline Safety Improvement Act of 2002 and related enactments. </p> <p>Among other things, the bill </p> <ul> <li>requires fees for compliance reviews of liquefied natural gas (LNG) facilities;</li> <li>authorizes the establishment of limited safety-enhancing testing programs to evaluate innovative technologies and operational practices testing the safe operation of natural gas or hazardous liquid pipeline facilities;</li> <li>sets forth requirements for idled natural or other gas transmission and hazardous liquid pipelines;</li> <li>updates the standards for LNG facilities;</li> <li>establishes the National Center of Excellence for Liquefied Natural Gas Safety and Training to include a repository of information on best practices relating to LNG operations;</li> <li>requires each distribution integrity plan developed by an operator of a gas distribution pipeline to include the risks from the presence of cast iron pipes and mains and risks that may result from the operation of a low-pressure distribution system; </li> <li>directs operators to establish protocols for communicating with fire, police, and other relevant public officials after a disaster that includes fires, explosions, or one or more fatalities; and</li> <li>requires procedural manuals for operations, maintenance, and emergencies to include certain written procedures.</li> </ul> <ul> </ul>]]></text>
+          <updateDate>2020-02-13T13:55:13Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2020-08-06</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-01-21T14:42:07Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2020 or the</b> <b>PIPES Act of 2020</b></p> <p>TITLE I--IMPROVING PIPELINE SAFETY INFRASTRUCTURE</p> <p>This title addresses pipeline safety and infrastructure with respect to natural gas and hazardous liquid pipelines. It authorizes appropriations through FY2023 for specified pipelines safety programs under the Pipelines Safety Improvement Act of 2002 and related enactments.</p> <p>Among other provisions, the title</p> <ul> <li>requires fees for compliance reviews of liquefied natural gas (LNG) facilities;</li> <li>authorizes the establishment of limited safety-enhancing testing programs to evaluate innovative technologies and operation practices testing the safe operation of natural gas or hazardous liquid pipeline facilities;</li> <li>sets forth requirements for idled natural or other gas transmission and hazardous liquid pipelines;</li> <li>updates the standards for LNG facilities; </li> <li>establishes the National Center of Excellence for Liquefied Natural Gas Safety and Training to include a repository of information on best practices relating to LNG operations;</li> <li>requires advanced leak-detection technologies and practices that include a schedule for repairing or replacing each leaking pipe, except a pipe with a leak so small that it poses no potential hazard, with appropriate deadlines;</li> <li>directs the Department of Transportation (DOT) to finalize a rule on gas gathering lines; and</li> <li>allows the Pipeline and Hazardous Materials Safety Administration to use the Transportation Technology Center in Pueblo, Colorado, for research and development relating to transportation safety improvements that will advance the safe and efficient transportation of hazardous materials and energy products.</li> </ul> <p>TITLE II--LEONEL RONDON PIPELINE SAFETY ACT</p> <p><i>Leonel Rondon Pipeline Safety Act</i></p> <p>This title addresses pipeline safety with respect to gas distribution systems.</p> <p>Among other provisions, the title directs DOT to require</p> <ul> <li>each distribution integrity plan developed by an operator of a gas distribution pipeline to include the risks from the presence of cast iron pipes and mains and risks that may result from the operation of a low-pressure distribution system; </li> <li>operators to establish protocols for communicating with fire, police, and other relevant public officials after a disaster that includes fires, explosions, or one or more fatalities; </li> <li>procedural manuals for operations, maintenance, and emergencies to include certain written procedures;</li> <li>operators to identify and manage traceable, reliable, and complete, records that are critical to ensuring proper pressure control for a gas distribution system; and</li> <li>the development of standards that promote sufficient staffing for monitoring and regulating gas pressure levels by each operator.</li> </ul>]]></text>
+          <updateDate>2020-08-06T12:04:50Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>PIPES Act of 2020</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Leonel Rondon Pipeline Safety Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>PIPES Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>PIPES Act of 2019</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Leonel Rondon Pipeline Safety Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>PIPES Act of 2020</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>PIPES Act of 2020</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2020</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate for portions of this bill</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Leonel Rondon Pipeline Safety Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend title 49, United States Code, to enhance the safety and reliability of pipeline transportation, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>2642</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-08-06</actionDate>
+          <text>Amendment SA 2642 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <number>2642</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-08-07T05:01:45Z</createDate>
+        <updateDate>2021-06-11T22:00:24Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>W000437</bioguideId>
+            <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+            <firstName>ROGER</firstName>
+            <middleName>F.</middleName>
+            <lastName>WICKER</lastName>
+            <party>R</party>
+            <state>MS</state>
+            <identifiers>
+              <lisID>1226</lisID>
+              <bioguideId>W000437</bioguideId>
+              <gpoId>8263</gpoId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate>2020-08-06T04:00:00Z</proposedDate>
+        <submittedDate>2020-08-06T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>2299</number>
+          <title>PIPES Act of 2020</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2020-08-06</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2642 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-08-06</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2642 proposed by Senator McConnell for Senator Wicker. (consideration: CR S5354; text: CR S5337-5345) In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-08-06</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-08-06</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-08-06</actionDate>
+              <links />
+              <text>Senate amendment proposed (on the floor): Amendment SA 2642 proposed by Senator McConnell for Senator Wicker.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-08-06</actionDate>
+              <links />
+              <text>Senate amendment agreed to: Amendment SA 2642 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2020-08-06T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2299es/xml/BILLS-116s2299es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2020-02-13T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2299rs/xml/BILLS-116s2299rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-07-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2299is/xml/BILLS-116s2299is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-08-14</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>14:26:40</actionTime>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0427</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

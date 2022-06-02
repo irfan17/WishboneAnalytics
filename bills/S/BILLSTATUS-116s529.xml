@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>529</billNumber>
+    <createDate>2019-02-15T12:40:21Z</createDate>
+    <updateDate>2021-06-23T23:41:38Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-02-14</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-12-05T17:50:07Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-04-03T13:30:02Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-14T22:33:42Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-165</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>National Landslide Preparedness Act</latestTitle>
+        <congress>116</congress>
+        <number>1261</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-06-04</actionDate>
+          <text>Received in the Senate.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>National Landslide Preparedness Act</latestTitle>
+        <congress>116</congress>
+        <number>8810</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-01-05</actionDate>
+          <text>Became Public Law No: 116-323.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-08-07</actionDate>
+        <actionTime>10:53:39</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-08-07</actionDate>
+        <actionTime>10:02:56</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-08-04</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-07-30</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-07-30</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-30</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>The committee substitute as amended agreed to by Unanimous Consent. (text: CR S4644-4647)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-07-30</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S4644-4647)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-12-05</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 315.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-12-05</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-165.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-12-05</actionDate>
+        <links />
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-165.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-14</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <amendmentAgreedTo>1</amendmentAgreedTo>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>11</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C000127</bioguideId>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <firstName>MARIA</firstName>
+        <middleName />
+        <lastName>CANTWELL</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <lisID>172</lisID>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <middleName />
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000562</bioguideId>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <firstName>Cory</firstName>
+        <middleName />
+        <lastName>Gardner</lastName>
+        <party>R</party>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>RON</firstName>
+        <middleName />
+        <lastName>WYDEN</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>DIANNE</firstName>
+        <middleName />
+        <lastName>FEINSTEIN</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001198</bioguideId>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <firstName>Dan</firstName>
+        <middleName />
+        <lastName>Sullivan</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-05-02T20:11:22Z</pubDate>
+        <title>S. 529, National Landslide Preparedness Act</title>
+        <url>https://www.cbo.gov/publication/55201</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>American Samoa</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Earth sciences</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Floods and storm protection</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Geography and mapping</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Guam</name>
+          </item>
+          <item>
+            <name>Marshall Islands</name>
+          </item>
+          <item>
+            <name>Northern Mariana Islands</name>
+          </item>
+          <item>
+            <name>Palau</name>
+          </item>
+          <item>
+            <name>Puerto Rico</name>
+          </item>
+          <item>
+            <name>U.S. territories and protectorates</name>
+          </item>
+          <item>
+            <name>Virgin Islands</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-14</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-04-02T14:22:11Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>National Landslide Preparedness Act</strong></p> <p>This bill directs the U.S. Geological Survey (USGS) to establish a National Landslide Hazards Reduction Program to identify and understand landslide hazards and risks, reduce losses from landslides, protect communities at risk of landslide hazards, and help improve communication and emergency preparedness.</p> <p>The USGS shall, among other things</p> <ul> <li> develop and publish a national strategy for landslide hazards, risk reduction, and response in the United States (including territories);</li> <li> develop and maintain a publicly accessible national landslide hazard and risk inventory database;</li> <li> expand the early warning system for debris flow; and</li> <li> establish emergency response procedures for the rapid deployment of federal scientists, equipment, and services to areas impacted by a significant landslide event.</li> </ul> <p>The USGS may provide grants to research, map, assess, and collect data on landslide hazards. </p> <p>The National Science Foundation may provide grants to eligible entities for landslide research. </p> <p>The USGS (1) shall establish the 3D Elevation Program and the 3D Elevation Federal Interagency Coordinating Committee, and (2) may make grants and enter into cooperative agreements to facilitate the improvement of nationwide coverage of 3D elevation data.</p>]]></text>
+          <updateDate>2019-02-14T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2019-12-05</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-01-06T18:58:15Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>National Landslide Preparedness Act</strong></p> <p>This bill directs the U.S. Geological Survey (USGS) to establish a National Landslide Hazards Reduction Program to identify and understand landslide hazards and risks, reduce losses from landslides, protect communities at risk of landslide hazards, and help improve communication and emergency preparedness.</p> <p>The USGS shall, among other things</p> <ul> <li> develop and publish a national strategy for landslide hazards, risk reduction, and response in the United States (including territories);</li> <li> develop and maintain a publicly accessible national landslide hazard and risk inventory database;</li> <li> expand the early warning system for debris flow; and</li> <li> establish emergency response procedures for the rapid deployment of federal scientists, equipment, and services to areas impacted by a significant landslide event.</li> </ul> <p>The USGS may provide grants to research, map, assess, and collect data on landslide hazards. </p> <p>The National Science Foundation may provide grants to eligible entities for landslide research. </p> <p>The USGS (1) shall establish the 3D Elevation Program and the 3D Elevation Federal Interagency Coordinating Committee, and (2) may make grants and enter into cooperative agreements to facilitate the improvement of nationwide coverage of 3D elevation data.</p>]]></text>
+          <updateDate>2019-12-05T17:15:42Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2020-07-30</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-01-12T16:43:09Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>National Landslide Preparedness Act</strong></p> <p>This bill directs the U.S. Geological Survey (USGS) to establish a National Landslide Hazards Reduction Program to identify and understand landslide hazards and risks, reduce losses from landslides, protect communities at risk of landslide hazards, and help improve communication and emergency preparedness.</p> <p>The USGS shall, among other things</p> <ul> <li> develop and publish a national strategy for landslide hazards, risk reduction, and response in the United States (including territories);</li> <li> develop and maintain a publicly accessible national landslide hazard and risk inventory database;</li> <li> expand the early warning system for debris flow; and</li> <li> establish emergency response procedures for the rapid deployment of federal scientists, equipment, and services to areas impacted by a significant landslide event.</li> </ul> <p>The USGS may provide grants to research, map, assess, and collect data on landslide hazards. </p> <p>The National Science Foundation may provide grants to eligible entities for landslide research. </p> <p>The USGS (1) shall establish the 3D Elevation Program and the 3D Elevation Federal Interagency Coordinating Committee, and (2) may make grants and enter into cooperative agreements to facilitate the improvement of nationwide coverage of 3D elevation data.</p>]]></text>
+          <updateDate>2020-07-30T11:41:38Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>National Landslide Preparedness Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>National Landslide Preparedness Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>National Landslide Preparedness Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>National Landslide Preparedness Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to establish a national program to identify and reduce losses from landslide hazards, to establish a national 3D Elevation Program, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>National Landslide Preparedness Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>2500</number>
+        <description />
+        <purpose>To improve the authorizations of appropriations.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-07-30</actionDate>
+          <text>Amendment SA 2500 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <number>2500</number>
+        <description />
+        <purpose>To improve the authorizations of appropriations.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-07-31T04:31:12Z</createDate>
+        <updateDate>2021-06-11T21:58:05Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>C000127</bioguideId>
+            <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+            <firstName>MARIA</firstName>
+            <middleName />
+            <lastName>CANTWELL</lastName>
+            <party>D</party>
+            <state>WA</state>
+            <identifiers>
+              <lisID>172</lisID>
+              <bioguideId>C000127</bioguideId>
+              <gpoId>8288</gpoId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate>2020-07-30T04:00:00Z</proposedDate>
+        <submittedDate>2020-07-30T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>529</number>
+          <title>National Landslide Preparedness Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2020-07-30</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2500 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-07-30</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2500 proposed by Senator Sullivan for Senator Cantwell. (consideration: CR S4647; text: CR S4647) To improve the authorizations of appropriations.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-07-30</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-07-30</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-07-30</actionDate>
+              <links />
+              <text>Senate amendment proposed (on the floor): Amendment SA 2500 proposed by Senator Sullivan for Senator Cantwell.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-07-30</actionDate>
+              <links />
+              <text>Senate amendment agreed to: Amendment SA 2500 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2020-07-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s529es/xml/BILLS-116s529es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-12-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s529rs/xml/BILLS-116s529rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-02-14T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s529is/xml/BILLS-116s529is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-08-07</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>10:53:39</actionTime>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0315</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

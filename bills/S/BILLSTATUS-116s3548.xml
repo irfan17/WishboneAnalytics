@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>3548</billNumber>
+    <createDate>2020-03-20T04:27:08Z</createDate>
+    <updateDate>2021-06-11T22:01:54Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2020-03-19</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sssb00</systemCode>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2020-06-03T19:26:43Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2020-03-19T21:08:26Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Restoring Access to Medication Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>1922</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-12-18</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 559.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>To amend the Internal Revenue Code of 1986 to clarify that payment of taxes on deferred foreign income in installments shall not prevent credit or refund of overpayments or increase estimated taxes.</latestTitle>
+        <congress>116</congress>
+        <number>2985</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-05-23</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Primary Care Enhancement Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>3708</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-10-23</actionDate>
+          <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>DISARM Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>4100</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-07-31</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>To amend the Internal Revenue Code of 1986 to restore the limitation on downward attribution of stock ownership in applying the constructive ownership rules to controlled foreign corporations, and for other purposes.</latestTitle>
+        <congress>116</congress>
+        <number>4509</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-09-26</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Healthy Start Reauthorization Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>4801</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-03-11</actionDate>
+          <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>United States Public Health Service Modernization Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>4870</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-10-29</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Isaiah Baker and Margie Harris-Austin Act</latestTitle>
+        <congress>116</congress>
+        <number>5443</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-12-17</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>NOVEL Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>2326</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-07-30</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>A bill to amend the Internal Revenue Code of 1986 to restore the limitation on downward attribution of stock ownership in applying the constructive ownership rules to controlled foreign corporations, and for other purposes.</latestTitle>
+        <congress>116</congress>
+        <number>2589</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-09-26</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Healthy Start Reauthorization Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>2619</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-11-05</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 288.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>United States Public Health Service Modernization Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>2629</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-01-14</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Primary Care Enhancement Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>2999</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-12-09</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Ensuring Access to Direct Support Professionals Act</latestTitle>
+        <congress>116</congress>
+        <number>3220</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-01-21</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>‘Protecting Jessica Grubb’s Legacy Act'</latestTitle>
+        <congress>116</congress>
+        <number>3374</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-03-03</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Improving Care in Rural America Reauthorization Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>3437</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-03-11</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>CARES Act</latestTitle>
+        <congress>116</congress>
+        <number>748</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-07-23</actionDate>
+          <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>R–DOCS Reauthorization Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>3438</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-03-11</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Preventing Essential Medical Device Shortages Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>3468</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-03-12</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Good Samaritan Health Professionals Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>6283</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-03-13</actionDate>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Rapid Coverage for Coronavirus Vaccines Act</latestTitle>
+        <congress>116</congress>
+        <number>3505</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-03-17</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Commission on America's Medical Security Act</latestTitle>
+        <congress>116</congress>
+        <number>6282</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-03-13</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>COVID–19 National Service Response Act</latestTitle>
+        <congress>116</congress>
+        <number>6315</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-03-23</actionDate>
+          <text>Referred to the House Committee on Education and Labor.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Commission on America’s Medical Security Act</latestTitle>
+        <congress>116</congress>
+        <number>3478</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-03-12</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S1743)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Tax Filing Relief for America Act</latestTitle>
+        <congress>116</congress>
+        <number>3535</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-03-19</actionDate>
+          <text>Read twice and referred to the Committee on Finance. (text: CR S1834)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Telehealth Expansion Act</latestTitle>
+        <congress>116</congress>
+        <number>3539</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-03-19</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-06-03</actionDate>
+        <committees>
+          <item>
+            <systemCode>sssb00</systemCode>
+            <name>Small Business and Entrepreneurship Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2020-03-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (text: CR S1834-1859)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2020-03-19</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M000355</bioguideId>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <firstName>MITCH</firstName>
+        <middleName />
+        <lastName>MCCONNELL</lastName>
+        <party>R</party>
+        <state>KY</state>
+        <identifiers>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>A000360</bioguideId>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <firstName>Lamar</firstName>
+        <middleName />
+        <lastName>Alexander</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <lisID>1695</lisID>
+          <bioguideId>A000360</bioguideId>
+          <gpoId>8304</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-03-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C000880</bioguideId>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <firstName>MICHAEL</firstName>
+        <middleName>D.</middleName>
+        <lastName>CRAPO</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-03-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <firstName>CHARLES</firstName>
+        <middleName>ERNEST</middleName>
+        <lastName>GRASSLEY</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-03-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <middleName />
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-03-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S000320</bioguideId>
+        <fullName>Sen. Shelby, Richard C. [R-AL]</fullName>
+        <firstName>RICHARD</firstName>
+        <middleName>CRAIG</middleName>
+        <lastName>SHELBY</lastName>
+        <party>R</party>
+        <state>AL</state>
+        <identifiers>
+          <lisID>1049</lisID>
+          <bioguideId>S000320</bioguideId>
+          <gpoId>8277</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-03-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <firstName>ROGER</firstName>
+        <middleName>F.</middleName>
+        <lastName>WICKER</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-03-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Business education</name>
+          </item>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Charitable contributions</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Corporation for National and Community Service</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Disability and health-based discrimination</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Economic performance and conditions</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Employee leave</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Employment taxes</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal preemption</name>
+          </item>
+          <item>
+            <name>Financial crises and stabilization</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Food and Drug Administration (FDA)</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Foreign and international corporations</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Home and outpatient care</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Housing discrimination</name>
+          </item>
+          <item>
+            <name>Immunology and vaccination</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Minority and disadvantaged businesses</name>
+          </item>
+          <item>
+            <name>Minority education</name>
+          </item>
+          <item>
+            <name>Motor fuels</name>
+          </item>
+          <item>
+            <name>National and community service</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Small Business Administration</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Strategic materials and reserves</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>Taxation of foreign income</name>
+          </item>
+          <item>
+            <name>Temporary and part-time employment</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+          <item>
+            <name>U.S. territories and protectorates</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+          <item>
+            <name>Veterinary medicine and animal diseases</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+          <item>
+            <name>Women in business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-03-19</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-03-20T20:03:04Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Coronavirus Aid, Relief, and Economic Security Act or the CARES Act</strong></p> <p>This bill&nbsp;addresses economic&nbsp;impacts of, and otherwise responds to,&nbsp;the COVID-19&nbsp;(coronavirus) outbreak.</p> <p>The bill authorizes emergency loans to distressed businesses, including air carriers, and&nbsp;suspends certain aviation excise taxes.</p> <p>With respect to small businesses, the bill</p> <ul> <li>establishes, and provides funding for,&nbsp;forgivable bridge loans; and </li> <li>provides additional funding for grants and technical assistance.</li></ul> <p>The bill also provides funding for&nbsp;$1,200 tax rebates&nbsp;to individuals, with additional $500&nbsp;payments per qualifying child. The rebate begins phasing out&nbsp;when&nbsp;incomes exceed $75,000 (or $150,000 for joint filers). </p> <p>The bill establishes limits on requirements for employers to provide paid leave.</p> <p>With respect to taxes, the bill</p> <ul> <li>establishes special rules for certain tax-favored withdrawals from retirement plans; </li> <li>delays due dates for employer payroll taxes and estimated&nbsp;tax payments&nbsp;for corporations; and </li> <li>revises other provisions, including those&nbsp;related to&nbsp;losses, charitable deductions, and business interest.</li></ul> <p>With respect to health care, the bill</p> <ul> <li>provides additional funding for the prevention, diagnosis, and treatment of COVID-19; </li> <li>limits liability for volunteer health care professionals; </li> <li>prioritizes Food and Drug Administration (FDA) review of certain drugs; </li> <li>allows emergency use of certain diagnostic tests that&nbsp;are not approved&nbsp;by the FDA; </li> <li>expands health-insurance coverage for diagnostic testing and requires coverage for preventative services and vaccines; </li> <li>revises other provisions, including those&nbsp;regarding the medical supply chain, the national stockpile, the health care workforce, the Healthy Start program, telehealth services, nutrition services, Medicare, and Medicaid.</li></ul> <p>With respect to education, the bill</p> <ul> <li>temporarily suspends payments for federal student loans; and&nbsp; </li> <li>otherwise revises provisions related to campus-based aid,&nbsp;supplemental educational-opportunity grants,&nbsp;federal work-study, subsidized loans, Pell grants, and foreign institutions.</li></ul> <p>The bill also authorizes the Department of the Treasury&nbsp;to temporarily guarantee money-market funds.</p>]]></text>
+          <updateDate>2020-03-19T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>CARES Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>CARES Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Coronavirus Aid, Relief, and Economic Security Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>COVID-19 Pandemic Education Relief Act of 2020</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Coronavirus Economic Stabilization Act of 2020</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>CARES Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to provide emergency assistance and health care response for individuals, families, and businesses affected by the 2020 coronavirus pandemic.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>1563</number>
+        <description />
+        <purpose>To suspend Federal payroll taxes for 2020.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-03-21</actionDate>
+          <text>Referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>1563</number>
+        <description />
+        <purpose>To suspend Federal payroll taxes for 2020.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-03-22T04:31:15Z</createDate>
+        <updateDate>2021-06-11T22:01:54Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>P000612</bioguideId>
+            <fullName>Sen. Perdue, David [R-GA]</fullName>
+            <firstName>David</firstName>
+            <middleName>Alfred</middleName>
+            <lastName>Perdue</lastName>
+            <party>R</party>
+            <state>GA</state>
+            <identifiers>
+              <lisID>2286</lisID>
+              <bioguideId>P000612</bioguideId>
+              <gpoId />
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>1</totalCount>
+          <currentCount>1</currentCount>
+          <item>
+            <bioguideId>T000476</bioguideId>
+            <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+            <firstName>Thomas</firstName>
+            <middleName>Roland</middleName>
+            <lastName>Tillis</lastName>
+            <party>R</party>
+            <state>NC</state>
+            <identifiers>
+              <lisID>2291</lisID>
+              <bioguideId>T000476</bioguideId>
+              <gpoId />
+            </identifiers>
+            <sponsorshipDate>2020-03-21</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+            <sponsorshipWithdrawnDate />
+          </item>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2020-03-21T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>3548</number>
+          <title>CARES Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>3</count>
+          <actions>
+            <item>
+              <actionDate>2020-03-21</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Referred to the Committee on Finance.</text>
+              <type>IntroReferral</type>
+            </item>
+            <item>
+              <actionDate>2020-03-21</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-03-21</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <referredToCommittee>1</referredToCommittee>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>2</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>1562</number>
+        <description />
+        <purpose>To enhance the 2020 recovery rebates for individuals.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-03-21</actionDate>
+          <text>Referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>1562</number>
+        <description />
+        <purpose>To enhance the 2020 recovery rebates for individuals.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-03-22T04:31:15Z</createDate>
+        <updateDate>2021-06-11T22:01:54Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>H001089</bioguideId>
+            <fullName>Sen. Hawley, Josh  [R-MO]</fullName>
+            <firstName>Josh</firstName>
+            <middleName />
+            <lastName>Hawley</lastName>
+            <party>R</party>
+            <state>MO</state>
+            <identifiers>
+              <lisID>2464</lisID>
+              <bioguideId>H001089</bioguideId>
+              <gpoId />
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2020-03-21T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>3548</number>
+          <title>CARES Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>3</count>
+          <actions>
+            <item>
+              <actionDate>2020-03-21</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Referred to the Committee on Finance.</text>
+              <type>IntroReferral</type>
+            </item>
+            <item>
+              <actionDate>2020-03-21</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-03-21</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <referredToCommittee>1</referredToCommittee>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>2</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>1561</number>
+        <description />
+        <purpose>To amend titles XVIII and XIX of the Social Security Act to provide equal coverage of in vitro specific IgE tests and percutaneous tests for allergies under the Medicare and Medicaid programs.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-03-20</actionDate>
+          <text>Referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>1561</number>
+        <description />
+        <purpose>To amend titles XVIII and XIX of the Social Security Act to provide equal coverage of in vitro specific IgE tests and percutaneous tests for allergies under the Medicare and Medicaid programs.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-03-23T11:10:58Z</createDate>
+        <updateDate>2021-06-11T22:01:54Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>M000934</bioguideId>
+            <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+            <firstName>Jerry</firstName>
+            <middleName />
+            <lastName>Moran</lastName>
+            <party>R</party>
+            <state>KS</state>
+            <identifiers>
+              <lisID>1507</lisID>
+              <bioguideId>M000934</bioguideId>
+              <gpoId>8307</gpoId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2020-03-20T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>3548</number>
+          <title>CARES Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>3</count>
+          <actions>
+            <item>
+              <actionDate>2020-03-20</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Referred to the Committee on Finance.</text>
+              <type>IntroReferral</type>
+            </item>
+            <item>
+              <actionDate>2020-03-20</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-03-20</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <referredToCommittee>1</referredToCommittee>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>2</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2020-03-19T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s3548is/xml/BILLS-116s3548is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-06-03</actionDate>
+      <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

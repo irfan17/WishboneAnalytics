@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2765</billNumber>
+    <createDate>2019-11-01T04:57:39Z</createDate>
+    <updateDate>2021-06-11T22:01:04Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-10-31</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssbu00</systemCode>
+          <name>Budget Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-11-13T17:27:46Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-11-06T19:30:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-10-31T19:54:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-325</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2020-12-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbu00</systemCode>
+            <name>Budget Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>By Senator Enzi from Committee on the Budget filed written report. Report No. 116-325. Additional views filed.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-15</actionDate>
+        <links />
+        <text>By Senator Enzi from Committee on the Budget filed written report. Report No. 116-325. Additional views filed.</text>
+        <type>Committee</type>
+        <actionCode>14900</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssbu00</systemCode>
+            <name>Budget Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-11-13</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 306.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-11-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbu00</systemCode>
+            <name>Budget Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on the Budget. Reported by Senator Enzi with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-11-13</actionDate>
+        <links />
+        <text>Committee on the Budget. Reported by Senator Enzi with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssbu00</systemCode>
+            <name>Budget Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-11-06</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbu00</systemCode>
+            <name>Budget Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on the Budget. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-10-31</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbu00</systemCode>
+            <name>Budget Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Budget.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-10-31</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <committeeFiledReportToAccompany>1</committeeFiledReportToAccompany>
+        <senateCommitteeReportFiledAfterReporting>1</senateCommitteeReportFiledAfterReporting>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>8</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>E000285</bioguideId>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <firstName>MICHAEL</firstName>
+        <middleName>B.</middleName>
+        <lastName>ENZI</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <lisID>1542</lisID>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <middleName />
+        <lastName>Whitehouse</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <firstName>CHARLES</firstName>
+        <middleName>ERNEST</middleName>
+        <lastName>GRASSLEY</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000384</bioguideId>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <firstName>Timothy</firstName>
+        <middleName />
+        <lastName>Kaine</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C000880</bioguideId>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <firstName>MICHAEL</firstName>
+        <middleName>D.</middleName>
+        <lastName>CRAPO</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <firstName>Angus</firstName>
+        <middleName />
+        <lastName>King</lastName>
+        <party>I</party>
+        <state>ME</state>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000359</bioguideId>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <firstName>LINDSEY</firstName>
+        <middleName>O.</middleName>
+        <lastName>GRAHAM</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <lisID>452</lisID>
+          <bioguideId>G000359</bioguideId>
+          <gpoId>8335</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <firstName>Christopher</firstName>
+        <middleName>A.</middleName>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <firstName>John</firstName>
+        <middleName />
+        <lastName>Barrasso</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <firstName>Roy</firstName>
+        <middleName />
+        <lastName>Blunt</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <lisID>1464</lisID>
+          <bioguideId>B000575</bioguideId>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>J000293</bioguideId>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <firstName>Ron</firstName>
+        <middleName />
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000612</bioguideId>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <firstName>David</firstName>
+        <middleName>Alfred</middleName>
+        <lastName>Perdue</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <lisID>2286</lisID>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000393</bioguideId>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <firstName>John</firstName>
+        <middleName>Neely</middleName>
+        <lastName>Kennedy</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <lisID>2303</lisID>
+          <bioguideId>K000393</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <firstName>Kevin</firstName>
+        <middleName />
+        <lastName>Cramer</lastName>
+        <party>R</party>
+        <state>ND</state>
+        <identifiers>
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001310</bioguideId>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+        <firstName>Mike</firstName>
+        <middleName />
+        <lastName>Braun</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <lisID>2462</lisID>
+          <bioguideId>B001310</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001217</bioguideId>
+        <fullName>Sen. Scott, Rick  [R-FL]</fullName>
+        <firstName>Rick</firstName>
+        <middleName />
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2470</lisID>
+          <bioguideId>S001217</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-11-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000805</bioguideId>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <firstName>Mark</firstName>
+        <middleName>R.</middleName>
+        <lastName>Warner</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-11-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <firstName>John</firstName>
+        <middleName />
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-11-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>A000360</bioguideId>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <firstName>Lamar</firstName>
+        <middleName />
+        <lastName>Alexander</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <lisID>1695</lisID>
+          <bioguideId>A000360</bioguideId>
+          <gpoId>8304</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-11-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>E000295</bioguideId>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <firstName>Joni</firstName>
+        <middleName />
+        <lastName>Ernst</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-11-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>F000463</bioguideId>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <firstName>Deb</firstName>
+        <middleName />
+        <lastName>Fischer</lastName>
+        <party>R</party>
+        <state>NE</state>
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-12-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000575</bioguideId>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <firstName>James</firstName>
+        <middleName />
+        <lastName>Lankford</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-12-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000584</bioguideId>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <firstName>James</firstName>
+        <middleName>E.</middleName>
+        <lastName>Risch</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-12-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000594</bioguideId>
+        <fullName>Sen. Loeffler, Kelly [R-GA]</fullName>
+        <firstName>Kelly</firstName>
+        <middleName />
+        <lastName>Loeffler</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <lisID>2474</lisID>
+          <bioguideId>L000594</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-02-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-12-10T22:00:47Z</pubDate>
+        <title>S. 2765, Bipartisan Congressional Budget Reform Act</title>
+        <url>https://www.cbo.gov/publication/55937</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+          <item>
+            <name>Senate Committee on the Budget</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-10-31</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-11-15T18:03:51Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Bipartisan Congressional Budget Reform Act</b></p> <p>This bill makes several modifications to the federal budget process, including the procedures for considering congressional budget resolutions and adjusting the debt limit.</p> <p>Among other modifications, the bill includes provisions that </p> <ul> <li>require biennial congressional budget resolutions, instead of the annual budget resolutions required under current law;</li> <li>retain the existing annual appropriations process;</li> <li>require a budget resolution to specify a target for the ratio of the debt held by the public to the gross domestic product (GDP) for each year covered by the resolution;</li> <li>require the debt-to-GDP target to be enforced using a mandatory reconciliation process that requires deficit reduction legislation to be considered using expedited legislative procedures; </li> <li>provide for automatic adjustments of the debt limit and statutory discretionary spending limits to conform to the levels in the budget resolution;</li> <li>modify the procedures for considering budget resolutions in the Senate;</li> <li>allow budget resolutions that have bipartisan support and meet specified requirements to be considered in the Senate using expedited procedures;</li> <li>rename the Committee on the Budget of the Senate as the Committee on Fiscal Control and the Budget of the Senate; and</li> <li>expand reporting requirements for congressional committees, the Congressional Budget Office, and the Government Accountability Office.</li> </ul>]]></text>
+          <updateDate>2019-10-31T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2019-11-13</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-11-18T19:36:32Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Bipartisan Congressional Budget Reform Act</b></p> <p>This bill makes several modifications to the federal budget process, including the procedures for considering congressional budget resolutions and adjusting the debt limit.</p> <p>Among other modifications, the bill includes provisions that </p> <ul> <li>require biennial congressional budget resolutions, instead of the annual budget resolutions required under current law;</li> <li>retain the existing annual appropriations process;</li> <li>require a budget resolution to specify a target for the ratio of the debt held by the public to the gross domestic product (GDP) for each year covered by the resolution;</li> <li>require the debt-to-GDP target to be enforced using a reconciliation process that requires deficit reduction legislation to be considered using expedited legislative procedures;</li> <li>allow a budget resolution to include the amount of tax expenditures; </li> <li>provide for automatic adjustments of the debt limit and statutory discretionary spending limits to conform to the levels in the budget resolution;</li> <li>modify the procedures for considering budget resolutions in the Senate;</li> <li>allow budget resolutions that have bipartisan support and meet specified requirements to be considered in the Senate using expedited procedures;</li> <li>modify and establish budget points of order that may be raised against legislation;</li> <li>rename the Committee on the Budget of the Senate as the Committee on Fiscal Control and the Budget of the Senate; and</li> <li>expand reporting requirements for congressional committees, the Office of Management and Budget, the Congressional Budget Office, and the Government Accountability Office.</li> </ul>]]></text>
+          <updateDate>2019-11-13T15:34:36Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Bipartisan Congressional Budget Reform Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Bipartisan Congressional Budget Reform Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Bipartisan Congressional Budget Reform Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Bipartisan Congressional Budget Reform Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to improve Federal fiscal controls and the congressional budget process.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-11-13T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2765rs/xml/BILLS-116s2765rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-10-31T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2765is/xml/BILLS-116s2765is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-12-15</actionDate>
+      <text>By Senator Enzi from Committee on the Budget filed written report. Report No. 116-325. Additional views filed.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0306</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

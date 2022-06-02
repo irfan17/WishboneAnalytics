@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1751</billNumber>
+    <createDate>2019-06-06T04:57:17Z</createDate>
+    <updateDate>2021-06-11T21:59:37Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-06-05</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-10-23T15:43:13Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-09-25T14:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-05T22:15:17Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-140</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2019-10-23</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 260.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-10-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. With written report No. 116-140.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-10-23</actionDate>
+        <links />
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. With written report No. 116-140.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-09-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-05</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-06-05</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C000127</bioguideId>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <firstName>MARIA</firstName>
+        <middleName />
+        <lastName>CANTWELL</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <lisID>172</lisID>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-10-30T19:30:26Z</pubDate>
+        <title>S. 1751, Bureau of Reclamation Pumped Storage Hydropower Development Act</title>
+        <url>https://www.cbo.gov/publication/55788</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Water storage</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-06-05</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-01-12T21:10:14Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Bureau of Reclamation Pumped Storage Hydropower Development Act</b></p>  <p class="MsoNormal" style="line-height: normal;">This bill provides the Department of the Interior exclusive authority to develop hydropower facilities in certain instances and contains other related provisions. </p> <p class="MsoNormal" style="line-height: normal;">Specifically, Interior shall have exclusive authority to develop small conduit hydropower using Bureau of Reclamation facilities and pumped storage hydropower that exclusively use bureau reservoirs. Currently, the Federal Energy Regulatory Commission (FERC) also has regulatory authority over some of the bureau infrastructure involved in such projects, so some projects require approval from both Interior and FERC. </p> <p class="MsoNormal" style="line-height: normal;">The bill also imposes various requirements related to certain proposed projects involving specified tribes in Washington State. Before Interior may issue a lease to use power generated from such a project, the parties involved must agree to a study plan that lays out certain information, time lines, and procedures for addressing issues. Such a lease must also meet certain requirements, such as conditions to ensure that the project will not interfere with the tribes' hunting and fishing rights.</p>]]></text>
+          <updateDate>2019-06-05T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2019-10-23</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2021-01-13T16:43:09Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Bureau of Reclamation Pumped Storage Hydropower Development Act</b></p> <p class="MsoNormal" style="line-height: normal;">This bill provides the Department of the Interior exclusive authority to develop hydropower facilities in certain instances and contains other related provisions. </p> <p class="MsoNormal" style="line-height: normal;">Specifically, Interior shall have exclusive authority to develop small conduit hydropower using Bureau of Reclamation facilities and pumped storage hydropower that exclusively use bureau reservoirs. Currently, the Federal Energy Regulatory Commission (FERC) also has regulatory authority over some of the bureau infrastructure involved in such projects, so some projects require approval from both Interior and FERC. </p> <p class="MsoNormal" style="line-height: normal;">The bill also imposes various requirements related to certain proposed projects involving specified tribes in Washington State. Before Interior may issue a lease to use power generated from such a project, the parties involved must agree to a study plan that lays out certain information, time lines, and procedures for addressing issues. Such a lease must also meet certain requirements, such as conditions to ensure that the project will not interfere with the tribes' hunting and fishing rights.</p>]]></text>
+          <updateDate>2019-10-23T13:58:47Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Bureau of Reclamation Pumped Storage Hydropower Development Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Bureau of Reclamation Pumped Storage Hydropower Development Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Bureau of Reclamation Pumped Storage Hydropower Development Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Reclamation Project Act of 1939 to authorize pumped storage hydropower development utilizing multiple Bureau of Reclamation reservoirs.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Bureau of Reclamation Pumped Storage Hydropower Development Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-10-23T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1751rs/xml/BILLS-116s1751rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-06-05T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1751is/xml/BILLS-116s1751is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-10-23</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 260.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0260</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

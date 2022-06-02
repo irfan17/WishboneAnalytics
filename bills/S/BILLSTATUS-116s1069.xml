@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1069</billNumber>
+    <createDate>2019-04-10T04:42:11Z</createDate>
+    <updateDate>2021-06-11T21:58:53Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-04-09</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2020-06-18T20:15:36Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-11-13T15:00:36Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-09T20:14:50Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-234</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Coastal and Great Lakes Communities Enhancement Act</latestTitle>
+        <congress>116</congress>
+        <number>729</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-12-12</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Digital Coast Act</latestTitle>
+        <congress>116</congress>
+        <number>2189</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-11-26</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 256.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <links />
+        <text>Became Public Law No: 116-223.</text>
+        <type>President</type>
+        <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <links />
+        <text>Became Public Law No: 116-223.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>President</type>
+        <actionCode>E30000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-08</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>Floor</type>
+        <actionCode>E20000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-08</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>President</type>
+        <actionCode>28000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-03</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-02</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate agreed to the House amendment to S. 1069 by Unanimous Consent.</text>
+        <type>ResolvingDifferences</type>
+      </item>
+      <item>
+        <actionDate>2020-12-02</actionDate>
+        <links />
+        <text>Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 1069 by Unanimous Consent.</text>
+        <type>NotUsed</type>
+        <actionCode>20500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-02</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S7188)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-11-17</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-11-16</actionDate>
+        <actionTime>16:41:27</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-11-16</actionDate>
+        <actionTime>16:41:23</actionTime>
+        <links />
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5739-5740)</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-11-16</actionDate>
+        <actionTime>16:41:23</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5739-5740)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-11-16</actionDate>
+        <actionTime>16:31:57</actionTime>
+        <links />
+        <text>DEBATE - The House proceeded with forty minutes of debate on S. 1069.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-11-16</actionDate>
+        <actionTime>16:31:53</actionTime>
+        <links />
+        <text>Considered under suspension of the rules. (consideration: CR H5739-5741)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-11-16</actionDate>
+        <actionTime>16:31:07</actionTime>
+        <links />
+        <text>Mr. Huffman moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <actionTime>14:28:30</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <actionTime>14:11:30</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-09-30</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Voice Vote. (consideration: CR S6000)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-09-30</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-06-18</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 481.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2020-06-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-234.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2020-06-18</actionDate>
+        <links />
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-234.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-11-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-04-09</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <publicLawOrPrivateLaw>1</publicLawOrPrivateLaw>
+        <becamePublicLaw>2</becamePublicLaw>
+        <signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>1</signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>
+        <presentedToPresident>2</presentedToPresident>
+        <sentToHouse>2</sentToHouse>
+        <senateAgreedFreeText>1</senateAgreedFreeText>
+        <resolvingDifferencesSenateActions>1</resolvingDifferencesSenateActions>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <messageOnHouseAction>1</messageOnHouseAction>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <considerationByHouse>1</considerationByHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>14</senate>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001230</bioguideId>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <firstName>Tammy</firstName>
+        <middleName />
+        <lastName>Baldwin</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <middleName />
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C000127</bioguideId>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <firstName>MARIA</firstName>
+        <middleName />
+        <lastName>CANTWELL</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <lisID>172</lisID>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001198</bioguideId>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <firstName>Dan</firstName>
+        <middleName />
+        <lastName>Sullivan</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <middleName />
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-11-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-11-18T20:22:03Z</pubDate>
+        <title>S. 1069, Digital Coast Act</title>
+        <url>https://www.cbo.gov/publication/55864</url>
+      </item>
+    </cboCostEstimates>
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>116-223</number>
+      </item>
+    </laws>
+    <notes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Broadcasting, cable, digital technologies</name>
+          </item>
+          <item>
+            <name>Department of Commerce</name>
+          </item>
+          <item>
+            <name>Earth sciences</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Geography and mapping</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>U.S. territories and protectorates</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-04-09</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-05-13T15:20:01Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Digital Coast Act</b></p> <p>This bill provides statutory authority for and revises the National Oceanic and Atmospheric Administration's (NOAA's) Digital Coast program. (The program currently exists under NOAA to provide data, tools, and training that communities use to manage their coastal resources.)</p> <p>NOAA must focus on filling data needs and gaps for critical coastal management issues and support continued improvement in existing efforts to coordinate the acquisition and integration of key data sets needed for coastal management.</p> <p>NOAA may enter into financial agreements and collect fees to carry out the program.</p>]]></text>
+          <updateDate>2019-04-09T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2020-06-18</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-07-16T18:18:05Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Digital Coast Act</b></p> <p>This bill provides statutory authority for and revises the National Oceanic and Atmospheric Administration's (NOAA's) Digital Coast program. (The program currently exists under NOAA to provide data, tools, and training that communities use to manage their coastal resources.)</p> <p>NOAA must focus on filling data needs and gaps for critical coastal management issues and support continued improvement in existing efforts to coordinate the acquisition and integration of key data sets needed for coastal management.</p> <p>NOAA may enter into financial agreements and collect fees to carry out the program.</p>]]></text>
+          <updateDate>2020-06-18T11:30:21Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2020-09-30</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-11-16T15:07:47Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Digital Coast Act</b></p> <p>This bill provides statutory authority for and revises the National Oceanic and Atmospheric Administration's (NOAA's) Digital Coast program. (The program currently exists under NOAA to provide data, tools, and training that communities use to manage their coastal resources.)</p> <p>NOAA must focus on filling data needs and gaps for critical coastal management issues and support continued improvement in existing efforts to coordinate the acquisition and integration of key data sets needed for coastal management.</p> <p>NOAA may enter into financial agreements and collect fees to carry out the program.</p> <p>Additionally, NOAA may establish publicly available tools that track ocean and Great Lakes economy data for each coastal state.</p>]]></text>
+          <updateDate>2020-09-30T13:17:45Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+        <item>
+          <versionCode>53</versionCode>
+          <actionDate>2020-11-16</actionDate>
+          <actionDesc>Passed House</actionDesc>
+          <lastSummaryUpdateDate>2020-11-19T19:48:43Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Digital Coast Act</b></p> <p>This bill provides statutory authority for and revises the National Oceanic and Atmospheric Administration's (NOAA's) Digital Coast program. (The program currently exists under NOAA to provide data, tools, and training that communities use to manage their coastal resources.)</p> <p>NOAA must focus on filling data needs and gaps for critical coastal management issues and support continued improvement in existing efforts to coordinate the acquisition and integration of key data sets needed for coastal management.</p> <p>NOAA may enter into financial agreements and collect fees to carry out the program.</p> <p>Additionally, NOAA may establish publicly available tools that track ocean and Great Lakes economy data for each coastal state.</p>]]></text>
+          <updateDate>2020-11-16T14:29:57Z</updateDate>
+          <name>Passed House</name>
+        </item>
+        <item>
+          <versionCode>74</versionCode>
+          <actionDate>2020-12-02</actionDate>
+          <actionDesc>Senate agreed to House amendment</actionDesc>
+          <lastSummaryUpdateDate>2020-12-07T16:15:44Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Digital Coast Act</b></p> <p>This bill provides statutory authority for and revises the National Oceanic and Atmospheric Administration's (NOAA's) Digital Coast program. (The program currently exists under NOAA to provide data, tools, and training that communities use to manage their coastal resources.)</p> <p>NOAA must focus on filling data needs and gaps for critical coastal management issues and support continued improvement in existing efforts to coordinate the acquisition and integration of key data sets needed for coastal management.</p> <p>NOAA may enter into financial agreements and collect fees to carry out the program.</p> <p>Additionally, NOAA may establish publicly available tools that track ocean and Great Lakes economy data for each coastal state.</p>]]></text>
+          <updateDate>2020-12-02T15:23:32Z</updateDate>
+          <name>Senate agreed to House amendment</name>
+        </item>
+        <item>
+          <versionCode>49</versionCode>
+          <actionDate>2020-12-18</actionDate>
+          <actionDesc>Public Law</actionDesc>
+          <lastSummaryUpdateDate>2021-01-05T19:10:20Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Digital Coast Act</b></p> <p>This bill provides statutory authority for and revises the National Oceanic and Atmospheric Administration's (NOAA's) Digital Coast program. (The program currently exists under NOAA to provide data, tools, and training that communities use to manage their coastal resources.)</p> <p>NOAA must focus on filling data needs and gaps for critical coastal management issues and support continued improvement in existing efforts to coordinate the acquisition and integration of key data sets needed for coastal management.</p> <p>NOAA may enter into financial agreements and collect fees to carry out the program.</p> <p>Additionally, NOAA may establish publicly available tools that track ocean and Great Lakes economy data for each coastal state.</p>]]></text>
+          <updateDate>2020-12-19T04:59:58Z</updateDate>
+          <name>Public Law</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Digital Coast Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Digital Coast Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Digital Coast Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Other Short Titles</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Digital Coast Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Digital Coast Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Digital Coast Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to require the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, to establish a constituent-driven program to provide a digital information platform capable of efficiently integrating coastal data with decision-support tools, training, and best practices and to support collection of priority coastal geospatial data to inform and improve local, State, regional, and Federal capacities to manage the coastal region, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Digital Coast Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date />
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1069enr/xml/BILLS-116s1069enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed Amendment House</type>
+        <date>2020-11-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1069eah/xml/BILLS-116s1069eah.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2020-10-01T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1069es/xml/BILLS-116s1069es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2020-06-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1069rs/xml/BILLS-116s1069rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-04-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1069is/xml/BILLS-116s1069is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-12-18</actionDate>
+      <text>Became Public Law No: 116-223.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0481</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

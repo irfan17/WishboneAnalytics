@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>715</billNumber>
+    <createDate>2019-03-08T05:42:07Z</createDate>
+    <updateDate>2021-06-11T21:58:20Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2019-03-07</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-09-10T15:24:54Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-07-16T14:00:12Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-07T20:11:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-80</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Smart Manufacturing Leadership Act</latestTitle>
+        <congress>116</congress>
+        <number>1633</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-03-08</actionDate>
+          <text>Referred to the Subcommittee on Energy.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-09-10</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 183.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-09-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 116-80.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-09-10</actionDate>
+        <links />
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 116-80.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-07-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001181</bioguideId>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <middleName />
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>A000360</bioguideId>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <firstName>Lamar</firstName>
+        <middleName />
+        <lastName>Alexander</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <lisID>1695</lisID>
+          <bioguideId>A000360</bioguideId>
+          <gpoId>8304</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H001076</bioguideId>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <firstName>Margaret</firstName>
+        <middleName>Wood</middleName>
+        <lastName>Hassan</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-08-26T18:12:21Z</pubDate>
+        <title>S. 715, Smart Manufacturing Leadership Act</title>
+        <url>https://www.cbo.gov/publication/55579</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Competitiveness, trade promotion, trade deficits</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Industrial facilities</name>
+          </item>
+          <item>
+            <name>Industrial policy and productivity</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Materials</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-03-07</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-04-06T19:37:57Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Smart Manufacturing Leadership Act</b></p> <p>This bill addresses the productivity and energy efficiency of the manufacturing sector as well as the development of smart manufacturing technologies (certain advanced technologies in information, automation, monitoring, computation, sensing, modeling, and networking).</p> <p>The Department of Energy (DOE) must complete a national plan for smart manufacturing technology development and deployment to improve the productivity and energy efficiency of the U.S. manufacturing sector. DOE must revise the plan biennially to account for advancements in information and communication technology and manufacturing needs.</p> <p>DOE may make grants to states for supporting the implementation of smart manufacturing technologies. States must use those grants to (1) provide access to shared supercomputing facilities to small- and medium-sized manufacturers, (2) fund research and development of transformational manufacturing processes and materials technology that advance smart manufacturing, and (3) provide tools and training to aid the adoption of energy management systems and implement smart manufacturing technologies in the manufacturers' facilities.</p> <p>DOE must expand the scope of technologies covered by Industrial Assessment Centers to (1) include smart manufacturing technologies and practices, and (2) equip the centers' directors with the training and tools necessary to provide technical assistance in smart manufacturing technologies and practices.</p> <p> DOE must (1) study how it can increase access to existing high-performance computing resources in the National Laboratories, and (2) facilitate access to the laboratories by small- and medium-sized manufacturers.</p>]]></text>
+          <updateDate>2019-03-07T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2019-09-10</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-05-20T18:23:54Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Smart Manufacturing Leadership Act</b></p> <p>This bill addresses the productivity and energy efficiency of the manufacturing sector as well as the development of smart manufacturing technologies (certain advanced technologies in information, automation, monitoring, computation, sensing, modeling, and networking).</p> <p>The Department of Energy (DOE) must complete a national plan for smart manufacturing technology development and deployment to improve the productivity and energy efficiency of the U.S. manufacturing sector. DOE must revise the plan biennially to account for advancements in information and communication technology and manufacturing needs.</p> <p>DOE may make grants to states for supporting the implementation of smart manufacturing technologies. States must use those grants to (1) provide access to shared supercomputing facilities to small- and medium-sized manufacturers, (2) fund research and development of transformational manufacturing processes and materials technology that advance smart manufacturing, and (3) provide tools and training to aid the adoption of energy management systems and implement smart manufacturing technologies in the manufacturers' facilities.</p> <p>DOE must expand the scope of technologies covered by Industrial Assessment Centers to (1) include smart manufacturing technologies and practices, and (2) equip the centers' directors with the training and tools necessary to provide technical assistance in smart manufacturing technologies and practices.</p> <p> DOE must (1) study how it can increase access to existing high-performance computing resources in the National Laboratories, and (2) facilitate access to the laboratories by small- and medium-sized manufacturers.</p>]]></text>
+          <updateDate>2019-09-10T13:08:24Z</updateDate>
+          <name>Reported to Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Smart Manufacturing Leadership Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Smart Manufacturing Leadership Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Smart Manufacturing Leadership Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to improve the productivity and energy efficiency of the manufacturing sector by directing the Secretary of Energy, in coordination with the National Academies and other appropriate Federal agencies, to develop a national smart manufacturing plan and to provide assistance to small- and medium-sized manufacturers in implementing smart manufacturing programs, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Smart Manufacturing Leadership Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-09-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s715rs/xml/BILLS-116s715rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-03-07T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s715is/xml/BILLS-116s715is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-09-10</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 183.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0183</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

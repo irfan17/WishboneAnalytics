@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4675</billNumber>
+    <createDate>2020-09-24T04:27:12Z</createDate>
+    <updateDate>2020-12-15T16:29:39Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2020-09-23</introducedDate>
+    <congress>116</congress>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>204</rollNumber>
+        <url>http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&amp;congress=116&amp;session=2&amp;vote=00204</url>
+        <fullActionName>MOTION TO TABLE REJECTED</fullActionName>
+        <chamber>Senate</chamber>
+        <congress>116</congress>
+        <date>2020-10-20T21:23:26Z</date>
+        <sessionNumber>2</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees />
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Pre-existing Conditions Protection Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>692</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-01-25</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Maintaining Protections for Patients with Preexisting Conditions Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>4159</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-08-05</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Protect Act</latestTitle>
+        <congress>116</congress>
+        <number>1125</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-04-10</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Fair Care Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>4796</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-10-05</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Fair Care Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>8527</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-10-02</actionDate>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Labor, the Judiciary, Oversight and Reform, House Administration, Rules, the Budget, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-10-23</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to measure considered in Senate.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-10-20</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to table the motion to proceed to the measure rejected in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 204.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-10-20</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure made in Senate. (CR S6318)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-10-20</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure withdrawn in Senate. (CR S6318)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-10-19</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure made in Senate. (CR S6051)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-10-01</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure made in Senate. (CR S6011)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-09-24</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 554.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2020-09-23</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2020-09-23</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <motionToProceedConsidered>1</motionToProceedConsidered>
+        <motionToTableRejected>1</motionToTableRejected>
+        <motionToConsider>4</motionToConsider>
+        <placedOnCalendarSection>2</placedOnCalendarSection>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>9</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>T000476</bioguideId>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <firstName>Thomas</firstName>
+        <middleName>Roland</middleName>
+        <lastName>Tillis</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Disability and health-based discrimination</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Genetics</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Insurance industry and regulation</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-09-23</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-10-28T17:03:01Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Protect Act</b><br> <br> This bill adds, among other provisions, requirements to the Health Insurance Portability and Accountability Act of 1996 for private health insurance plans with respect to preexisting conditions, guaranteed enrollment, and discrimination based on health-related factors.<br> <br> Specifically, the bill prohibits private health insurance plans from (1) limiting or excluding benefits covering preexisting conditions; (2) denying enrollment to employers or individual applicants, subject to specified limits; (3) establishing rules for eligibility based on an individual's health status; or (4) requiring an individual to a pay higher premium than similarly situated individuals enrolled in the plan based the individual's health status.<br> <br> Additionally, the bill prohibits plans from collecting genetic information in connection with issuing health insurance and provides requirements for workplace wellness programs connected to health insurance.<br> <br> This bill takes effect one day after enactment.</p>]]></text>
+          <updateDate>2020-09-23T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Protect Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType />
+        <title>Protect Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Protect Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Health Insurance Portability and Accountability Act.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>2681</number>
+        <description />
+        <purpose />
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction />
+        <number>2681</number>
+        <description />
+        <purpose />
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-10-22T07:46:11Z</createDate>
+        <updateDate>2020-12-15T16:29:39Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>L000577</bioguideId>
+            <fullName>Sen. Lee, Mike [R-UT]</fullName>
+            <firstName>Mike</firstName>
+            <middleName />
+            <lastName>Lee</lastName>
+            <party>R</party>
+            <state>UT</state>
+            <identifiers>
+              <lisID>2080</lisID>
+              <bioguideId>L000577</bioguideId>
+              <gpoId>8303</gpoId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2020-10-21T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>4675</number>
+          <title>Protect Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2020-10-21</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-10-21</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>1</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Placed on Calendar Senate</type>
+        <date>2020-09-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s4675pcs/xml/BILLS-116s4675pcs.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-10-23</actionDate>
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number />
+      </item>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0554</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

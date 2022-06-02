@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>3608</billNumber>
+    <createDate>2020-05-06T04:27:08Z</createDate>
+    <updateDate>2021-06-11T22:01:57Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2020-05-05</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssap00</systemCode>
+          <name>Appropriations Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2020-05-05T20:28:47Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2020-05-05</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Appropriations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2020-05-05</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>K000393</bioguideId>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <firstName>John</firstName>
+        <middleName>Neely</middleName>
+        <lastName>Kennedy</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <lisID>2303</lisID>
+          <bioguideId>K000393</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M001197</bioguideId>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <firstName>Martha</firstName>
+        <middleName />
+        <lastName>McSally</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-05-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <firstName>John</firstName>
+        <middleName />
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-05-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001198</bioguideId>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <firstName>Dan</firstName>
+        <middleName />
+        <lastName>Sullivan</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-05-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000612</bioguideId>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <firstName>David</firstName>
+        <middleName>Alfred</middleName>
+        <lastName>Perdue</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <lisID>2286</lisID>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2020-09-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001135</bioguideId>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <firstName>RICHARD</firstName>
+        <middleName />
+        <lastName>BURR</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <lisID>153</lisID>
+          <bioguideId>B001135</bioguideId>
+          <gpoId>8286</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-11-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-05-05</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-05-15T21:59:20Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Coronavirus Relief Fund Flexibility for State and Local Government Act</b></p> <p>This bill gives states, Native American tribes, and municipalities more flexibility in the use of funds provided by the Coronavirus Aid, Relief, and Economic Security (CARES) Act.</p> <p>Specifically, the bill permits states, tribes, and municipalities to use such funds for operating expenses not related to COVID-19 (i.e., coronavirus disease 2019). Such funds shall remain available until expended.</p>]]></text>
+          <updateDate>2020-05-05T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Coronavirus Relief Fund Flexibility for State and Local Government Act</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Coronavirus Relief Fund Flexibility for State and Local Government Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Coronavirus Relief Fund Flexibility for State and Local Government Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the CARES Act to provide flexibility in use of funds by States, Indian Tribes, and municipalities.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>1581</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-05-07</actionDate>
+          <text>Referred to the Committee on Appropriations.</text>
+        </latestAction>
+        <number>1581</number>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-05-08T04:31:22Z</createDate>
+        <updateDate>2020-12-15T15:57:31Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>K000393</bioguideId>
+            <fullName>Sen. Kennedy, John [R-LA]</fullName>
+            <firstName>John</firstName>
+            <middleName>Neely</middleName>
+            <lastName>Kennedy</lastName>
+            <party>R</party>
+            <state>LA</state>
+            <identifiers>
+              <lisID>2303</lisID>
+              <bioguideId>K000393</bioguideId>
+              <gpoId />
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>4</totalCount>
+          <currentCount>4</currentCount>
+          <item>
+            <bioguideId>M001197</bioguideId>
+            <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+            <firstName>Martha</firstName>
+            <middleName />
+            <lastName>McSally</lastName>
+            <party>R</party>
+            <state>AZ</state>
+            <identifiers>
+              <lisID>2225</lisID>
+              <bioguideId>M001197</bioguideId>
+              <gpoId />
+            </identifiers>
+            <sponsorshipDate>2020-05-20</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+            <sponsorshipWithdrawnDate />
+          </item>
+          <item>
+            <bioguideId>C001056</bioguideId>
+            <fullName>Sen. Cornyn, John [R-TX]</fullName>
+            <firstName>John</firstName>
+            <middleName />
+            <lastName>Cornyn</lastName>
+            <party>R</party>
+            <state>TX</state>
+            <identifiers>
+              <lisID>1692</lisID>
+              <bioguideId>C001056</bioguideId>
+              <gpoId>8295</gpoId>
+            </identifiers>
+            <sponsorshipDate>2020-05-20</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+            <sponsorshipWithdrawnDate />
+          </item>
+          <item>
+            <bioguideId>S001198</bioguideId>
+            <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+            <firstName>Dan</firstName>
+            <middleName />
+            <lastName>Sullivan</lastName>
+            <party>R</party>
+            <state>AK</state>
+            <identifiers>
+              <lisID>2290</lisID>
+              <bioguideId>S001198</bioguideId>
+              <gpoId />
+            </identifiers>
+            <sponsorshipDate>2020-05-20</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+            <sponsorshipWithdrawnDate />
+          </item>
+          <item>
+            <bioguideId>B001135</bioguideId>
+            <fullName>Sen. Burr, Richard [R-NC]</fullName>
+            <firstName>RICHARD</firstName>
+            <middleName />
+            <lastName>BURR</lastName>
+            <party>R</party>
+            <state>NC</state>
+            <identifiers>
+              <lisID>153</lisID>
+              <bioguideId>B001135</bioguideId>
+              <gpoId>8286</gpoId>
+            </identifiers>
+            <sponsorshipDate>2020-11-30</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+            <sponsorshipWithdrawnDate />
+          </item>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2020-05-07T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>3608</number>
+          <title>Coronavirus Relief Fund Flexibility for State and Local Government Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>3</count>
+          <actions>
+            <item>
+              <actionDate>2020-05-07</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Referred to the Committee on Appropriations.</text>
+              <type>IntroReferral</type>
+            </item>
+            <item>
+              <actionDate>2020-05-07</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-05-07</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <referredToCommittee>1</referredToCommittee>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>2</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2020-05-05T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s3608is/xml/BILLS-116s3608is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-05-05</actionDate>
+      <text>Read twice and referred to the Committee on Appropriations.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
