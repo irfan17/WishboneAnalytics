@@ -51,7 +51,7 @@ ideology_plot <- function(issue1, issue2){
     comb <- merge(i1,i2[,c('names','issue2')], on = 'names')
     ggplot(comb, aes(x = issue1, y = issue2, label = names)) + 
         geom_point(color = ifelse(comb$Party == 'R', 'red', 'blue')) + 
-        theme_classic() + geom_text(size = 3, hjust = 1, vjust = -1) +
+        theme_classic() + geom_text(size = 4, hjust = 1, vjust = -1) +
         ggtitle(paste0('116th Senate, ', issue1, ' vs ',issue2)) +
         xlab(issue1) + ylab(issue2)
 }
