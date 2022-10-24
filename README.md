@@ -1,2 +1,2 @@
-# WishboneAnalytics
-## Principal Component Analysis of Congressional Ideology
+# Principal Component Analysis of Congressional Ideology
+## Wishbone Politics
