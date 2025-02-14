@@ -1,0 +1,65 @@
+---
+title: "Election Maps"
+author: "Irfan Hussain"
+date: "`r Sys.Date()`"
+output:
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Election Map App
+
+## Column {.sidebar}
+--------------------------------------------------
+### Filters
+``` {r echo = F}
+
+selectInput(
+  "state", label = "State",
+  choices = c('ALABAMA','ARIZONA','CALIFORNIA','GEORGIA','MARYLAND'), selected = 'GEORGIA')
+
+```
+
+
+## Column 1 {data-width=750}
+--------------------------------------------------
+### Map
+``` {r echo = F}
+#knitr::include_url("https://wishbonemaps.s3.amazonaws.com/GEORGIA.html", height = "600")
+url <- reactive({
+ paste0("https://wishbonemaps.s3.amazonaws.com/",input$state,".html")
+})
+
+renderUI({
+taglist = list(tags$iframe(
+ src = url(),
+ scrolling = "no",
+ width = "100%",
+ id = 'map',
+ padding = '0px',
+ height= "100%"
+),
+#tags$script(HTML("iFrameResize({log: true}, '#map')")),
+tags$body(
+  padding = '0px'
+))
+})
+
+```
+
+## Column 2 {data-width=250}
+--------------------------------------------------
+### Results
+```{r}
+
+```
+### Map2
+```{r}
+
+```
